@@ -70,7 +70,7 @@ def get_all_author_articles(author_id, api_key, delay=3, max_pages=5, sort_by_da
 def main():
     """Main function"""
     API_KEY = "4208bf0e57fee689890d366d525744e54cf91c1c7dd3606506c8c42ca5dbea41"
-    author_id = "TwMib_QAAAAJ"
+    author_id = "3TMipekAAAAJ"
     
     # Get articles sorted by date (newest first), up to 500 papers (5 pages)
     results = get_all_author_articles(

@@ -34,6 +34,10 @@ except FileNotFoundError:
 # Process papers one by one
 save_interval = 10
 processed_count = 0
+initial_count = len(all_results)  # Record initial count
+last_saved_count = initial_count   # Track count at last save
+
+print(f"Starting with {initial_count} existing results\n")
 
 for idx, paper in enumerate(papers, 1):
     title = paper.get("title", "")
@@ -107,19 +111,68 @@ for idx, paper in enumerate(papers, 1):
     
     # Save every N papers
     if processed_count % save_interval == 0:
+        current_count = len(all_results)
+        expected_count = last_saved_count + save_interval
+        
+        # Safety check: ensure we added exactly save_interval new records
+        if current_count != expected_count:
+            print(f"\n❌ ERROR: Data inconsistency detected!")
+            print(f"   Expected: {expected_count} records (last: {last_saved_count} + interval: {save_interval})")
+            print(f"   Actual: {current_count} records")
+            print(f"   Difference: {current_count - expected_count}")
+            print(f"\n   Stopping to prevent data corruption!")
+            exit(1)
+        
+        # Save to file
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(all_results, f, ensure_ascii=False, indent=2)
+        
+        # Verify the save was successful
+        with open(output_file, 'r', encoding='utf-8') as f:
+            saved_data = json.load(f)
+            if len(saved_data) != current_count:
+                print(f"\n❌ ERROR: File save verification failed!")
+                print(f"   Expected: {current_count} records")
+                print(f"   Saved: {len(saved_data)} records")
+                print(f"\n   Stopping to prevent data corruption!")
+                exit(1)
+        
+        last_saved_count = current_count
+        print(f"   ✓ Saved {current_count} records (verified)")
     
     # Add delay to avoid rate limiting
-    time.sleep(0.5)
+    time.sleep(0.0)
 
 # Final save (ensure all results are saved)
+final_count = len(all_results)
+expected_final = initial_count + processed_count
+
+# Final safety check
+if final_count != expected_final:
+    print(f"\n❌ ERROR: Final data count mismatch!")
+    print(f"   Initial: {initial_count}")
+    print(f"   Processed: {processed_count}")
+    print(f"   Expected: {expected_final}")
+    print(f"   Actual: {final_count}")
+    print(f"\n   Stopping to prevent data corruption!")
+    exit(1)
+
 with open(output_file, 'w', encoding='utf-8') as f:
     json.dump(all_results, f, ensure_ascii=False, indent=2)
+
+# Verify final save
+with open(output_file, 'r', encoding='utf-8') as f:
+    saved_data = json.load(f)
+    if len(saved_data) != final_count:
+        print(f"\n❌ ERROR: Final save verification failed!")
+        print(f"   Expected: {final_count} records")
+        print(f"   Saved: {len(saved_data)} records")
+        exit(1)
 
 print(f"\nSearch completed!")
 print(f"Total processed: {len(all_results)} | Found scholar IDs: {sum(1 for r in all_results if r['scholar_ids'])}")
 print(f"Results saved to: {output_file}")
+print(f"✓ All data integrity checks passed!")
 
 # Extract all unique scholar IDs
 unique_scholar_ids = set()
