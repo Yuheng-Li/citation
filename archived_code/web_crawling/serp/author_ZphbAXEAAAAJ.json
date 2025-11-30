@@ -1,0 +1,482 @@
+{
+  "search_metadata": {
+    "id": "69288e7de22fed9e3ebc2361",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9f97209e5dae0809/69288e7de22fed9e3ebc2361.json",
+    "created_at": "2025-11-27 17:46:37 UTC",
+    "processed_at": "2025-11-27 17:46:37 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?user=ZphbAXEAAAAJ&hl=en&cstart=0&pagesize=100&sortby=pubdate",
+    "raw_html_file": "https://serpapi.com/searches/9f97209e5dae0809/69288e7de22fed9e3ebc2361.html",
+    "total_time_taken": 2.14
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "author_id": "ZphbAXEAAAAJ",
+    "hl": "en",
+    "start": 0,
+    "num": "100",
+    "sort": "pubdate"
+  },
+  "author": {
+    "name": "Yuheng Li",
+    "affiliations": "Adobe Research",
+    "email": "Verified email at adobe.com",
+    "website": "https://yuheng-li.github.io/",
+    "interests": [
+      {
+        "title": "Computer vision",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_vision"
+      },
+      {
+        "title": "Machine learning",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:machine_learning",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning"
+      }
+    ],
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZphbAXEAAAAJ&citpid=1"
+  },
+  "articles": [
+    {
+      "title": "Learning an Image Editing Model without Image Editing Pairs",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:QIV2ME_5wuYC",
+      "citation_id": "ZphbAXEAAAAJ:QIV2ME_5wuYC",
+      "authors": "N Kumari, SY Wang, N Zhao, Y Nitzan, Y Li, KK Singh, R Zhang, ...",
+      "publication": "arXiv preprint arXiv:2510.14978, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:_kc_bZDykSQC",
+      "citation_id": "ZphbAXEAAAAJ:_kc_bZDykSQC",
+      "authors": "CH Yeh, Y Wang, N Zhao, R Zhang, Y Li, Y Ma, KK Singh",
+      "publication": "arXiv preprint arXiv:2507.05259, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "YoChameleon: Personalized Vision and Language Generation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:MXK_kJrjxJIC",
+      "citation_id": "ZphbAXEAAAAJ:MXK_kJrjxJIC",
+      "authors": "T Nguyen, KK Singh, J Shi, T Bui, YJ Lee, Y Li",
+      "publication": "arXiv preprint arXiv:2504.20998, 2025",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17793009958632102328",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17793009958632102328&engine=google_scholar&hl=en",
+        "cites_id": "17793009958632102328"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "X-Fusion: Introducing New Modality to Frozen Large Language Models",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:8k81kl-MbHgC",
+      "citation_id": "ZphbAXEAAAAJ:8k81kl-MbHgC",
+      "authors": "S Mo, T Nguyen, X Huang, SS Iyer, Y Li, Y Liu, A Tandon, E Shechtman, ...",
+      "publication": "arXiv preprint arXiv:2504.20996, 2025",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14978972479167626742",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14978972479167626742&engine=google_scholar&hl=en",
+        "cites_id": "14978972479167626742"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Generating, Fast and Slow: Scalable Parallel Video Generation with Video Interface Networks",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:9ZlFYXVOiuMC",
+      "citation_id": "ZphbAXEAAAAJ:9ZlFYXVOiuMC",
+      "authors": "B Dedhia, D Bourgin, KK Singh, Y Li, Y Kang, Z Xu, NK Jha, Y Liu",
+      "publication": "arXiv preprint arXiv:2503.17539, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Removing Distributional Discrepancies in Captions Improves Image-Text Alignment",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:ULOm3_A8WrAC",
+      "citation_id": "ZphbAXEAAAAJ:ULOm3_A8WrAC",
+      "authors": "Y Li, H Liu, M Cai, Y Li, E Shechtman, Z Lin, YJ Lee, KK Singh",
+      "publication": "European Conference on Computer Vision, 405-422, 2024",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10559307339299683236",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10559307339299683236&engine=google_scholar&hl=en",
+        "cites_id": "10559307339299683236"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Yo'LLaVA: Your Personalized Language and Vision Assistant",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:0EnyYjriUFMC",
+      "citation_id": "ZphbAXEAAAAJ:0EnyYjriUFMC",
+      "authors": "T Nguyen, H Liu, Y Li, M Cai, U Ojha, YJ Lee",
+      "publication": "arXiv preprint arXiv:2406.09400, 2024",
+      "cited_by": {
+        "value": 31,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10311003483729423424",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10311003483729423424&engine=google_scholar&hl=en",
+        "cites_id": "10311003483729423424"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Visual instruction inversion: Image editing via image prompting",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:5nxA0vEk-isC",
+      "citation_id": "ZphbAXEAAAAJ:5nxA0vEk-isC",
+      "authors": "T Nguyen, Y Li, U Ojha, YJ Lee",
+      "publication": "Advances in Neural Information Processing Systems 36, 2024",
+      "cited_by": {
+        "value": 71,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1260405035214767511",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1260405035214767511&engine=google_scholar&hl=en",
+        "cites_id": "1260405035214767511"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "What knowledge gets distilled in knowledge distillation?",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:YsMSGLbcyi4C",
+      "citation_id": "ZphbAXEAAAAJ:YsMSGLbcyi4C",
+      "authors": "U Ojha, Y Li, A Sundara Rajan, Y Liang, YJ Lee",
+      "publication": "Advances in Neural Information Processing Systems 36, 2024",
+      "cited_by": {
+        "value": 48,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15938132398195126726",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15938132398195126726&engine=google_scholar&hl=en",
+        "cites_id": "15938132398195126726"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Edit One for All: Interactive Batch Image Editing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:roLk4NBRz8UC",
+      "citation_id": "ZphbAXEAAAAJ:roLk4NBRz8UC",
+      "authors": "T Nguyen, U Ojha, Y Li, H Liu, YJ Lee",
+      "publication": "arXiv preprint arXiv:2401.10219, 2024",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7145336829500260590",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7145336829500260590&engine=google_scholar&hl=en",
+        "cites_id": "7145336829500260590"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Llavanext: Improved reasoning, ocr, and world knowledge",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:3fE2CSJIrl8C",
+      "citation_id": "ZphbAXEAAAAJ:3fE2CSJIrl8C",
+      "authors": "H Liu, C Li, Y Li, B Li, Y Zhang, S Shen, YJ Lee",
+      "cited_by": {
+        "value": 1421,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14285299635169085279,11389353573881719862,16974631704348421146",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14285299635169085279%2C11389353573881719862%2C16974631704348421146&engine=google_scholar&hl=en",
+        "cites_id": "14285299635169085279,11389353573881719862,16974631704348421146"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Improved baselines with visual instruction tuning",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:_FxGoFyzp5QC",
+      "citation_id": "ZphbAXEAAAAJ:_FxGoFyzp5QC",
+      "authors": "H Liu, C Li, Y Li, YJ Lee",
+      "publication": "arXiv preprint arXiv:2310.03744, 2023",
+      "cited_by": {
+        "value": 3973,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15156480573160081507",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15156480573160081507&engine=google_scholar&hl=en",
+        "cites_id": "15156480573160081507"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Generate anything anywhere in any scene",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:Se3iqnhoufwC",
+      "citation_id": "ZphbAXEAAAAJ:Se3iqnhoufwC",
+      "authors": "Y Li, H Liu, Y Wen, YJ Lee",
+      "publication": "arXiv preprint arXiv:2306.17154, 2023",
+      "cited_by": {
+        "value": 18,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14854585566253260183",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14854585566253260183&engine=google_scholar&hl=en",
+        "cites_id": "14854585566253260183"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:LkGwnXOMwfcC",
+      "citation_id": "ZphbAXEAAAAJ:LkGwnXOMwfcC",
+      "authors": "M Cai, Z Huang, Y Li, H Wang, YJ Lee",
+      "publication": "arXiv preprint arXiv:2306.06094, 2023",
+      "cited_by": {
+        "value": 26,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1199634543208712426",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1199634543208712426&engine=google_scholar&hl=en",
+        "cites_id": "1199634543208712426"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Gligen: Open-set grounded text-to-image generation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:YOwf2qJgpHMC",
+      "citation_id": "ZphbAXEAAAAJ:YOwf2qJgpHMC",
+      "authors": "Y Li, H Liu, Q Wu, F Mu, J Yang, J Gao, C Li, YJ Lee",
+      "publication": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2023",
+      "cited_by": {
+        "value": 1054,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11047031223001120005",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11047031223001120005&engine=google_scholar&hl=en",
+        "cites_id": "11047031223001120005"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Towards universal fake image detectors that generalize across generative models",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:eQOLeE2rZwMC",
+      "citation_id": "ZphbAXEAAAAJ:eQOLeE2rZwMC",
+      "authors": "U Ojha, Y Li, YJ Lee",
+      "publication": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2023",
+      "cited_by": {
+        "value": 498,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18186706517589783113",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18186706517589783113&engine=google_scholar&hl=en",
+        "cites_id": "18186706517589783113"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Delving deeper into anti-aliasing in convnets",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:zYLM7Y9cAGgC",
+      "citation_id": "ZphbAXEAAAAJ:zYLM7Y9cAGgC",
+      "authors": "X Zou, F Xiao, Z Yu, Y Li, YJ Lee",
+      "publication": "International Journal of Computer Vision 131 (1), 67-81, 2023",
+      "cited_by": {
+        "value": 161,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12198029971978445386",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12198029971978445386&engine=google_scholar&hl=en",
+        "cites_id": "12198029971978445386"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Contrastive learning for diverse disentangled foreground generation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:W7OEmFMy1HYC",
+      "citation_id": "ZphbAXEAAAAJ:W7OEmFMy1HYC",
+      "authors": "Y Li, Y Li, J Lu, E Shechtman, YJ Lee, KK Singh",
+      "publication": "European Conference on Computer Vision, 334-351, 2022",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2600148937707290335",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2600148937707290335&engine=google_scholar&hl=en",
+        "cites_id": "2600148937707290335"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "GIRAFFE HD: A High-Resolution 3D-aware Generative Model",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:u-x6o8ySG0sC",
+      "citation_id": "ZphbAXEAAAAJ:u-x6o8ySG0sC",
+      "authors": "Y Xue, Y Li, KK Singh, YJ Lee",
+      "publication": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2022",
+      "cited_by": {
+        "value": 117,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13239651223294689302",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13239651223294689302&engine=google_scholar&hl=en",
+        "cites_id": "13239651223294689302"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Collaging Class-specific GANs for Semantic Image Synthesis",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:9yKSN-GCB0IC",
+      "citation_id": "ZphbAXEAAAAJ:9yKSN-GCB0IC",
+      "authors": "Y Li, Y Li, J Lu, E Shechtman, YJ Lee, KK Singh",
+      "publication": "Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2021",
+      "cited_by": {
+        "value": 49,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14621752711097169651",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14621752711097169651&engine=google_scholar&hl=en",
+        "cites_id": "14621752711097169651"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Partgan: Weakly-supervised part decomposition for image generation and segmentation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:u5HHmVD_uO8C",
+      "citation_id": "ZphbAXEAAAAJ:u5HHmVD_uO8C",
+      "authors": "Y Li, KK Singh, Y Xue, YJ Lee",
+      "publication": "British Machine Vision Conference (BMVC), 2021",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4224642434797935274",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4224642434797935274&engine=google_scholar&hl=en",
+        "cites_id": "4224642434797935274"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Mixnmatch: Multifactor disentanglement and encoding for conditional image generation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:d1gkVwhDpl0C",
+      "citation_id": "ZphbAXEAAAAJ:d1gkVwhDpl0C",
+      "authors": "Y Li, KK Singh, U Ojha, YJ Lee",
+      "publication": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2020",
+      "cited_by": {
+        "value": 107,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14097606698351716973",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14097606698351716973&engine=google_scholar&hl=en",
+        "cites_id": "14097606698351716973"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Dual-mode emission and transmission microscopy for virtual histochemistry using hematoxylin-and eosin-stained tissue sections",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:qjMakFHDy7sC",
+      "citation_id": "ZphbAXEAAAAJ:qjMakFHDy7sC",
+      "authors": "F Fereidouni, A Todd, Y Li, CW Chang, K Luong, A Rosenberg, YJ Lee, ...",
+      "publication": "Biomedical Optics Express 10 (12), 6516-6530, 2019",
+      "cited_by": {
+        "value": 30,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11680622174744083255",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11680622174744083255&engine=google_scholar&hl=en",
+        "cites_id": "11680622174744083255"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Electrostatic precipitation of submicron particles with an enhanced unipolar pre-charger",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZphbAXEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ZphbAXEAAAAJ:2osOgNQ5qMEC",
+      "citation_id": "ZphbAXEAAAAJ:2osOgNQ5qMEC",
+      "authors": "Z Liao, Y Li, X Xiao, C Wang, S Cao, Y Yang",
+      "publication": "Aerosol and Air Quality Research 18 (5), 1141-1147, 2018",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8971276492527888422",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8971276492527888422&engine=google_scholar&hl=en",
+        "cites_id": "8971276492527888422"
+      },
+      "year": "2018"
+    }
+  ],
+  "cited_by": {
+    "table": [
+      {
+        "citations": {
+          "all": 7660,
+          "since_2020": 7654
+        }
+      },
+      {
+        "h_index": {
+          "all": 14,
+          "since_2020": 14
+        }
+      },
+      {
+        "i10_index": {
+          "all": 17,
+          "since_2020": 16
+        }
+      }
+    ],
+    "graph": [
+      {
+        "year": 2021,
+        "citations": 39
+      },
+      {
+        "year": 2022,
+        "citations": 97
+      },
+      {
+        "year": 2023,
+        "citations": 344
+      },
+      {
+        "year": 2024,
+        "citations": 2650
+      },
+      {
+        "year": 2025,
+        "citations": 4486
+      }
+    ]
+  },
+  "public_access": {
+    "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=ZphbAXEAAAAJ",
+    "available": 16,
+    "not_available": 0
+  },
+  "co_authors": [
+    {
+      "name": "Yong Jae Lee",
+      "link": "https://scholar.google.com/citations?user=4GTpCxcAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=4GTpCxcAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+      "author_id": "4GTpCxcAAAAJ",
+      "affiliations": "Professor of Computer Sciences, UW-Madison",
+      "email": "Verified email at wisc.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4GTpCxcAAAAJ&citpid=2"
+    },
+    {
+      "name": "Haotian Liu",
+      "link": "https://scholar.google.com/citations?user=Xo6wfnQAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=Xo6wfnQAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+      "author_id": "Xo6wfnQAAAAJ",
+      "affiliations": "xAI",
+      "email": "Verified email at x.ai",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Xo6wfnQAAAAJ&citpid=1"
+    },
+    {
+      "name": "Krishna Kumar Singh",
+      "link": "https://scholar.google.com/citations?user=3TMipekAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=3TMipekAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+      "author_id": "3TMipekAAAAJ",
+      "affiliations": "Adobe Research",
+      "email": "Verified email at ucdavis.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=3TMipekAAAAJ&citpid=3"
+    },
+    {
+      "name": "Utkarsh Ojha",
+      "link": "https://scholar.google.com/citations?user=QGdSgfoAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=QGdSgfoAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+      "author_id": "QGdSgfoAAAAJ",
+      "affiliations": "University of South Florida",
+      "email": "Verified email at usf.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QGdSgfoAAAAJ&citpid=2"
+    },
+    {
+      "name": "Mu Cai",
+      "link": "https://scholar.google.com/citations?user=euruCPEAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=euruCPEAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+      "author_id": "euruCPEAAAAJ",
+      "affiliations": "Google DeepMind",
+      "email": "Verified email at google.com",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=euruCPEAAAAJ&citpid=3"
+    },
+    {
+      "name": "Xueyan Zou",
+      "link": "https://scholar.google.com/citations?user=eslbQqoAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=eslbQqoAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+      "author_id": "eslbQqoAAAAJ",
+      "affiliations": "PostDoc at UC San Diego",
+      "email": "Verified email at wisc.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=eslbQqoAAAAJ&citpid=3"
+    },
+    {
+      "name": "Thao Nguyen",
+      "link": "https://scholar.google.com/citations?user=P_6-46UAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=P_6-46UAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+      "author_id": "P_6-46UAAAAJ",
+      "affiliations": "University of Wisconsin-Madison",
+      "email": "Verified email at wisc.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=P_6-46UAAAAJ&citpid=18"
+    }
+  ],
+  "_note": "All papers retrieved."
+}
