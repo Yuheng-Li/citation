@@ -8,7 +8,7 @@ import xml.etree.ElementTree as ET
 import time
 import json
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timedelta
 
 
 def fetch_cv_papers(max_results=100, start=0, sort_by='submittedDate', sort_order='descending', 
@@ -60,10 +60,12 @@ def fetch_cv_papers(max_results=100, start=0, sort_by='submittedDate', sort_orde
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
     }
     
-    print(f"正在抓取 arXiv cs.CV 论文...")
-    print(f"参数: max_results={max_results}, start={start}, sort_by={sort_by}")
-    if start_date and end_date:
-        print(f"日期范围: {start_date} 到 {end_date}")
+    # 只在第一批时打印详细信息
+    if start == 0:
+        print(f"正在抓取 arXiv cs.CV 论文...")
+        print(f"参数: max_results={max_results}, sort_by={sort_by}")
+        if start_date and end_date:
+            print(f"日期范围: {start_date} 到 {end_date}")
     
     try:
         response = requests.get(base_url, params=params, headers=headers)
@@ -190,6 +192,48 @@ def fetch_cv_papers(max_results=100, start=0, sort_by='submittedDate', sort_orde
         return []
 
 
+def get_month_ranges(start_date_str, end_date_str):
+    """
+    将日期范围分成每个月
+    
+    Args:
+        start_date_str: 开始日期，格式 'YYYYMMDD'，例如 '20230101'
+        end_date_str: 结束日期，格式 'YYYYMMDD'，例如 '20250531'
+    
+    Returns:
+        月份范围列表，每个元素为 (start_date, end_date) 元组
+    """
+    start_date = datetime.strptime(start_date_str, '%Y%m%d')
+    end_date = datetime.strptime(end_date_str, '%Y%m%d')
+    
+    ranges = []
+    current = start_date
+    
+    while current <= end_date:
+        # 计算当前月的最后一天
+        if current.month == 12:
+            next_month = current.replace(year=current.year + 1, month=1, day=1)
+        else:
+            next_month = current.replace(month=current.month + 1, day=1)
+        
+        month_end = next_month - timedelta(days=1)
+        
+        # 如果结束日期在当前月内，使用结束日期
+        if month_end > end_date:
+            month_end = end_date
+        
+        # 格式化日期
+        month_start_str = current.strftime('%Y%m%d')
+        month_end_str = month_end.strftime('%Y%m%d')
+        
+        ranges.append((month_start_str, month_end_str))
+        
+        # 移动到下个月的第一天
+        current = next_month
+    
+    return ranges
+
+
 def fetch_all_cv_papers_by_date(start_date, end_date, batch_size=2000):
     """
     分页抓取指定日期范围内的所有 cs.CV 论文
@@ -241,6 +285,71 @@ def fetch_all_cv_papers_by_date(start_date, end_date, batch_size=2000):
     return all_papers
 
 
+def fetch_cv_papers_by_date_range(start_date, end_date, batch_size=2000):
+    """
+    抓取指定日期范围内的所有 cs.CV 论文，如果范围超过1个月则自动按月分块
+    
+    Args:
+        start_date: 开始日期，格式 'YYYYMMDD'，例如 '20230101'
+        end_date: 结束日期，格式 'YYYYMMDD'，例如 '20250531'
+        batch_size: 每批抓取的数量（arXiv API 限制最多2000）
+    
+    Returns:
+        所有论文的列表
+    """
+    # 计算日期范围是否超过1个月
+    start_dt = datetime.strptime(start_date, '%Y%m%d')
+    end_dt = datetime.strptime(end_date, '%Y%m%d')
+    
+    # 计算月份差
+    months_diff = (end_dt.year - start_dt.year) * 12 + (end_dt.month - start_dt.month)
+    
+    # 如果超过1个月，按月分块查询
+    if months_diff > 1 or (months_diff == 1 and end_dt.day > start_dt.day):
+        print(f"\n日期范围超过1个月，将按月分块查询...")
+        month_ranges = get_month_ranges(start_date, end_date)
+        print(f"共分成 {len(month_ranges)} 个月份块\n")
+        
+        all_papers = []
+        total_months = len(month_ranges)
+        start_time = time.time()
+        
+        for idx, (month_start, month_end) in enumerate(month_ranges, 1):
+            print(f"\n{'='*80}")
+            progress_pct = (idx / total_months) * 100
+            print(f"处理第 {idx}/{total_months} 个月 ({progress_pct:.1f}%): {month_start} 到 {month_end}")
+            print(f"{'='*80}")
+            
+            month_start_time = time.time()
+            month_papers = fetch_all_cv_papers_by_date(month_start, month_end, batch_size)
+            month_elapsed = time.time() - month_start_time
+            
+            all_papers.extend(month_papers)
+            
+            # 计算预计剩余时间
+            elapsed_total = time.time() - start_time
+            avg_time_per_month = elapsed_total / idx
+            remaining_months = total_months - idx
+            estimated_remaining = avg_time_per_month * remaining_months
+            
+            print(f"\n✅ 本月完成: 抓取 {len(month_papers)} 篇，耗时 {month_elapsed:.1f} 秒")
+            print(f"📊 累计: {len(all_papers)} 篇论文")
+            if remaining_months > 0:
+                print(f"⏱️  预计剩余时间: {estimated_remaining/60:.1f} 分钟 ({estimated_remaining:.0f} 秒)")
+            
+            # 月份之间稍作延迟
+            if idx < len(month_ranges):
+                time.sleep(2)
+        
+        print(f"\n{'='*80}")
+        print(f"所有月份抓取完成，总计 {len(all_papers)} 篇论文")
+        print(f"{'='*80}")
+        return all_papers
+    else:
+        # 单个月份，直接查询
+        return fetch_all_cv_papers_by_date(start_date, end_date, batch_size)
+
+
 def save_papers_to_json(papers, output_file):
     """将论文数据保存为 JSON 文件"""
     output_path = Path(output_file)
@@ -272,15 +381,15 @@ def print_papers_summary(papers, num_to_show=10):
 
 
 if __name__ == "__main__":
-    # 配置参数：抓取2025年1月到5月的所有论文
-    START_DATE = "20250101"  # 2025年1月1日
+    # 配置参数：抓取2023年1月1日到2025年5月31日的所有论文
+    START_DATE = "20230101"  # 2023年1月1日
     END_DATE = "20250531"    # 2025年5月31日
     BATCH_SIZE = 2000        # 每批最多抓取2000篇（arXiv API限制）
     
     # 注意：arXiv API 对单次查询的偏移量有限制（通常最多10000）
-    # 如果论文数量超过10000，需要缩小日期范围分批查询
+    # 如果日期范围超过1个月，会自动按月分块查询以避免超过限制
     # 使用分页功能抓取所有论文
-    papers = fetch_all_cv_papers_by_date(
+    papers = fetch_cv_papers_by_date_range(
         start_date=START_DATE,
         end_date=END_DATE,
         batch_size=BATCH_SIZE
