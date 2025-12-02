@@ -5992,5 +5992,1536 @@
       "LVsp9RQAAAAJ"
     ],
     "citation_count": 11
+  },
+  {
+    "arxiv_id": "2401.06506",
+    "title": "Frequency Masking for Universal Deepfake Detection",
+    "year": 2024,
+    "published": "2024-01-12T11:02:12Z",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "abstract": "We study universal deepfake detection. Our goal is to detect synthetic images from a range of generative AI approaches, particularly from emerging ones which are unseen during training of the deepfake detector. Universal deepfake detection requires outstanding generalization capability. Motivated by recently proposed masked image modeling which has demonstrated excellent generalization in self-supervised pre-training, we make the first attempt to explore masked image modeling for universal deepf",
+    "arxiv_url": "https://arxiv.org/abs/2401.06506v3",
+    "pdf_url": "https://arxiv.org/pdf/2401.06506v3",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2401.06506",
+    "arxiv_authors": [
+      "Chandler Timm Doloriel",
+      "Ngai-Man Cheung"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Frequency+Masking+for+Universal+Deepfake+Detection+Chandler+Timm+Doloriel+Ngai-Man+Cheung",
+    "gs_search_success": true,
+    "gs_authors": [
+      "vJQArFkAAAAJ",
+      "9og9RgcAAAAJ"
+    ],
+    "citation_count": 46
+  },
+  {
+    "arxiv_id": "2411.04844",
+    "title": "Discretized Gaussian Representation for Tomographic Reconstruction",
+    "year": 2024,
+    "published": "2024-11-07T16:32:29Z",
+    "categories": [
+      "eess.IV",
+      "cs.CV"
+    ],
+    "abstract": "Computed Tomography (CT) enables detailed cross-sectional imaging but continues to face challenges in balancing reconstruction quality and computational efficiency. While deep learning-based methods have significantly improved image quality and noise reduction, they typically require large-scale training data and intensive computation. Recent advances in scene reconstruction, such as Neural Radiance Fields and 3D Gaussian Splatting, offer alternative perspectives but are not well-suited for dire",
+    "arxiv_url": "https://arxiv.org/abs/2411.04844v4",
+    "pdf_url": "https://arxiv.org/pdf/2411.04844v4",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2411.04844",
+    "arxiv_authors": [
+      "Shaokai Wu",
+      "Yuxiang Lu",
+      "Yapan Guo",
+      "Wei Ji",
+      "Suizhi Huang",
+      "Fengyu Yang",
+      "Shalayiding Sirejiding",
+      "Qichen He",
+      "Jing Tong",
+      "Yanbiao Ji",
+      "Yue Ding",
+      "Hongtao Lu"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Discretized+Gaussian+Representation+for+Tomographic+Reconstruction+Shaokai+Wu+Yuxiang+Lu+Yapan+Guo+Wei+Ji+Suizhi+Huang",
+    "gs_search_success": true,
+    "gs_authors": [
+      "wwNa3wMAAAAJ",
+      "mna2LlkAAAAJ",
+      "uqBvbN8AAAAJ",
+      "kisWeuMAAAAJ",
+      "GtNuBJcAAAAJ",
+      "F0oFN4gAAAAJ",
+      "7m-TOp8AAAAJ",
+      "Bg9FHewAAAAJ"
+    ],
+    "citation_count": 1
+  },
+  {
+    "arxiv_id": "2502.20668",
+    "title": "OpenEarthSensing: Large-Scale Fine-Grained Benchmark for Open-World Remote Sensing",
+    "year": 2025,
+    "published": "2025-02-28T02:49:52Z",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.LG",
+      "eess.IV"
+    ],
+    "abstract": "The advancement of remote sensing, including satellite systems, facilitates the continuous acquisition of remote sensing imagery globally, introducing novel challenges for achieving open-world tasks. Deployed models need to continuously adjust to a constant influx of new data, which frequently exhibits diverse shifts from the data encountered during the training phase. To effectively handle the new data, models are required to detect semantic shifts, adapt to covariate shifts, and continuously u",
+    "arxiv_url": "https://arxiv.org/abs/2502.20668v2",
+    "pdf_url": "https://arxiv.org/pdf/2502.20668v2",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2502.20668",
+    "arxiv_authors": [
+      "Xiang Xiang",
+      "Zhuo Xu",
+      "Yao Deng",
+      "Qinhao Zhou",
+      "Yifan Liang",
+      "Ke Chen",
+      "Qingfang Zheng",
+      "Yaowei Wang",
+      "Xilin Chen",
+      "Wen Gao"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=OpenEarthSensing%3A+Large-Scale+Fine-Grained+Benchmark+for+Open-World+Remote+Sensing+Xiang+Xiang+Zhuo+Xu+Yao+Deng+Qinhao+Zhou+Yifan+Liang",
+    "gs_search_success": true,
+    "gs_authors": [
+      "-D5k5ioAAAAJ",
+      "bfjhJbcAAAAJ",
+      "Ue98P8IAAAAJ",
+      "o_DllmIAAAAJ"
+    ],
+    "citation_count": 2
+  },
+  {
+    "arxiv_id": "2406.16886",
+    "title": "Sensor Data Augmentation from Skeleton Pose Sequences for Improving Human Activity Recognition",
+    "year": 2024,
+    "published": "2024-04-25T10:13:18Z",
+    "categories": [
+      "eess.SP",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "abstract": "The proliferation of deep learning has significantly advanced various fields, yet Human Activity Recognition (HAR) has not fully capitalized on these developments, primarily due to the scarcity of labeled datasets. Despite the integration of advanced Inertial Measurement Units (IMUs) in ubiquitous wearable devices like smartwatches and fitness trackers, which offer self-labeled activity data from users, the volume of labeled data remains insufficient compared to domains where deep learning has a",
+    "arxiv_url": "https://arxiv.org/abs/2406.16886v1",
+    "pdf_url": "https://arxiv.org/pdf/2406.16886v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2406.16886",
+    "arxiv_authors": [
+      "Parham Zolfaghari",
+      "Vitor Fortes Rey",
+      "Lala Ray",
+      "Hyun Kim",
+      "Sungho Suh",
+      "Paul Lukowicz"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Sensor+Data+Augmentation+from+Skeleton+Pose+Sequences+for+Improving+Human+Activity+Recognition+Parham+Zolfaghari+Vitor+Fortes+Rey+Lala+Ray+Hyun+Kim+Sungho+Suh",
+    "gs_search_success": true,
+    "gs_authors": [
+      "mCuJP1UAAAAJ",
+      "DMjDOYwAAAAJ",
+      "rjJwgO0AAAAJ",
+      "1FIyc9kAAAAJ",
+      "r7QYkIgAAAAJ"
+    ],
+    "citation_count": 14
+  },
+  {
+    "arxiv_id": "2312.07899",
+    "title": "Morphological Profiling for Drug Discovery in the Era of Deep Learning",
+    "year": 2023,
+    "published": "2023-12-13T05:08:32Z",
+    "categories": [
+      "q-bio.QM",
+      "cs.AI",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "abstract": "Morphological profiling is a valuable tool in phenotypic drug discovery. The advent of high-throughput automated imaging has enabled the capturing of a wide range of morphological features of cells or organisms in response to perturbations at the single-cell resolution. Concurrently, significant advances in machine learning and deep learning, especially in computer vision, have led to substantial improvements in analyzing large-scale high-content images at high-throughput. These efforts have fac",
+    "arxiv_url": "https://arxiv.org/abs/2312.07899v2",
+    "pdf_url": "https://arxiv.org/pdf/2312.07899v2",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2312.07899",
+    "arxiv_authors": [
+      "Qiaosi Tang",
+      "Ranjala Ratnayake",
+      "Gustavo Seabra",
+      "Zhe Jiang",
+      "Ruogu Fang",
+      "Lina Cui",
+      "Yousong Ding",
+      "Tamer Kahveci",
+      "Jiang Bian",
+      "Chenglong Li",
+      "Hendrik Luesch",
+      "Yanjun Li"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Morphological+Profiling+for+Drug+Discovery+in+the+Era+of+Deep+Learning+Qiaosi+Tang+Ranjala+Ratnayake+Gustavo+Seabra+Zhe+Jiang+Ruogu+Fang",
+    "gs_search_success": true,
+    "gs_authors": [
+      "x_B0-1gAAAAJ",
+      "R7xPuT8AAAAJ",
+      "vP1Q2wkAAAAJ",
+      "wol4m1IAAAAJ"
+    ],
+    "citation_count": 30
+  },
+  {
+    "arxiv_id": "2302.03027",
+    "title": "Zero-shot Image-to-Image Translation",
+    "year": 2023,
+    "published": "2023-02-06T18:59:51Z",
+    "categories": [
+      "cs.CV",
+      "cs.GR",
+      "cs.LG"
+    ],
+    "abstract": "Large-scale text-to-image generative models have shown their remarkable ability to synthesize diverse and high-quality images. However, it is still challenging to directly apply these models for editing real images for two reasons. First, it is hard for users to come up with a perfect text prompt that accurately describes every visual detail in the input image. Second, while existing models can introduce desirable changes in certain regions, they often dramatically alter the input content and in",
+    "arxiv_url": "https://arxiv.org/abs/2302.03027v1",
+    "pdf_url": "https://arxiv.org/pdf/2302.03027v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2302.03027",
+    "arxiv_authors": [
+      "Gaurav Parmar",
+      "Krishna Kumar Singh",
+      "Richard Zhang",
+      "Yijun Li",
+      "Jingwan Lu",
+      "Jun-Yan Zhu"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Zero-shot+Image-to-Image+Translation+Gaurav+Parmar+Krishna+Kumar+Singh+Richard+Zhang+Yijun+Li+Jingwan+Lu",
+    "gs_search_success": true,
+    "gs_authors": [
+      "nrsWSt4AAAAJ",
+      "UdpacsMAAAAJ",
+      "xDJzuz8AAAAJ",
+      "LW8ze_UAAAAJ",
+      "3TMipekAAAAJ"
+    ],
+    "citation_count": 638
+  },
+  {
+    "arxiv_id": "2405.05518",
+    "title": "DTCLMapper: Dual Temporal Consistent Learning for Vectorized HD Map Construction",
+    "year": 2024,
+    "published": "2024-05-09T02:58:55Z",
+    "categories": [
+      "cs.CV",
+      "cs.RO",
+      "eess.IV"
+    ],
+    "abstract": "Temporal information plays a pivotal role in Bird's-Eye-View (BEV) driving scene understanding, which can alleviate the visual information sparsity. However, the indiscriminate temporal fusion method will cause the barrier of feature redundancy when constructing vectorized High-Definition (HD) maps. In this paper, we revisit the temporal fusion of vectorized HD maps, focusing on temporal instance consistency and temporal map consistency learning. To improve the representation of instances in sin",
+    "arxiv_url": "https://arxiv.org/abs/2405.05518v2",
+    "pdf_url": "https://arxiv.org/pdf/2405.05518v2",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2405.05518",
+    "arxiv_authors": [
+      "Siyu Li",
+      "Jiacheng Lin",
+      "Hao Shi",
+      "Jiaming Zhang",
+      "Song Wang",
+      "You Yao",
+      "Zhiyong Li",
+      "Kailun Yang"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=DTCLMapper%3A+Dual+Temporal+Consistent+Learning+for+Vectorized+HD+Map+Construction+Siyu+Li+Jiacheng+Lin+Hao+Shi+Jiaming+Zhang+Song+Wang",
+    "gs_search_success": true,
+    "gs_authors": [
+      "rFiGjVEAAAAJ",
+      "Jj0jbL8AAAAJ",
+      "WFa7fUIAAAAJ",
+      "pKFqWhgAAAAJ",
+      "gbuEGBQAAAAJ",
+      "0EI9msQAAAAJ"
+    ],
+    "citation_count": 19
+  },
+  {
+    "arxiv_id": "2411.03831",
+    "title": "An Enhancement of Haar Cascade Algorithm Applied to Face Recognition for Gate Pass Security",
+    "year": 2024,
+    "published": "2024-11-06T11:03:34Z",
+    "categories": [
+      "cs.CV"
+    ],
+    "abstract": "This study is focused on enhancing the Haar Cascade Algorithm to decrease the false positive and false negative rate in face matching and face detection to increase the accuracy rate even under challenging conditions. The face recognition library was implemented with Haar Cascade Algorithm in which the 128-dimensional vectors representing the unique features of a face are encoded. A subprocess was applied where the grayscale image from Haar Cascade was converted to RGB to improve the face encodi",
+    "arxiv_url": "https://arxiv.org/abs/2411.03831v1",
+    "pdf_url": "https://arxiv.org/pdf/2411.03831v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2411.03831",
+    "arxiv_authors": [
+      "Clarence A. Antipona",
+      "Romeo R. Magsino",
+      "Raymund M. Dioses",
+      "Khatalyn E. Mata"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=An+Enhancement+of+Haar+Cascade+Algorithm+Applied+to+Face+Recognition+for+Gate+Pass+Security+Clarence+A.+Antipona+Romeo+R.+Magsino+Raymund+M.+Dioses+Khatalyn+E.+Mata",
+    "gs_search_success": true,
+    "gs_authors": [
+      "pCDOXmYAAAAJ",
+      "Xf11dEcAAAAJ"
+    ],
+    "citation_count": 2
+  },
+  {
+    "arxiv_id": "2503.17914",
+    "title": "Semi-supervised Semantic Segmentation with Multi-Constraint Consistency Learning",
+    "year": 2025,
+    "published": "2025-03-23T03:21:33Z",
+    "categories": [
+      "cs.MM",
+      "cs.CV"
+    ],
+    "abstract": "Consistency regularization has prevailed in semi-supervised semantic segmentation and achieved promising performance. However, existing methods typically concentrate on enhancing the Image-augmentation based Prediction consistency and optimizing the segmentation network as a whole, resulting in insufficient utilization of potential supervisory information. In this paper, we propose a Multi-Constraint Consistency Learning (MCCL) approach to facilitate the staged enhancement of the encoder and dec",
+    "arxiv_url": "https://arxiv.org/abs/2503.17914v1",
+    "pdf_url": "https://arxiv.org/pdf/2503.17914v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2503.17914",
+    "arxiv_authors": [
+      "Jianjian Yin",
+      "Tao Chen",
+      "Gensheng Pei",
+      "Yazhou Yao",
+      "Liqiang Nie",
+      "Xiansheng Hua"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Semi-supervised+Semantic+Segmentation+with+Multi-Constraint+Consistency+Learning+Jianjian+Yin+Tao+Chen+Gensheng+Pei+Yazhou+Yao+Liqiang+Nie",
+    "gs_search_success": true,
+    "gs_authors": [
+      "6G-l4o0AAAAJ",
+      "9RvG9F0AAAAJ",
+      "yywVMhUAAAAJ",
+      "_3Ucwv4AAAAJ"
+    ],
+    "citation_count": 5
+  },
+  {
+    "arxiv_id": "2306.17367",
+    "title": "Spatially Varying Exposure with 2-by-2 Multiplexing: Optimality and Universality",
+    "year": 2023,
+    "published": "2023-06-30T02:08:25Z",
+    "categories": [
+      "eess.IV",
+      "cs.CV"
+    ],
+    "abstract": "The advancement of new digital image sensors has enabled the design of exposure multiplexing schemes where a single image capture can have multiple exposures and conversion gains in an interlaced format, similar to that of a Bayer color filter array. In this paper, we ask the question of how to design such multiplexing schemes for adaptive high-dynamic range (HDR) imaging where the multiplexing scheme can be updated according to the scenes. We present two new findings.   (i) We address the probl",
+    "arxiv_url": "https://arxiv.org/abs/2306.17367v1",
+    "pdf_url": "https://arxiv.org/pdf/2306.17367v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2306.17367",
+    "arxiv_authors": [
+      "Xiangyu Qu",
+      "Yiheng Chi",
+      "Stanley H. Chan"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Spatially+Varying+Exposure+with+2-by-2+Multiplexing%3A+Optimality+and+Universality+Xiangyu+Qu+Yiheng+Chi+Stanley+H.+Chan",
+    "gs_search_success": true,
+    "gs_authors": [
+      "WZYUtwQAAAAJ",
+      "ZlNq4_4AAAAJ"
+    ],
+    "citation_count": 14
+  },
+  {
+    "arxiv_id": "2312.04152",
+    "title": "EulerMormer: Robust Eulerian Motion Magnification via Dynamic Filtering within Transformer",
+    "year": 2023,
+    "published": "2023-12-07T09:10:16Z",
+    "categories": [
+      "cs.CV"
+    ],
+    "abstract": "Video Motion Magnification (VMM) aims to break the resolution limit of human visual perception capability and reveal the imperceptible minor motion that contains valuable information in the macroscopic domain. However, challenges arise in this task due to photon noise inevitably introduced by photographic devices and spatial inconsistency in amplification, leading to flickering artifacts in static fields and motion blur and distortion in dynamic fields in the video. Existing methods focus on exp",
+    "arxiv_url": "https://arxiv.org/abs/2312.04152v1",
+    "pdf_url": "https://arxiv.org/pdf/2312.04152v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2312.04152",
+    "arxiv_authors": [
+      "Fei Wang",
+      "Dan Guo",
+      "Kun Li",
+      "Meng Wang"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=EulerMormer%3A+Robust+Eulerian+Motion+Magnification+via+Dynamic+Filtering+within+Transformer+Fei+Wang+Dan+Guo+Kun+Li+Meng+Wang",
+    "gs_search_success": true,
+    "gs_authors": [
+      "rHagaaIAAAAJ",
+      "DsEONuMAAAAJ"
+    ],
+    "citation_count": 45
+  },
+  {
+    "arxiv_id": "2405.05803",
+    "title": "Boosting Multimodal Large Language Models with Visual Tokens Withdrawal for Rapid Inference",
+    "year": 2024,
+    "published": "2024-05-09T14:38:53Z",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "abstract": "Multimodal large language models (MLLMs) demand considerable computations for inference due to the extensive parameters and the additional input tokens needed for visual information representation. Herein, we introduce Visual Tokens Withdrawal (VTW), a plug-and-play module to boost MLLMs for rapid inference. Our approach is inspired by two intriguing phenomena we have observed: (1) the attention sink phenomenon that is prevalent in LLMs also persists in MLLMs, suggesting that initial tokens and ",
+    "arxiv_url": "https://arxiv.org/abs/2405.05803v3",
+    "pdf_url": "https://arxiv.org/pdf/2405.05803v3",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2405.05803",
+    "arxiv_authors": [
+      "Zhihang Lin",
+      "Mingbao Lin",
+      "Luxi Lin",
+      "Rongrong Ji"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Boosting+Multimodal+Large+Language+Models+with+Visual+Tokens+Withdrawal+for+Rapid+Inference+Zhihang+Lin+Mingbao+Lin+Luxi+Lin+Rongrong+Ji",
+    "gs_search_success": true,
+    "gs_authors": [
+      "UpqNGLYAAAAJ",
+      "eaVMoiUAAAAJ",
+      "lRSD7PQAAAAJ",
+      "Dp3L1bsAAAAJ"
+    ],
+    "citation_count": 88
+  },
+  {
+    "arxiv_id": "2312.09935",
+    "title": "LogoStyleFool: Vitiating Video Recognition Systems via Logo Style Transfer",
+    "year": 2023,
+    "published": "2023-12-15T16:44:38Z",
+    "categories": [
+      "cs.CV",
+      "cs.CR"
+    ],
+    "abstract": "Video recognition systems are vulnerable to adversarial examples. Recent studies show that style transfer-based and patch-based unrestricted perturbations can effectively improve attack efficiency. These attacks, however, face two main challenges: 1) Adding large stylized perturbations to all pixels reduces the naturalness of the video and such perturbations can be easily detected. 2) Patch-based video attacks are not extensible to targeted attacks due to the limited search space of reinforcemen",
+    "arxiv_url": "https://arxiv.org/abs/2312.09935v2",
+    "pdf_url": "https://arxiv.org/pdf/2312.09935v2",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2312.09935",
+    "arxiv_authors": [
+      "Yuxin Cao",
+      "Ziyu Zhao",
+      "Xi Xiao",
+      "Derui Wang",
+      "Minhui Xue",
+      "Jin Lu"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=LogoStyleFool%3A+Vitiating+Video+Recognition+Systems+via+Logo+Style+Transfer+Yuxin+Cao+Ziyu+Zhao+Xi+Xiao+Derui+Wang+Minhui+Xue",
+    "gs_search_success": true,
+    "gs_authors": [
+      "lNQ73QsAAAAJ",
+      "uAbiaaUAAAAJ",
+      "jdqkm1IAAAAJ",
+      "GCYqueEAAAAJ"
+    ],
+    "citation_count": 5
+  },
+  {
+    "arxiv_id": "2501.18851",
+    "title": "Project-and-Fuse: Improving RGB-D Semantic Segmentation via Graph Convolution Networks",
+    "year": 2025,
+    "published": "2025-01-31T02:24:13Z",
+    "categories": [
+      "cs.CV"
+    ],
+    "abstract": "Most existing RGB-D semantic segmentation methods focus on the feature level fusion, including complex cross-modality and cross-scale fusion modules. However, these methods may cause misalignment problem in the feature fusion process and counter-intuitive patches in the segmentation results. Inspired by the popular pixel-node-pixel pipeline, we propose to 1) fuse features from two modalities in a late fusion style, during which the geometric feature injection is guided by texture feature prior; ",
+    "arxiv_url": "https://arxiv.org/abs/2501.18851v3",
+    "pdf_url": "https://arxiv.org/pdf/2501.18851v3",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2501.18851",
+    "arxiv_authors": [
+      "Xiaoyan Jiang",
+      "Bohan Wang",
+      "Xinlong Wan",
+      "Shanshan Chen",
+      "Hamido Fujita",
+      "Hanan Abd. Al Juaid"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Project-and-Fuse%3A+Improving+RGB-D+Semantic+Segmentation+via+Graph+Convolution+Networks+Xiaoyan+Jiang+Bohan+Wang+Xinlong+Wan+Shanshan+Chen+Hamido+Fujita",
+    "gs_search_success": true,
+    "gs_authors": [
+      "pKnD8WcAAAAJ",
+      "R06HiLwAAAAJ",
+      "MxzV1nQAAAAJ"
+    ],
+    "citation_count": null
+  },
+  {
+    "arxiv_id": "2312.02973",
+    "title": "GauHuman: Articulated Gaussian Splatting from Monocular Human Videos",
+    "year": 2023,
+    "published": "2023-12-05T18:59:14Z",
+    "categories": [
+      "cs.CV"
+    ],
+    "abstract": "We present, GauHuman, a 3D human model with Gaussian Splatting for both fast training (1 ~ 2 minutes) and real-time rendering (up to 189 FPS), compared with existing NeRF-based implicit representation modelling frameworks demanding hours of training and seconds of rendering per frame. Specifically, GauHuman encodes Gaussian Splatting in the canonical space and transforms 3D Gaussians from canonical space to posed space with linear blend skinning (LBS), in which effective pose and LBS refinement ",
+    "arxiv_url": "https://arxiv.org/abs/2312.02973v1",
+    "pdf_url": "https://arxiv.org/pdf/2312.02973v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2312.02973",
+    "arxiv_authors": [
+      "Shoukang Hu",
+      "Ziwei Liu"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=GauHuman%3A+Articulated+Gaussian+Splatting+from+Monocular+Human+Videos+Shoukang+Hu+Ziwei+Liu",
+    "gs_search_success": true,
+    "gs_authors": [
+      "lc45xlcAAAAJ",
+      "9cUPotAAAAAJ",
+      "lKB_cJAAAAAJ"
+    ],
+    "citation_count": 179
+  },
+  {
+    "arxiv_id": "2408.10488",
+    "title": "Event Stream-based Sign Language Translation: A High-Definition Benchmark Dataset and A Novel Baseline",
+    "year": 2024,
+    "published": "2024-08-20T02:01:30Z",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL",
+      "cs.NE"
+    ],
+    "abstract": "Sign Language Translation (SLT) is a core task in the field of AI-assisted disability. Traditional SLT methods are typically based on visible light videos, which are easily affected by factors such as lighting variations, rapid hand movements, and privacy concerns. This paper proposes the use of bio-inspired event cameras to alleviate the aforementioned issues. Specifically, we introduce a new high-definition event-based sign language dataset, termed Event-CSL, which effectively addresses the da",
+    "arxiv_url": "https://arxiv.org/abs/2408.10488v2",
+    "pdf_url": "https://arxiv.org/pdf/2408.10488v2",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2408.10488",
+    "arxiv_authors": [
+      "Shiao Wang",
+      "Xiao Wang",
+      "Duoqing Yang",
+      "Yao Rong",
+      "Fuling Wang",
+      "Jianing Li",
+      "Lin Zhu",
+      "Bo Jiang"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Event+Stream-based+Sign+Language+Translation%3A+A+High-Definition+Benchmark+Dataset+and+A+Novel+Baseline+Shiao+Wang+Xiao+Wang+Duoqing+Yang+Yao+Rong+Fuling+Wang",
+    "gs_search_success": true,
+    "gs_authors": [
+      "xrYnfwcAAAAJ",
+      "32d6xfEAAAAJ",
+      "5MO9ojoAAAAJ",
+      "oq9awGMAAAAJ"
+    ],
+    "citation_count": 3
+  },
+  {
+    "arxiv_id": "2304.10410",
+    "title": "Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review",
+    "year": 2023,
+    "published": "2023-04-20T15:48:50Z",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.RO"
+    ],
+    "abstract": "Driven by deep learning techniques, perception technology in autonomous driving has developed rapidly in recent years, enabling vehicles to accurately detect and interpret surrounding environment for safe and efficient navigation. To achieve accurate and robust perception capabilities, autonomous vehicles are often equipped with multiple sensors, making sensor fusion a crucial part of the perception system. Among these fused sensors, radars and cameras enable a complementary and cost-effective p",
+    "arxiv_url": "https://arxiv.org/abs/2304.10410v2",
+    "pdf_url": "https://arxiv.org/pdf/2304.10410v2",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2304.10410",
+    "arxiv_authors": [
+      "Shanliang Yao",
+      "Runwei Guan",
+      "Xiaoyu Huang",
+      "Zhuoxiao Li",
+      "Xiangyu Sha",
+      "Yong Yue",
+      "Eng Gee Lim",
+      "Hyungjoon Seo",
+      "Ka Lok Man",
+      "Xiaohui Zhu",
+      "Yutao Yue"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Radar-Camera+Fusion+for+Object+Detection+and+Semantic+Segmentation+in+Autonomous+Driving%3A+A+Comprehensive+Review+Shanliang+Yao+Runwei+Guan+Xiaoyu+Huang+Zhuoxiao+Li+Xiangyu+Sha",
+    "gs_search_success": true,
+    "gs_authors": [
+      "HXU7M0kAAAAJ",
+      "SHLZ-cYAAAAJ",
+      "YmT29FUAAAAJ",
+      "zHw8eegAAAAJ",
+      "9FOIHmYAAAAJ",
+      "Pa_xqn8AAAAJ",
+      "Ug_UiIoAAAAJ",
+      "Fjo72tUAAAAJ"
+    ],
+    "citation_count": 217
+  },
+  {
+    "arxiv_id": "2504.10738",
+    "title": "CleanMAP: Distilling Multimodal LLMs for Confidence-Driven Crowdsourced HD Map Updates",
+    "year": 2025,
+    "published": "2025-04-14T22:16:10Z",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL",
+      "cs.LG",
+      "cs.RO"
+    ],
+    "abstract": "The rapid growth of intelligent connected vehicles (ICVs) and integrated vehicle-road-cloud systems has increased the demand for accurate, real-time HD map updates. However, ensuring map reliability remains challenging due to inconsistencies in crowdsourced data, which suffer from motion blur, lighting variations, adverse weather, and lane marking degradation. This paper introduces CleanMAP, a Multimodal Large Language Model (MLLM)-based distillation framework designed to filter and refine crowd",
+    "arxiv_url": "https://arxiv.org/abs/2504.10738v1",
+    "pdf_url": "https://arxiv.org/pdf/2504.10738v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2504.10738",
+    "arxiv_authors": [
+      "Ankit Kumar Shaw",
+      "Kun Jiang",
+      "Tuopu Wen",
+      "Chandan Kumar Sah",
+      "Yining Shi",
+      "Mengmeng Yang",
+      "Diange Yang",
+      "Xiaoli Lian"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=CleanMAP%3A+Distilling+Multimodal+LLMs+for+Confidence-Driven+Crowdsourced+HD+Map+Updates+Ankit+Kumar+Shaw+Kun+Jiang+Tuopu+Wen+Chandan+Kumar+Sah+Yining+Shi",
+    "gs_search_success": true,
+    "gs_authors": [
+      "3qK1cZMAAAAJ",
+      "MbSyLggAAAAJ",
+      "lbtJvIMAAAAJ",
+      "-rhAnRQAAAAJ",
+      "2zOwf-QAAAAJ",
+      "PyH-zqygdCYC"
+    ],
+    "citation_count": 2
+  },
+  {
+    "arxiv_id": "2503.02511",
+    "title": "TeTRA-VPR: A Ternary Transformer Approach for Compact Visual Place Recognition",
+    "year": 2025,
+    "published": "2025-03-04T11:20:10Z",
+    "categories": [
+      "cs.CV"
+    ],
+    "abstract": "Visual Place Recognition (VPR) localizes a query image by matching it against a database of geo-tagged reference images, making it essential for navigation and mapping in robotics. Although Vision Transformer (ViT) solutions deliver high accuracy, their large models often exceed the memory and compute budgets of resource-constrained platforms such as drones and mobile robots. To address this issue, we propose TeTRA, a ternary transformer approach that progressively quantizes the ViT backbone to ",
+    "arxiv_url": "https://arxiv.org/abs/2503.02511v1",
+    "pdf_url": "https://arxiv.org/pdf/2503.02511v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2503.02511",
+    "arxiv_authors": [
+      "Oliver Grainge",
+      "Michael Milford",
+      "Indu Bodala",
+      "Sarvapali D. Ramchurn",
+      "Shoaib Ehsan"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=TeTRA-VPR%3A+A+Ternary+Transformer+Approach+for+Compact+Visual+Place+Recognition+Oliver+Grainge+Michael+Milford+Indu+Bodala+Sarvapali+D.+Ramchurn+Shoaib+Ehsan",
+    "gs_search_success": true,
+    "gs_authors": [
+      "tB26zqYAAAAJ",
+      "40KlWugAAAAJ",
+      "TDSmCKgAAAAJ",
+      "PVZnzdsAAAAJ"
+    ],
+    "citation_count": 1
+  },
+  {
+    "arxiv_id": "2501.01184",
+    "title": "Vulnerability-Aware Spatio-Temporal Learning for Generalizable Deepfake Video Detection",
+    "year": 2025,
+    "published": "2025-01-02T10:21:34Z",
+    "categories": [
+      "cs.CV"
+    ],
+    "abstract": "Detecting deepfake videos is highly challenging given the complexity of characterizing spatio-temporal artifacts. Most existing methods rely on binary classifiers trained using real and fake image sequences, therefore hindering their generalization capabilities to unseen generation methods. Moreover, with the constant progress in generative Artificial Intelligence (AI), deepfake artifacts are becoming imperceptible at both the spatial and the temporal levels, making them extremely difficult to c",
+    "arxiv_url": "https://arxiv.org/abs/2501.01184v3",
+    "pdf_url": "https://arxiv.org/pdf/2501.01184v3",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2501.01184",
+    "arxiv_authors": [
+      "Dat Nguyen",
+      "Marcella Astrid",
+      "Anis Kacem",
+      "Enjie Ghorbel",
+      "Djamila Aouada"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Vulnerability-Aware+Spatio-Temporal+Learning+for+Generalizable+Deepfake+Video+Detection+Dat+Nguyen+Marcella+Astrid+Anis+Kacem+Enjie+Ghorbel+Djamila+Aouada",
+    "gs_search_success": true,
+    "gs_authors": [
+      "kXNJXMAAAAAJ",
+      "K3EWusMAAAAJ",
+      "WBmJVSkAAAAJ",
+      "TXBGJhgAAAAJ",
+      "gQjuVcEAAAAJ"
+    ],
+    "citation_count": null
+  },
+  {
+    "arxiv_id": "2409.09588",
+    "title": "GLCONet: Learning Multi-source Perception Representation for Camouflaged Object Detection",
+    "year": 2024,
+    "published": "2024-09-15T02:26:17Z",
+    "categories": [
+      "cs.CV"
+    ],
+    "abstract": "Recently, biological perception has been a powerful tool for handling the camouflaged object detection (COD) task. However, most existing methods are heavily dependent on the local spatial information of diverse scales from convolutional operations to optimize initial features. A commonly neglected point in these methods is the long-range dependencies between feature pixels from different scale spaces that can help the model build a global structure of the object, inducing a more precise image r",
+    "arxiv_url": "https://arxiv.org/abs/2409.09588v1",
+    "pdf_url": "https://arxiv.org/pdf/2409.09588v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2409.09588",
+    "arxiv_authors": [
+      "Yanguang Sun",
+      "Hanyu Xuan",
+      "Jian Yang",
+      "Lei Luo"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=GLCONet%3A+Learning+Multi-source+Perception+Representation+for+Camouflaged+Object+Detection+Yanguang+Sun+Hanyu+Xuan+Jian+Yang+Lei+Luo",
+    "gs_search_success": true,
+    "gs_authors": [
+      "KpSTy3sAAAAJ",
+      "i3b5t0YAAAAJ",
+      "6CIDtZQAAAAJ"
+    ],
+    "citation_count": 21
+  },
+  {
+    "arxiv_id": "2312.14201",
+    "title": "Towards Better Visualizing the Decision Basis of Networks via Unfold and Conquer Attribution Guidance",
+    "year": 2023,
+    "published": "2023-12-21T03:43:19Z",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "abstract": "Revealing the transparency of Deep Neural Networks (DNNs) has been widely studied to describe the decision mechanisms of network inner structures. In this paper, we propose a novel post-hoc framework, Unfold and Conquer Attribution Guidance (UCAG), which enhances the explainability of the network decision by spatially scrutinizing the input features with respect to the model confidence. Addressing the phenomenon of missing detailed descriptions, UCAG sequentially complies with the confidence of ",
+    "arxiv_url": "https://arxiv.org/abs/2312.14201v2",
+    "pdf_url": "https://arxiv.org/pdf/2312.14201v2",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2312.14201",
+    "arxiv_authors": [
+      "Jung-Ho Hong",
+      "Woo-Jeoung Nam",
+      "Kyu-Sung Jeon",
+      "Seong-Whan Lee"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Towards+Better+Visualizing+the+Decision+Basis+of+Networks+via+Unfold+and+Conquer+Attribution+Guidance+Jung-Ho+Hong+Woo-Jeoung+Nam+Kyu-Sung+Jeon+Seong-Whan+Lee",
+    "gs_search_success": true,
+    "gs_authors": [
+      "9wo5l0QAAAAJ",
+      "1xDz9MkAAAAJ"
+    ],
+    "citation_count": 4
+  },
+  {
+    "arxiv_id": "2402.17767",
+    "title": "Opening Articulated Structures in the Real World",
+    "year": 2024,
+    "published": "2024-02-27T18:58:54Z",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "abstract": "What does it take to build mobile manipulation systems that can competently operate on previously unseen objects in previously unseen environments? This work answers this question using opening of articulated structures as a mobile manipulation testbed. Specifically, our focus is on the end-to-end performance on this task without any privileged information, i.e. the robot starts at a location with the novel target articulated object in view, and has to approach the object and successfully open i",
+    "arxiv_url": "https://arxiv.org/abs/2402.17767v3",
+    "pdf_url": "https://arxiv.org/pdf/2402.17767v3",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2402.17767",
+    "arxiv_authors": [
+      "Arjun Gupta",
+      "Michelle Zhang",
+      "Rishik Sathua",
+      "Saurabh Gupta"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Opening+Articulated+Structures+in+the+Real+World+Arjun+Gupta+Michelle+Zhang+Rishik+Sathua+Saurabh+Gupta",
+    "gs_search_success": true,
+    "gs_authors": [
+      "1HO5UacAAAAJ",
+      "0qUErHAAAAAJ"
+    ],
+    "citation_count": 2
+  },
+  {
+    "arxiv_id": "2306.00427",
+    "title": "Out-of-distribution forgetting: vulnerability of continual learning to intra-class distribution shift",
+    "year": 2023,
+    "published": "2023-06-01T08:07:58Z",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "abstract": "Continual learning (CL) is an important technique to allow artificial neural networks to work in open environments. CL enables a system to learn new tasks without severe interference to its performance on old tasks, i.e., overcome the problems of catastrophic forgetting. In joint learning, it is well known that the out-of-distribution (OOD) problem caused by intentional attacks or environmental perturbations will severely impair the ability of networks to generalize. In this work, we reported a ",
+    "arxiv_url": "https://arxiv.org/abs/2306.00427v2",
+    "pdf_url": "https://arxiv.org/pdf/2306.00427v2",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2306.00427",
+    "arxiv_authors": [
+      "Liangxuan Guo",
+      "Yang Chen",
+      "Shan Yu"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Out-of-distribution+forgetting%3A+vulnerability+of+continual+learning+to+intra-class+distribution+shift+Liangxuan+Guo+Yang+Chen+Shan+Yu",
+    "gs_search_success": true,
+    "gs_authors": [
+      "YdaRHiIAAAAJ",
+      "mgUhgvAAAAAJ"
+    ],
+    "citation_count": 1
+  },
+  {
+    "arxiv_id": "2408.02231",
+    "title": "REVISION: Rendering Tools Enable Spatial Fidelity in Vision-Language Models",
+    "year": 2024,
+    "published": "2024-08-05T04:51:46Z",
+    "categories": [
+      "cs.CV"
+    ],
+    "abstract": "Text-to-Image (T2I) and multimodal large language models (MLLMs) have been adopted in solutions for several computer vision and multimodal learning tasks. However, it has been found that such vision-language models lack the ability to correctly reason over spatial relationships. To tackle this shortcoming, we develop the REVISION framework which improves spatial fidelity in vision-language models. REVISION is a 3D rendering based pipeline that generates spatially accurate synthetic images, given",
+    "arxiv_url": "https://arxiv.org/abs/2408.02231v1",
+    "pdf_url": "https://arxiv.org/pdf/2408.02231v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2408.02231",
+    "arxiv_authors": [
+      "Agneet Chatterjee",
+      "Yiran Luo",
+      "Tejas Gokhale",
+      "Yezhou Yang",
+      "Chitta Baral"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=REVISION%3A+Rendering+Tools+Enable+Spatial+Fidelity+in+Vision-Language+Models+Agneet+Chatterjee+Yiran+Luo+Tejas+Gokhale+Yezhou+Yang+Chitta+Baral",
+    "gs_search_success": true,
+    "gs_authors": [
+      "9Yd716IAAAAJ",
+      "_ILTlEwAAAAJ",
+      "n4IrxbUAAAAJ",
+      "RGRaOegAAAAJ",
+      "k2suuZgAAAAJ"
+    ],
+    "citation_count": 9
+  },
+  {
+    "arxiv_id": "2307.07847",
+    "title": "Enabling Real-time Neural Recovery for Cloud Gaming on Mobile Devices",
+    "year": 2023,
+    "published": "2023-07-15T16:45:01Z",
+    "categories": [
+      "cs.NI",
+      "cs.CV",
+      "cs.LG",
+      "cs.MM"
+    ],
+    "abstract": "Cloud gaming is a multi-billion dollar industry. A client in cloud gaming sends its movement to the game server on the Internet, which renders and transmits the resulting video back. In order to provide a good gaming experience, a latency below 80 ms is required. This means that video rendering, encoding, transmission, decoding, and display have to finish within that time frame, which is especially challenging to achieve due to server overload, network congestion, and losses. In this paper, we p",
+    "arxiv_url": "https://arxiv.org/abs/2307.07847v4",
+    "pdf_url": "https://arxiv.org/pdf/2307.07847v4",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2307.07847",
+    "arxiv_authors": [
+      "Zhaoyuan He",
+      "Yifan Yang",
+      "Shuozhe Li",
+      "Diyuan Dai",
+      "Lili Qiu",
+      "Yuqing Yang"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Enabling+Real-time+Neural+Recovery+for+Cloud+Gaming+on+Mobile+Devices+Zhaoyuan+He+Yifan+Yang+Shuozhe+Li+Diyuan+Dai+Lili+Qiu",
+    "gs_search_success": true,
+    "gs_authors": [
+      "16posrQAAAAJ",
+      "x7-Q64EAAAAJ",
+      "EAth38AAAAAJ"
+    ],
+    "citation_count": null
+  },
+  {
+    "arxiv_id": "2312.00416",
+    "title": "Towards Explaining Satellite Based Poverty Predictions with Convolutional Neural Networks",
+    "year": 2023,
+    "published": "2023-12-01T08:40:09Z",
+    "categories": [
+      "cs.CV"
+    ],
+    "abstract": "Deep convolutional neural networks (CNNs) have been shown to predict poverty and development indicators from satellite images with surprising accuracy. This paper presents a first attempt at analyzing the CNNs responses in detail and explaining the basis for the predictions. The CNN model, while trained on relatively low resolution day- and night-time satellite images, is able to outperform human subjects who look at high-resolution images in ranking the Wealth Index categories. Multiple explain",
+    "arxiv_url": "https://arxiv.org/abs/2312.00416v1",
+    "pdf_url": "https://arxiv.org/pdf/2312.00416v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2312.00416",
+    "arxiv_authors": [
+      "Hamid Sarmadi",
+      "Thorsteinn Rögnvaldsson",
+      "Nils Roger Carlsson",
+      "Mattias Ohlsson",
+      "Ibrahim Wahab",
+      "Ola Hall"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Towards+Explaining+Satellite+Based+Poverty+Predictions+with+Convolutional+Neural+Networks+Hamid+Sarmadi+Thorsteinn+R%C3%B6gnvaldsson+Nils+Roger+Carlsson+Mattias+Ohlsson+Ibrahim+Wahab",
+    "gs_search_success": true,
+    "gs_authors": [
+      "hlMpAJMAAAAJ",
+      "wJvtMD0AAAAJ",
+      "MwFjjdsAAAAJ",
+      "So5eNfkAAAAJ",
+      "c8BJ06MAAAAJ"
+    ],
+    "citation_count": 9
+  },
+  {
+    "arxiv_id": "2407.03900",
+    "title": "Oracle Bone Inscriptions Multi-modal Dataset",
+    "year": 2024,
+    "published": "2024-07-04T12:47:32Z",
+    "categories": [
+      "cs.CV"
+    ],
+    "abstract": "Oracle bone inscriptions(OBI) is the earliest developed writing system in China, bearing invaluable written exemplifications of early Shang history and paleography. However, the task of deciphering OBI, in the current climate of the scholarship, can prove extremely challenging. Out of the 4,500 oracle bone characters excavated, only a third have been successfully identified. Therefore, leveraging the advantages of advanced AI technology to assist in the decipherment of OBI is a highly essential ",
+    "arxiv_url": "https://arxiv.org/abs/2407.03900v1",
+    "pdf_url": "https://arxiv.org/pdf/2407.03900v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2407.03900",
+    "arxiv_authors": [
+      "Bang Li",
+      "Donghao Luo",
+      "Yujie Liang",
+      "Jing Yang",
+      "Zengmao Ding",
+      "Xu Peng",
+      "Boyuan Jiang",
+      "Shengwei Han",
+      "Dan Sui",
+      "Peichao Qin",
+      "Pian Wu",
+      "Chaoyang Wang",
+      "Yun Qi",
+      "Taisong Jin",
+      "Chengjie Wang",
+      "Xiaoming Huang",
+      "Zhan Shu",
+      "Rongrong Ji",
+      "Yongge Liu",
+      "Yunsheng Wu"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Oracle+Bone+Inscriptions+Multi-modal+Dataset+Bang+Li+Donghao+Luo+Yujie+Liang+Jing+Yang+Zengmao+Ding",
+    "gs_search_success": true,
+    "gs_authors": [
+      "2yj541QAAAAJ",
+      "jENyc98AAAAJ",
+      "u62rcKoAAAAJ",
+      "1GMTwfEAAAAJ"
+    ],
+    "citation_count": 10
+  },
+  {
+    "arxiv_id": "2406.02202",
+    "title": "No Captions, No Problem: Captionless 3D-CLIP Alignment with Hard Negatives via CLIP Knowledge and LLMs",
+    "year": 2024,
+    "published": "2024-06-04T10:57:59Z",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "abstract": "In this study, we explore an alternative approach to enhance contrastive text-image-3D alignment in the absence of textual descriptions for 3D objects. We introduce two unsupervised methods, $I2I$ and $(I2L)^2$, which leverage CLIP knowledge about textual and 2D data to compute the neural perceived similarity between two 3D samples. We employ the proposed methods to mine 3D hard negatives, establishing a multimodal contrastive pipeline with hard negative weighting via a custom loss function. We ",
+    "arxiv_url": "https://arxiv.org/abs/2406.02202v2",
+    "pdf_url": "https://arxiv.org/pdf/2406.02202v2",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2406.02202",
+    "arxiv_authors": [
+      "Cristian Sbrolli",
+      "Matteo Matteucci"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=No+Captions%2C+No+Problem%3A+Captionless+3D-CLIP+Alignment+with+Hard+Negatives+via+CLIP+Knowledge+and+LLMs+Cristian+Sbrolli+Matteo+Matteucci",
+    "gs_search_success": true,
+    "gs_authors": [
+      "yhvx_3AAAAAJ",
+      "PdbEg5YAAAAJ"
+    ],
+    "citation_count": null
+  },
+  {
+    "arxiv_id": "2406.03835",
+    "title": "Monocular Localization with Semantics Map for Autonomous Vehicles",
+    "year": 2024,
+    "published": "2024-06-06T08:12:38Z",
+    "categories": [
+      "cs.CV",
+      "cs.RO"
+    ],
+    "abstract": "Accurate and robust localization remains a significant challenge for autonomous vehicles. The cost of sensors and limitations in local computational efficiency make it difficult to scale to large commercial applications. Traditional vision-based approaches focus on texture features that are susceptible to changes in lighting, season, perspective, and appearance. Additionally, the large storage size of maps with descriptors and complex optimization processes hinder system performance. To balance ",
+    "arxiv_url": "https://arxiv.org/abs/2406.03835v1",
+    "pdf_url": "https://arxiv.org/pdf/2406.03835v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2406.03835",
+    "arxiv_authors": [
+      "Jixiang Wan",
+      "Xudong Zhang",
+      "Shuzhou Dong",
+      "Yuwei Zhang",
+      "Yuchen Yang",
+      "Ruoxi Wu",
+      "Ye Jiang",
+      "Jijunnan Li",
+      "Jinquan Lin",
+      "Ming Yang"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Monocular+Localization+with+Semantics+Map+for+Autonomous+Vehicles+Jixiang+Wan+Xudong+Zhang+Shuzhou+Dong+Yuwei+Zhang+Yuchen+Yang",
+    "gs_search_success": true,
+    "gs_authors": [
+      "DjYGIdgAAAAJ",
+      "2jRt7vEAAAAJ"
+    ],
+    "citation_count": null
+  },
+  {
+    "arxiv_id": "2403.16794",
+    "title": "CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation",
+    "year": 2024,
+    "published": "2024-03-25T14:13:09Z",
+    "categories": [
+      "cs.CV",
+      "cs.RO"
+    ],
+    "abstract": "Curb detection is a crucial function in intelligent driving, essential for determining drivable areas on the road. However, the complexity of road environments makes curb detection challenging. This paper introduces CurbNet, a novel framework for curb detection utilizing point cloud segmentation. To address the lack of comprehensive curb datasets with 3D annotations, we have developed the 3D-Curb dataset based on SemanticKITTI, currently the largest and most diverse collection of curb point clou",
+    "arxiv_url": "https://arxiv.org/abs/2403.16794v3",
+    "pdf_url": "https://arxiv.org/pdf/2403.16794v3",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2403.16794",
+    "arxiv_authors": [
+      "Guoyang Zhao",
+      "Fulong Ma",
+      "Weiqing Qi",
+      "Yuxuan Liu",
+      "Ming Liu",
+      "Jun Ma"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=CurbNet%3A+Curb+Detection+Framework+Based+on+LiDAR+Point+Cloud+Segmentation+Guoyang+Zhao+Fulong+Ma+Weiqing+Qi+Yuxuan+Liu+Ming+Liu",
+    "gs_search_success": true,
+    "gs_authors": [
+      "8VepsVAAAAAJ",
+      "CdV5LfQAAAAJ",
+      "G5T6_SQAAAAJ",
+      "uS8x8TkAAAAJ"
+    ],
+    "citation_count": 9
+  },
+  {
+    "arxiv_id": "2410.14690",
+    "title": "Rethinking VLMs and LLMs for Image Classification",
+    "year": 2024,
+    "published": "2024-10-03T23:40:21Z",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "abstract": "Visual Language Models (VLMs) are now increasingly being merged with Large Language Models (LLMs) to enable new capabilities, particularly in terms of improved interactivity and open-ended responsiveness. While these are remarkable capabilities, the contribution of LLMs to enhancing the longstanding key problem of classifying an image among a set of choices remains unclear. Through extensive experiments involving seven models, ten visual understanding datasets, and multiple prompt variations per",
+    "arxiv_url": "https://arxiv.org/abs/2410.14690v1",
+    "pdf_url": "https://arxiv.org/pdf/2410.14690v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2410.14690",
+    "arxiv_authors": [
+      "Avi Cooper",
+      "Keizo Kato",
+      "Chia-Hsien Shih",
+      "Hiroaki Yamane",
+      "Kasper Vinken",
+      "Kentaro Takemoto",
+      "Taro Sunagawa",
+      "Hao-Wei Yeh",
+      "Jin Yamanaka",
+      "Ian Mason",
+      "Xavier Boix"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Rethinking+VLMs+and+LLMs+for+Image+Classification+Avi+Cooper+Keizo+Kato+Chia-Hsien+Shih+Hiroaki+Yamane+Kasper+Vinken",
+    "gs_search_success": false,
+    "gs_authors": [],
+    "citation_count": null,
+    "error_type": "fetch_failed"
+  },
+  {
+    "arxiv_id": "2410.00152",
+    "title": "Multimodal Alignment of Histopathological Images Using Cell Segmentation and Point Set Matching for Integrative Cancer Analysis",
+    "year": 2024,
+    "published": "2024-09-30T18:52:52Z",
+    "categories": [
+      "eess.IV",
+      "cs.CV",
+      "cs.LG",
+      "q-bio.QM"
+    ],
+    "abstract": "Histopathological imaging is vital for cancer research and clinical practice, with multiplexed Immunofluorescence (MxIF) and Hematoxylin and Eosin (H&E) providing complementary insights. However, aligning different stains at the cell level remains a challenge due to modality differences. In this paper, we present a novel framework for multimodal image alignment using cell segmentation outcomes. By treating cells as point sets, we apply Coherent Point Drift (CPD) for initial alignment and refine ",
+    "arxiv_url": "https://arxiv.org/abs/2410.00152v1",
+    "pdf_url": "https://arxiv.org/pdf/2410.00152v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2410.00152",
+    "arxiv_authors": [
+      "Jun Jiang",
+      "Raymond Moore",
+      "Brenna Novotny",
+      "Leo Liu",
+      "Zachary Fogarty",
+      "Ray Guo",
+      "Markovic Svetomir",
+      "Chen Wang"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Multimodal+Alignment+of+Histopathological+Images+Using+Cell+Segmentation+and+Point+Set+Matching+for+Integrative+Cancer+Analysis+Jun+Jiang+Raymond+Moore+Brenna+Novotny+Leo+Liu+Zachary+Fogarty",
+    "gs_search_success": true,
+    "gs_authors": [
+      "dxdAuCQAAAAJ",
+      "HvEAziAAAAAJ",
+      "4irpbaYAAAAJ"
+    ],
+    "citation_count": 1
+  },
+  {
+    "arxiv_id": "2404.03042",
+    "title": "AWOL: Analysis WithOut synthesis using Language",
+    "year": 2024,
+    "published": "2024-04-03T20:04:44Z",
+    "categories": [
+      "cs.CV"
+    ],
+    "abstract": "Many classical parametric 3D shape models exist, but creating novel shapes with such models requires expert knowledge of their parameters. For example, imagine creating a specific type of tree using procedural graphics or a new kind of animal from a statistical shape model. Our key idea is to leverage language to control such existing models to produce novel shapes. This involves learning a mapping between the latent space of a vision-language model and the parameter space of the 3D model, which",
+    "arxiv_url": "https://arxiv.org/abs/2404.03042v1",
+    "pdf_url": "https://arxiv.org/pdf/2404.03042v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2404.03042",
+    "arxiv_authors": [
+      "Silvia Zuffi",
+      "Michael J. Black"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=AWOL%3A+Analysis+WithOut+synthesis+using+Language+Silvia+Zuffi+Michael+J.+Black",
+    "gs_search_success": true,
+    "gs_authors": [
+      "6NjbexEAAAAJ",
+      "-d7Ib5UAAAAJ"
+    ],
+    "citation_count": 6
+  },
+  {
+    "arxiv_id": "2310.08367",
+    "title": "MCU: An Evaluation Framework for Open-Ended Game Agents",
+    "year": 2023,
+    "published": "2023-10-12T14:38:25Z",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "abstract": "Developing AI agents capable of interacting with open-world environments to solve diverse tasks is a compelling challenge. However, evaluating such open-ended agents remains difficult, with current benchmarks facing scalability limitations. To address this, we introduce Minecraft Universe (MCU), a comprehensive evaluation framework set within the open-world video game Minecraft. MCU incorporates three key components: (1) an expanding collection of 3,452 composable atomic tasks that encompasses 1",
+    "arxiv_url": "https://arxiv.org/abs/2310.08367v4",
+    "pdf_url": "https://arxiv.org/pdf/2310.08367v4",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2310.08367",
+    "arxiv_authors": [
+      "Xinyue Zheng",
+      "Haowei Lin",
+      "Kaichen He",
+      "Zihao Wang",
+      "Zilong Zheng",
+      "Yitao Liang"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=MCU%3A+An+Evaluation+Framework+for+Open-Ended+Game+Agents+Xinyue+Zheng+Haowei+Lin+Kaichen+He+Zihao+Wang+Zilong+Zheng",
+    "gs_search_success": true,
+    "gs_authors": [
+      "9sDx70IAAAAJ",
+      "gANaxT0AAAAJ",
+      "LFdJXNcAAAAJ",
+      "KVzR1XEAAAAJ",
+      "I0D-EgQAAAAJ",
+      "Ng-DmJgAAAAJ"
+    ],
+    "citation_count": 4
+  },
+  {
+    "arxiv_id": "2309.15313",
+    "title": "M$^{3}$3D: Learning 3D priors using Multi-Modal Masked Autoencoders for 2D image and video understanding",
+    "year": 2023,
+    "published": "2023-09-26T23:52:09Z",
+    "categories": [
+      "cs.CV"
+    ],
+    "abstract": "We present a new pre-training strategy called M$^{3}$3D ($\\underline{M}$ulti-$\\underline{M}$odal $\\underline{M}$asked $\\underline{3D}$) built based on Multi-modal masked autoencoders that can leverage 3D priors and learned cross-modal representations in RGB-D data. We integrate two major self-supervised learning frameworks; Masked Image Modeling (MIM) and contrastive learning; aiming to effectively embed masked 3D priors and modality complementary features to enhance the correspondence between m",
+    "arxiv_url": "https://arxiv.org/abs/2309.15313v1",
+    "pdf_url": "https://arxiv.org/pdf/2309.15313v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2309.15313",
+    "arxiv_authors": [
+      "Muhammad Abdullah Jamal",
+      "Omid Mohareri"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=M%24%5E%7B3%7D%243D%3A+Learning+3D+priors+using+Multi-Modal+Masked+Autoencoders+for+2D+image+and+video+understanding+Muhammad+Abdullah+Jamal+Omid+Mohareri",
+    "gs_search_success": true,
+    "gs_authors": [
+      "gWNpXlMAAAAJ",
+      "-t_yjBIAAAAJ"
+    ],
+    "citation_count": 3
+  },
+  {
+    "arxiv_id": "2304.09446",
+    "title": "Density-Insensitive Unsupervised Domain Adaption on 3D Object Detection",
+    "year": 2023,
+    "published": "2023-04-19T06:33:07Z",
+    "categories": [
+      "cs.CV"
+    ],
+    "abstract": "3D object detection from point clouds is crucial in safety-critical autonomous driving. Although many works have made great efforts and achieved significant progress on this task, most of them suffer from expensive annotation cost and poor transferability to unknown data due to the domain gap. Recently, few works attempt to tackle the domain gap in objects, but still fail to adapt to the gap of varying beam-densities between two domains, which is critical to mitigate the characteristic differenc",
+    "arxiv_url": "https://arxiv.org/abs/2304.09446v1",
+    "pdf_url": "https://arxiv.org/pdf/2304.09446v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2304.09446",
+    "arxiv_authors": [
+      "Qianjiang Hu",
+      "Daizong Liu",
+      "Wei Hu"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Density-Insensitive+Unsupervised+Domain+Adaption+on+3D+Object+Detection+Qianjiang+Hu+Daizong+Liu+Wei+Hu",
+    "gs_search_success": true,
+    "gs_authors": [
+      "lUw7tVIAAAAJ",
+      "5oFf8Q4AAAAJ",
+      "qiM8pNUAAAAJ"
+    ],
+    "citation_count": 55
+  },
+  {
+    "arxiv_id": "2405.04309",
+    "title": "Non-rigid Structure-from-Motion: Temporally-smooth Procrustean Alignment and Spatially-variant Deformation Modeling",
+    "year": 2024,
+    "published": "2024-05-07T13:33:50Z",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "abstract": "Even though Non-rigid Structure-from-Motion (NRSfM) has been extensively studied and great progress has been made, there are still key challenges that hinder their broad real-world applications: 1) the inherent motion/rotation ambiguity requires either explicit camera motion recovery with extra constraint or complex Procrustean Alignment; 2) existing low-rank modeling of the global shape can over-penalize drastic deformations in the 3D shape sequence. This paper proposes to resolve the above iss",
+    "arxiv_url": "https://arxiv.org/abs/2405.04309v3",
+    "pdf_url": "https://arxiv.org/pdf/2405.04309v3",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2405.04309",
+    "arxiv_authors": [
+      "Jiawei Shi",
+      "Hui Deng",
+      "Yuchao Dai"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Non-rigid+Structure-from-Motion%3A+Temporally-smooth+Procrustean+Alignment+and+Spatially-variant+Deformation+Modeling+Jiawei+Shi+Hui+Deng+Yuchao+Dai",
+    "gs_search_success": true,
+    "gs_authors": [
+      "fddAbqsAAAAJ"
+    ],
+    "citation_count": 1
+  },
+  {
+    "arxiv_id": "2303.10766",
+    "title": "Multi-modal reward for visual relationships-based image captioning",
+    "year": 2023,
+    "published": "2023-03-19T20:52:44Z",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "abstract": "Deep neural networks have achieved promising results in automatic image captioning due to their effective representation learning and context-based content generation capabilities. As a prominent type of deep features used in many of the recent image captioning methods, the well-known bottomup features provide a detailed representation of different objects of the image in comparison with the feature maps directly extracted from the raw image. However, the lack of high-level semantic information ",
+    "arxiv_url": "https://arxiv.org/abs/2303.10766v2",
+    "pdf_url": "https://arxiv.org/pdf/2303.10766v2",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2303.10766",
+    "arxiv_authors": [
+      "Ali Abedi",
+      "Hossein Karshenas",
+      "Peyman Adibi"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Multi-modal+reward+for+visual+relationships-based+image+captioning+Ali+Abedi+Hossein+Karshenas+Peyman+Adibi",
+    "gs_search_success": true,
+    "gs_authors": [
+      "33adiB4AAAAJ",
+      "u-FQZMkAAAAJ"
+    ],
+    "citation_count": 7
+  },
+  {
+    "arxiv_id": "2411.19514",
+    "title": "Enhancing AI microscopy for foodborne bacterial classification via adversarial domain adaptation across optical and biological variability",
+    "year": 2024,
+    "published": "2024-11-29T07:12:36Z",
+    "categories": [
+      "eess.IV",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "abstract": "Rapid detection of foodborne bacteria is critical for food safety and quality, yet traditional culture-based methods require extended incubation and specialized sample preparation. This study addresses these challenges by i) enhancing the generalizability of AI-enabled microscopy for bacterial classification using adversarial domain adaptation and ii) comparing the performance of single-target and multi-domain adaptation. Three Gram-positive (Bacillus coagulans, Bacillus subtilis, Listeria innoc",
+    "arxiv_url": "https://arxiv.org/abs/2411.19514v1",
+    "pdf_url": "https://arxiv.org/pdf/2411.19514v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2411.19514",
+    "arxiv_authors": [
+      "Siddhartha Bhattacharya",
+      "Aarham Wasit",
+      "Mason Earles",
+      "Nitin Nitin",
+      "Luyao Ma",
+      "Jiyoon Yi"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Enhancing+AI+microscopy+for+foodborne+bacterial+classification+via+adversarial+domain+adaptation+across+optical+and+biological+variability+Siddhartha+Bhattacharya+Aarham+Wasit+Mason+Earles+Nitin+Nitin+Luyao+Ma",
+    "gs_search_success": true,
+    "gs_authors": [
+      "PjrSfXgAAAAJ",
+      "r47jW4gAAAAJ",
+      "p8sz18MAAAAJ",
+      "p-n_bTEAAAAJ",
+      "J_zV590AAAAJ"
+    ],
+    "citation_count": 2
+  },
+  {
+    "arxiv_id": "2503.22154",
+    "title": "Dataset Distillation of 3D Point Clouds via Distribution Matching",
+    "year": 2025,
+    "published": "2025-03-28T05:15:22Z",
+    "categories": [
+      "cs.CV"
+    ],
+    "abstract": "Large-scale datasets are usually required to train deep neural networks, but it increases the computational complexity hindering the practical applications. Recently, dataset distillation for images and texts has been attracting a lot of attention, that reduces the original dataset to a synthetic dataset to alleviate the computational burden of training while preserving essential task-relevant information. However, the dataset distillation for 3D point clouds remains largely unexplored, as the p",
+    "arxiv_url": "https://arxiv.org/abs/2503.22154v2",
+    "pdf_url": "https://arxiv.org/pdf/2503.22154v2",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2503.22154",
+    "arxiv_authors": [
+      "Jae-Young Yim",
+      "Dongwook Kim",
+      "Jae-Young Sim"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Dataset+Distillation+of+3D+Point+Clouds+via+Distribution+Matching+Jae-Young+Yim+Dongwook+Kim+Jae-Young+Sim",
+    "gs_search_success": true,
+    "gs_authors": [
+      "YwvMQCQAAAAJ",
+      "Mx6iAMoAAAAJ"
+    ],
+    "citation_count": null
+  },
+  {
+    "arxiv_id": "2502.17212",
+    "title": "A Two-step Linear Mixing Model for Unmixing under Hyperspectral Variability",
+    "year": 2025,
+    "published": "2025-02-24T14:44:40Z",
+    "categories": [
+      "eess.IV",
+      "cs.CV"
+    ],
+    "abstract": "Spectral unmixing is an important task in the research field of hyperspectral image processing. It can be thought of as a regression problem, where the observed variable (i.e., an image pixel) is to be found as a function of the response variables (i.e., the pure materials in a scene, called endmembers). The Linear Mixing Model (LMM) has received a great deal of attention, due to its simplicity and ease of use in, e.g., optimization problems. Its biggest flaw is that it assumes that any pure mat",
+    "arxiv_url": "https://arxiv.org/abs/2502.17212v2",
+    "pdf_url": "https://arxiv.org/pdf/2502.17212v2",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2502.17212",
+    "arxiv_authors": [
+      "Xander Haijen",
+      "Bikram Koirala",
+      "Xuanwen Tao",
+      "Paul Scheunders"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=A+Two-step+Linear+Mixing+Model+for+Unmixing+under+Hyperspectral+Variability+Xander+Haijen+Bikram+Koirala+Xuanwen+Tao+Paul+Scheunders",
+    "gs_search_success": true,
+    "gs_authors": [
+      "ULDIe24AAAAJ",
+      "ReqZbgUAAAAJ",
+      "9iW_yQ4AAAAJ"
+    ],
+    "citation_count": 2
+  },
+  {
+    "arxiv_id": "2401.01730",
+    "title": "STAF: 3D Human Mesh Recovery from Video with Spatio-Temporal Alignment Fusion",
+    "year": 2024,
+    "published": "2024-01-03T13:07:14Z",
+    "categories": [
+      "cs.CV"
+    ],
+    "abstract": "The recovery of 3D human mesh from monocular images has significantly been developed in recent years. However, existing models usually ignore spatial and temporal information, which might lead to mesh and image misalignment and temporal discontinuity. For this reason, we propose a novel Spatio-Temporal Alignment Fusion (STAF) model. As a video-based model, it leverages coherence clues from human motion by an attention-based Temporal Coherence Fusion Module (TCFM). As for spatial mesh-alignment e",
+    "arxiv_url": "https://arxiv.org/abs/2401.01730v1",
+    "pdf_url": "https://arxiv.org/pdf/2401.01730v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2401.01730",
+    "arxiv_authors": [
+      "Wei Yao",
+      "Hongwen Zhang",
+      "Yunlian Sun",
+      "Jinhui Tang"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=STAF%3A+3D+Human+Mesh+Recovery+from+Video+with+Spatio-Temporal+Alignment+Fusion+Wei+Yao+Hongwen+Zhang+Yunlian+Sun+Jinhui+Tang",
+    "gs_search_success": true,
+    "gs_authors": [
+      "GlKbx-4AAAAJ",
+      "6z0m_ZMAAAAJ",
+      "ByBLlEwAAAAJ",
+      "ObAJh4IAAAAJ"
+    ],
+    "citation_count": 19
+  },
+  {
+    "arxiv_id": "2406.00633",
+    "title": "Improving GFlowNets for Text-to-Image Diffusion Alignment",
+    "year": 2024,
+    "published": "2024-06-02T06:36:46Z",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CV",
+      "stat.ML"
+    ],
+    "abstract": "Diffusion models have become the de-facto approach for generating visual data, which are trained to match the distribution of the training dataset. In addition, we also want to control generation to fulfill desired properties such as alignment to a text description, which can be specified with a black-box reward function. Prior works fine-tune pretrained diffusion models to achieve this goal through reinforcement learning-based algorithms. Nonetheless, they suffer from issues including slow cred",
+    "arxiv_url": "https://arxiv.org/abs/2406.00633v3",
+    "pdf_url": "https://arxiv.org/pdf/2406.00633v3",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2406.00633",
+    "arxiv_authors": [
+      "Dinghuai Zhang",
+      "Yizhe Zhang",
+      "Jiatao Gu",
+      "Ruixiang Zhang",
+      "Josh Susskind",
+      "Navdeep Jaitly",
+      "Shuangfei Zhai"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Improving+GFlowNets+for+Text-to-Image+Diffusion+Alignment+Dinghuai+Zhang+Yizhe+Zhang+Jiatao+Gu+Ruixiang+Zhang+Josh+Susskind",
+    "gs_search_success": true,
+    "gs_authors": [
+      "VQYdApgAAAAJ",
+      "Sv2TGqsAAAAJ",
+      "G6vdBYsAAAAJ",
+      "kjMNMLkAAAAJ",
+      "8W-MW9sAAAAJ",
+      "cB1mFBsAAAAJ",
+      "WDVMfggAAAAJ"
+    ],
+    "citation_count": 20
+  },
+  {
+    "arxiv_id": "2305.18614",
+    "title": "Simulation-Aided Deep Learning for Laser Ultrasonic Visualization Testing",
+    "year": 2023,
+    "published": "2023-05-30T00:19:12Z",
+    "categories": [
+      "eess.IV",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "abstract": "In recent years, laser ultrasonic visualization testing (LUVT) has attracted much attention because of its ability to efficiently perform non-contact ultrasonic non-destructive testing.Despite many success reports of deep learning based image analysis for widespread areas, attempts to apply deep learning to defect detection in LUVT images face the difficulty of preparing a large dataset of LUVT images that is too expensive to scale. To compensate for the scarcity of such training data, we propos",
+    "arxiv_url": "https://arxiv.org/abs/2305.18614v1",
+    "pdf_url": "https://arxiv.org/pdf/2305.18614v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2305.18614",
+    "arxiv_authors": [
+      "Miya Nakajima",
+      "Takahiro Saitoh",
+      "Tsuyoshi Kato"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Simulation-Aided+Deep+Learning+for+Laser+Ultrasonic+Visualization+Testing+Miya+Nakajima+Takahiro+Saitoh+Tsuyoshi+Kato",
+    "gs_search_success": true,
+    "gs_authors": [],
+    "citation_count": 2
+  },
+  {
+    "arxiv_id": "2408.04955",
+    "title": "Model Debiasing by Learnable Data Augmentation",
+    "year": 2024,
+    "published": "2024-08-09T09:19:59Z",
+    "categories": [
+      "cs.LG",
+      "cs.CV"
+    ],
+    "abstract": "Deep Neural Networks are well known for efficiently fitting training data, yet experiencing poor generalization capabilities whenever some kind of bias dominates over the actual task labels, resulting in models learning \"shortcuts\". In essence, such models are often prone to learn spurious correlations between data and labels. In this work, we tackle the problem of learning from biased data in the very realistic unsupervised scenario, i.e., when the bias is unknown. This is a much harder task as",
+    "arxiv_url": "https://arxiv.org/abs/2408.04955v1",
+    "pdf_url": "https://arxiv.org/pdf/2408.04955v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2408.04955",
+    "arxiv_authors": [
+      "Pietro Morerio",
+      "Ruggero Ragonesi",
+      "Vittorio Murino"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Model+Debiasing+by+Learnable+Data+Augmentation+Pietro+Morerio+Ruggero+Ragonesi+Vittorio+Murino",
+    "gs_search_success": true,
+    "gs_authors": [
+      "gFf7g6YAAAAJ",
+      "yV3_PTkAAAAJ",
+      "lPV9rbkAAAAJ"
+    ],
+    "citation_count": 1
+  },
+  {
+    "arxiv_id": "2410.01185",
+    "title": "Formula-Driven Data Augmentation and Partial Retinal Layer Copying for Retinal Layer Segmentation",
+    "year": 2024,
+    "published": "2024-10-02T02:37:11Z",
+    "categories": [
+      "eess.IV",
+      "cs.CV"
+    ],
+    "abstract": "Major retinal layer segmentation methods from OCT images assume that the retina is flattened in advance, and thus cannot always deal with retinas that have changes in retinal structure due to ophthalmopathy and/or curvature due to myopia. To eliminate the use of flattening in retinal layer segmentation for practicality of such methods, we propose novel data augmentation methods for OCT images. Formula-driven data augmentation (FDDA) emulates a variety of retinal structures by vertically shifting",
+    "arxiv_url": "https://arxiv.org/abs/2410.01185v1",
+    "pdf_url": "https://arxiv.org/pdf/2410.01185v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2410.01185",
+    "arxiv_authors": [
+      "Tsubasa Konno",
+      "Takahiro Ninomiya",
+      "Kanta Miura",
+      "Koichi Ito",
+      "Noriko Himori",
+      "Parmanand Sharma",
+      "Toru Nakazawa",
+      "Takafumi Aoki"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Formula-Driven+Data+Augmentation+and+Partial+Retinal+Layer+Copying+for+Retinal+Layer+Segmentation+Tsubasa+Konno+Takahiro+Ninomiya+Kanta+Miura+Koichi+Ito+Noriko+Himori",
+    "gs_search_success": true,
+    "gs_authors": [
+      "HWBwO0sAAAAJ",
+      "7P-vK94AAAAJ"
+    ],
+    "citation_count": null
+  },
+  {
+    "arxiv_id": "2505.18021",
+    "title": "Building Floor Number Estimation from Crowdsourced Street-Level Images: Munich Dataset and Baseline Method",
+    "year": 2025,
+    "published": "2025-05-23T15:27:46Z",
+    "categories": [
+      "cs.CV"
+    ],
+    "abstract": "Accurate information on the number of building floors, or above-ground storeys, is essential for household estimation, utility provision, risk assessment, evacuation planning, and energy modeling. Yet large-scale floor-count data are rarely available in cadastral and 3D city databases. This study proposes an end-to-end deep learning framework that infers floor numbers directly from unrestricted, crowdsourced street-level imagery, avoiding hand-crafted features and generalizing across diverse fac",
+    "arxiv_url": "https://arxiv.org/abs/2505.18021v1",
+    "pdf_url": "https://arxiv.org/pdf/2505.18021v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2505.18021",
+    "arxiv_authors": [
+      "Yao Sun",
+      "Sining Chen",
+      "Yifan Tian",
+      "Xiao Xiang Zhu"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Building+Floor+Number+Estimation+from+Crowdsourced+Street-Level+Images%3A+Munich+Dataset+and+Baseline+Method+Yao+Sun+Sining+Chen+Yifan+Tian+Xiao+Xiang+Zhu",
+    "gs_search_success": true,
+    "gs_authors": [
+      "VGHLoF0AAAAJ",
+      "iAN0lDQAAAAJ"
+    ],
+    "citation_count": null
+  },
+  {
+    "arxiv_id": "2501.06903",
+    "title": "Synthetic Prior for Few-Shot Drivable Head Avatar Inversion",
+    "year": 2025,
+    "published": "2025-01-12T19:01:05Z",
+    "categories": [
+      "cs.CV"
+    ],
+    "abstract": "We present SynShot, a novel method for the few-shot inversion of a drivable head avatar based on a synthetic prior. We tackle three major challenges. First, training a controllable 3D generative network requires a large number of diverse sequences, for which pairs of images and high-quality tracked meshes are not always available. Second, the use of real data is strictly regulated (e.g., under the General Data Protection Regulation, which mandates frequent deletion of models and data to accommod",
+    "arxiv_url": "https://arxiv.org/abs/2501.06903v3",
+    "pdf_url": "https://arxiv.org/pdf/2501.06903v3",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2501.06903",
+    "arxiv_authors": [
+      "Wojciech Zielonka",
+      "Stephan J. Garbin",
+      "Alexandros Lattas",
+      "George Kopanas",
+      "Paulo Gotardo",
+      "Thabo Beeler",
+      "Justus Thies",
+      "Timo Bolkart"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=Synthetic+Prior+for+Few-Shot+Drivable+Head+Avatar+Inversion+Wojciech+Zielonka+Stephan+J.+Garbin+Alexandros+Lattas+George+Kopanas+Paulo+Gotardo",
+    "gs_search_success": true,
+    "gs_authors": [
+      "QLWLLHMAAAAJ",
+      "4vpQvuwAAAAJ",
+      "0wJRUlsAAAAJ",
+      "aITcRswAAAAJ",
+      "Rcv1-EIAAAAJ",
+      "RbfmHUgAAAAJ",
+      "fNteVjwAAAAJ",
+      "q5y44h8AAAAJ"
+    ],
+    "citation_count": 8
+  },
+  {
+    "arxiv_id": "2307.05784",
+    "title": "EgoAdapt: A multi-stream evaluation study of adaptation to real-world egocentric user video",
+    "year": 2023,
+    "published": "2023-07-11T20:23:23Z",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "abstract": "In egocentric action recognition a single population model is typically trained and subsequently embodied on a head-mounted device, such as an augmented reality headset. While this model remains static for new users and environments, we introduce an adaptive paradigm of two phases, where after pretraining a population model, the model adapts on-device and online to the user's experience. This setting is highly challenging due to the change from population to user domain and the distribution shif",
+    "arxiv_url": "https://arxiv.org/abs/2307.05784v1",
+    "pdf_url": "https://arxiv.org/pdf/2307.05784v1",
+    "google_scholar_url": "https://scholar.google.com/scholar_lookup?arxiv_id=2307.05784",
+    "arxiv_authors": [
+      "Matthias De Lange",
+      "Hamid Eghbalzadeh",
+      "Reuben Tan",
+      "Michael Iuzzolino",
+      "Franziska Meier",
+      "Karl Ridgeway"
+    ],
+    "gs_search_url": "https://scholar.google.com/scholar?q=EgoAdapt%3A+A+multi-stream+evaluation+study+of+adaptation+to+real-world+egocentric+user+video+Matthias+De+Lange+Hamid+Eghbalzadeh+Reuben+Tan+Michael+Iuzzolino+Franziska+Meier",
+    "gs_search_success": true,
+    "gs_authors": [
+      "-yGxzA4AAAAJ",
+      "7oxkHYYAAAAJ",
+      "WiWKsngAAAAJ",
+      "ALlIxw8AAAAJ",
+      "cjmjU5AAAAAJ",
+      "_Y9V66EAAAAJ"
+    ],
+    "citation_count": 2
   }
 ]
