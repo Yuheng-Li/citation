@@ -7,7 +7,9 @@ import random
 import time
 import re
 import requests
+import os
 from urllib.parse import quote_plus
+from archived_code.parse_name_and_id_from_gs_for_arxiv.gs_utils import extract_authors_from_gs_html
 
 # Bright Data configuration
 headers = {
@@ -70,10 +72,29 @@ def extract_citation_count_from_html(html):
             pass
     return None
 
+def safe_save_json(data, output_file):
+    """安全地保存 JSON 文件（原子写入）"""
+    temp_file = output_file + '.tmp'
+    try:
+        with open(temp_file, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        os.replace(temp_file, output_file)  # 原子替换
+        return True
+    except Exception as e:
+        print(f"  ⚠️  保存失败: {e}")
+        if os.path.exists(temp_file):
+            os.remove(temp_file)
+        return False
+
 def main():
     # 配置参数
-    sample_size = 50  # 随机采样的论文数量
+    sample_size = 4000  # 随机采样的论文数量
     output_file = "gs_data_collection.json"
+    raw_html_dir = "/mnt/localssd/raw_html"  # raw HTML 保存目录
+    
+    # 创建 raw HTML 保存目录
+    os.makedirs(raw_html_dir, exist_ok=True)
+    print(f"raw HTML 保存目录: {raw_html_dir}\n")
     
     # 加载论文数据
     json_file = "cv_papers_20230101_to_20250531.json"
@@ -149,22 +170,46 @@ def main():
             html = fetch_google_scholar_page(gs_search_url)
             
             if html:
+                # 保存 raw HTML 到文件
+                html_filename = f"{arxiv_id.replace('/', '_')}.html"
+                html_filepath = os.path.join(raw_html_dir, html_filename)
+                try:
+                    with open(html_filepath, 'w', encoding='utf-8') as html_file:
+                        html_file.write(html)
+                    print(f"  💾 已保存 HTML: {html_filename}")
+                except Exception as e:
+                    print(f"  ⚠️  保存 HTML 失败: {e}")
+                
                 # 提取 Google Scholar IDs
                 scholar_ids = extract_scholar_ids_from_html(html)
                 
                 # 提取引用数量
                 citation_count = extract_citation_count_from_html(html)
                 
+                # 提取作者数量（使用旧版本的函数）
+                gs_author_count = None
+                try:
+                    authors_list, is_truncated, raw_text = extract_authors_from_gs_html(html, title=title)
+                    if authors_list is not None:  # None 表示多个匹配结果
+                        gs_author_count = len(authors_list)
+                except Exception as e:
+                    # 如果提取作者数量失败，不影响整体流程
+                    print(f"  ⚠️  提取作者数量失败: {e}")
+                
                 result['gs_search_success'] = True
                 result['gs_authors'] = scholar_ids  # 只保存 ID 列表
                 result['citation_count'] = citation_count
+                result['gs_author_count'] = gs_author_count
+                result['raw_html_filename'] = html_filename  # 添加 HTML 文件名
                 
-                print(f"  ✅ 成功提取 {len(scholar_ids)} 个 ID")
+                print(f"  ✅ 成功提取 {len(scholar_ids)} 个 ID，{gs_author_count} 个作者")
             else:
                 print(f"  ❌ 无法获取 Google Scholar 页面")
                 result['gs_search_success'] = False
                 result['gs_authors'] = []
                 result['citation_count'] = None
+                result['gs_author_count'] = None
+                result['raw_html_filename'] = None
                 result['error_type'] = "fetch_failed"
         except Exception as e:
             # 检查是否是超时错误
@@ -179,23 +224,24 @@ def main():
             result['gs_search_success'] = False
             result['gs_authors'] = []
             result['citation_count'] = None
+            result['gs_author_count'] = None
+            result['raw_html_filename'] = None
             result['error_type'] = error_type
         
         results.append(result)
         print()
         
-        # 每处理10篇保存一次
+        # 每处理10篇保存一次（使用原子写入）
         if idx % save_interval == 0:
-            with open(output_file, 'w', encoding='utf-8') as f:
-                json.dump(results, f, ensure_ascii=False, indent=2)
-            print(f"  💾 已保存 {len(results)} 篇论文（每 {save_interval} 篇自动保存）\n")
+            if safe_save_json(results, output_file):
+                print(f"  💾 已保存 {len(results)} 篇论文（每 {save_interval} 篇自动保存）\n")
         
         # 避免请求过快
-        time.sleep(1)
+        time.sleep(0.1)
     
-    # 最后保存一次（确保所有结果都保存了）
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(results, f, ensure_ascii=False, indent=2)
+    # 最后保存一次（确保所有结果都保存了，使用原子写入）
+    if not safe_save_json(results, output_file):
+        raise Exception("最终保存失败")
     
     print(f"\n结果已保存到: {output_file}")
     print(f"总共处理: {len(results)} 篇论文（包含之前已处理的 {initial_count} 篇）")
