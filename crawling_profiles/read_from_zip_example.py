@@ -14,7 +14,7 @@ if __name__ == "__main__":
     print("=" * 60)
     print("示例1: 从zip文件收集论文")
     print("=" * 60)
-    zip_file = "all_author_profiles.zip"
+    zip_file = "new_all_author_profiles.zip"
     papers = collect_all_papers(zip_file, num_authors=10)
     print(f"✅ 收集了 {len(papers)} 篇论文\n")
     

@@ -86,9 +86,9 @@ def _collect_from_zip(zip_path: Path, num_authors: int) -> List[Dict]:
     all_papers = []
     
     with zipfile.ZipFile(zip_path, 'r') as zipf:
-        # 获取所有JSON文件名
+        # 获取所有JSON文件名（支持带路径的文件）
         json_files = [name for name in zipf.namelist() 
-                     if name.startswith("author_") and name.endswith(".json")]
+                     if 'author_' in name and name.endswith(".json")]
         
         print(f"zip文件中找到 {len(json_files)} 个 profile 文件")
         
@@ -170,7 +170,7 @@ def read_all_profiles(profiles_source: Union[str, Path], num_authors: Optional[i
     elif profiles_source.suffix == '.zip' and profiles_source.exists():
         with zipfile.ZipFile(profiles_source, 'r') as zipf:
             json_files = [name for name in zipf.namelist() 
-                         if name.startswith("author_") and name.endswith(".json")]
+                         if 'author_' in name and name.endswith(".json")]
             
             if num_authors and num_authors < len(json_files):
                 json_files = random.sample(json_files, num_authors)

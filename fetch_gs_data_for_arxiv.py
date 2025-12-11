@@ -140,7 +140,7 @@ def main():
     results = existing_results.copy()  # 保留已有结果
     
     # 保存间隔
-    save_interval = 10
+    save_interval = 100
     initial_count = len(existing_results)  # 记录初始数量
     
     for idx, paper in enumerate(sampled_papers, 1):
@@ -237,7 +237,7 @@ def main():
                 print(f"  💾 已保存 {len(results)} 篇论文（每 {save_interval} 篇自动保存）\n")
         
         # 避免请求过快
-        time.sleep(0.1)
+        time.sleep(0.05)
     
     # 最后保存一次（确保所有结果都保存了，使用原子写入）
     if not safe_save_json(results, output_file):
