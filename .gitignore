@@ -1,0 +1,28 @@
+# Large data files (exceed GitHub 100MB limit)
+gs_data_collection.json
+author_to_papers.json
+crawling_profiles/*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+

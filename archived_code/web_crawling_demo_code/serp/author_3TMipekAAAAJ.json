@@ -1,0 +1,2893 @@
+{
+  "search_metadata": {
+    "id": "69289c83703f17ac42e776b7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6dbba4acc4fb6640/69289c83703f17ac42e776b7.json",
+    "created_at": "2025-11-27 18:46:27 UTC",
+    "processed_at": "2025-11-27 18:46:27 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?user=3TMipekAAAAJ&hl=en&cstart=200&pagesize=100&sortby=pubdate",
+    "raw_html_file": "https://serpapi.com/searches/6dbba4acc4fb6640/69289c83703f17ac42e776b7.html",
+    "total_time_taken": 0.61
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "author_id": "3TMipekAAAAJ",
+    "hl": "en",
+    "start": 200,
+    "num": "100",
+    "sort": "pubdate"
+  },
+  "author": {
+    "name": "Krishna Kumar Singh",
+    "affiliations": "Adobe Research",
+    "email": "Verified email at ucdavis.edu",
+    "website": "http://kkanshul.github.io/",
+    "interests": [
+      {
+        "title": "Computer Vision",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_vision"
+      },
+      {
+        "title": "Machine Learning",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:machine_learning",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning"
+      }
+    ],
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=3TMipekAAAAJ&citpid=3"
+  },
+  "articles": [
+    {
+      "title": "Learning an Image Editing Model without Image Editing Pairs",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:j7_hQOaDUrUC",
+      "citation_id": "3TMipekAAAAJ:j7_hQOaDUrUC",
+      "authors": "N Kumari, SY Wang, N Zhao, Y Nitzan, Y Li, KK Singh, R Zhang, ...",
+      "publication": "arXiv preprint arXiv:2510.14978, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Group portrait photo editing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:7BrZ7Jt4UNcC",
+      "citation_id": "3TMipekAAAAJ:7BrZ7Jt4UNcC",
+      "authors": "Y Jiang, N Zhao, Q Liu, KK Singh",
+      "publication": "US Patent App. 18/625,461, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "MultiCOIN: Multi-Modal COntrollable Video INbetweening",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:nRpfm8aw39MC",
+      "citation_id": "3TMipekAAAAJ:nRpfm8aw39MC",
+      "authors": "M Tanveer, Y Zhou, S Niklaus, AM Amiri, H Zhang, KK Singh, N Zhao",
+      "publication": "arXiv preprint arXiv:2510.08561, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Human inpainting utilizing a segmentation branch for generating an infill segmentation map",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:PaBasH6fAo0C",
+      "citation_id": "3TMipekAAAAJ:PaBasH6fAo0C",
+      "authors": "KK Singh, Y Li, J Lu, DC Aksit, Y Wang, J Yang, T Hinz, Q Liu, J Zhang, ...",
+      "publication": "US Patent App. 19/224,477, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Utilizing machine learning models to generate image editing directions in a latent space",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:MpfHP-DdYjUC",
+      "citation_id": "3TMipekAAAAJ:MpfHP-DdYjUC",
+      "authors": "Y Li, R Zhang, KK Singh, J Lu, G Parmar, JY Zhu",
+      "publication": "US Patent App. 19/224,170, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Modifying digital images via multi-layered scene completion facilitated by artificial intelligence",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:NyGDZy8z5eUC",
+      "citation_id": "3TMipekAAAAJ:NyGDZy8z5eUC",
+      "authors": "D Pakhomov, Q Liu, Z Ding, S Cohen, Z Lin, J Zhang, Z Zhang, O Dibua, ...",
+      "publication": "US Patent App. 19/206,944, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "3d-fixup: Advancing photo editing with 3d priors",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:F9fV5C73w3QC",
+      "citation_id": "3TMipekAAAAJ:F9fV5C73w3QC",
+      "authors": "YC Cheng, KK Singh, JS Yoon, A Schwing, LY Gui, M Gadelha, ...",
+      "publication": "Proceedings of the Special Interest Group on Computer Graphics and …, 2025",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7738529317900119595",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7738529317900119595&engine=google_scholar&hl=en",
+        "cites_id": "7738529317900119595"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Discovering and mitigating biases in large pre-trained multimodal based image editing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:gKiMpY-AVTkC",
+      "citation_id": "3TMipekAAAAJ:gKiMpY-AVTkC",
+      "authors": "MM Tanjim, KK Singh, K Kafle, R Sinha",
+      "publication": "US Patent App. 18/404,295, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:gVv57TyPmFsC",
+      "citation_id": "3TMipekAAAAJ:gVv57TyPmFsC",
+      "authors": "CH Yeh, Y Wang, N Zhao, R Zhang, Y Li, Y Ma, KK Singh",
+      "publication": "arXiv preprint arXiv:2507.05259, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Generating a modified digital image utilizing a human inpainting model",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:5icHVeHT4IsC",
+      "citation_id": "3TMipekAAAAJ:5icHVeHT4IsC",
+      "authors": "KK Singh, Y Li, J Lu, DC Aksit, Y Wang, J Yang, T Hinz, Q Liu, J Zhang, ...",
+      "publication": "US Patent App. 19/073,426, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Utilizing cross-attention guidance to preserve content in diffusion-based image modifications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:0izLItjtcgwC",
+      "citation_id": "3TMipekAAAAJ:0izLItjtcgwC",
+      "authors": "Y Li, R Zhang, KK Singh, J Lu, G Parmar, JY Zhu",
+      "publication": "US Patent 12,333,636, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Utilizing a generative machine learning model to create modified digital images from an infill semantic map",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:86PQX7AUzd4C",
+      "citation_id": "3TMipekAAAAJ:86PQX7AUzd4C",
+      "authors": "Q Liu, J Zhang, KK Singh, S Cohen, Z Lin",
+      "publication": "US Patent 12,333,691, 2025",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4552569054643371741",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4552569054643371741&engine=google_scholar&hl=en",
+        "cites_id": "4552569054643371741"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Modifying digital images via multi-layered scene completion facilitated by artificial intelligence",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:5qfkUJPXOUwC",
+      "citation_id": "3TMipekAAAAJ:5qfkUJPXOUwC",
+      "authors": "D Pakhomov, Q Liu, Z Ding, S Cohen, Z Lin, J Zhang, Z Zhang, O Dibua, ...",
+      "publication": "US Patent 12,333,692, 2025",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8969989145557357958",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8969989145557357958&engine=google_scholar&hl=en",
+        "cites_id": "8969989145557357958"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Coupled Rainfall-Runoff and Hydrodynamic Modeling using MIKE+ for Flood Simulation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:4xDN1ZYqzskC",
+      "citation_id": "3TMipekAAAAJ:4xDN1ZYqzskC",
+      "authors": "K Vashist, KK Singh",
+      "publication": "Iranian Journal of Science and Technology, Transactions of Civil Engineering …, 2025",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10000118230213479238",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10000118230213479238&engine=google_scholar&hl=en",
+        "cites_id": "10000118230213479238"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "X-fusion: Introducing new modality to frozen large language models",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:OR75R8vi5nAC",
+      "citation_id": "3TMipekAAAAJ:OR75R8vi5nAC",
+      "authors": "S Mo, T Nguyen, X Huang, SS Iyer, Y Li, Y Liu, A Tandon, E Shechtman, ...",
+      "publication": "arXiv preprint arXiv:2504.20996, 2025",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14978972479167626742",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14978972479167626742&engine=google_scholar&hl=en",
+        "cites_id": "14978972479167626742"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Regulatory Frameworks and Biosafety Protocols of Nanomaterials in Agro-Based Applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:_OXeSy2IsFwC",
+      "citation_id": "3TMipekAAAAJ:_OXeSy2IsFwC",
+      "authors": "A Singh, K Singh, B Kumari, PJEFSTC Kumar, H Planet",
+      "publication": "Eco-Friendly Nanotechnology: Harnessing Small-Scale Technologies for a …, 2025",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3771390165954614611",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3771390165954614611&engine=google_scholar&hl=en",
+        "cites_id": "3771390165954614611"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Nano-Formulated Pesticidal Constructs: Eco-Conscious Strategies for Phytopathogenic Containment",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:8xutWZnSdmoC",
+      "citation_id": "3TMipekAAAAJ:8xutWZnSdmoC",
+      "authors": "B Kumari, P Kumar, AP Singh, KK Singh",
+      "publication": "Eco-Friendly Nanotechnology: Harnessing Small-Scale Technologies for a …, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Text2relight: Creative portrait relighting with text guidance",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:2VqYfGB8ITEC",
+      "citation_id": "3TMipekAAAAJ:2VqYfGB8ITEC",
+      "authors": "J Cha, M Ren, KK Singh, H Zhang, Y Hold-Geoffroy, S Yoon, HJ Jung, ...",
+      "publication": "Proceedings of the AAAI Conference on Artificial Intelligence 39 (2), 1980-1988, 2025",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11414595121576472796",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11414595121576472796&engine=google_scholar&hl=en",
+        "cites_id": "11414595121576472796"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Image and depth map generation using a conditional machine learning",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:yqoGN6RLRZoC",
+      "citation_id": "3TMipekAAAAJ:yqoGN6RLRZoC",
+      "authors": "Y Li, MA Gadelha, KK Singh, S Pirk",
+      "publication": "US Patent App. 18/481,719, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Diverse image inpainting using contrastive learning",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:VaXvl8Fpj5cC",
+      "citation_id": "3TMipekAAAAJ:VaXvl8Fpj5cC",
+      "authors": "KK Singh, Y Li, Y Li, J Lu, E Shechtman",
+      "publication": "US Patent 12,272,031, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Generating a modified digital image utilizing a human inpainting model",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:PVjk1bu6vJQC",
+      "citation_id": "3TMipekAAAAJ:PVjk1bu6vJQC",
+      "authors": "KK Singh, Y Li, J Lu, DC Aksit, Y Wang, J Yang, T Hinz, Q Liu, J Zhang, ...",
+      "publication": "US Patent 12,260,530, 2025",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16014332363023203233",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16014332363023203233&engine=google_scholar&hl=en",
+        "cites_id": "16014332363023203233"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Generating, Fast and Slow: Scalable Parallel Video Generation with Video Interface Networks",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:DJbcl8HfkQkC",
+      "citation_id": "3TMipekAAAAJ:DJbcl8HfkQkC",
+      "authors": "B Dedhia, D Bourgin, KK Singh, Y Li, Y Kang, Z Xu, NK Jha, Y Liu",
+      "publication": "arXiv preprint arXiv:2503.17539, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Synergistic Impact of Humic Acid and Biofertilizers on the Growth and Yield of Strawberry (Fragaria× ananassa Duch): A Review",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:fbc8zXXH2BUC",
+      "citation_id": "3TMipekAAAAJ:fbc8zXXH2BUC",
+      "authors": "KK Singh, AS Chahal, A Sharma, MA Alam",
+      "publication": "Journal of Experimental Agriculture International 47 (3), 92-99, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Utilizing individual-concept text-image alignment to enhance compositional capacity of text-to-image models",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:mNrWkgRL2YcC",
+      "citation_id": "3TMipekAAAAJ:mNrWkgRL2YcC",
+      "authors": "Z Bao, Y Li, KK Singh",
+      "publication": "US Patent App. 18/457,895, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Complete 3d object reconstruction from an incomplete image",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:4vMrXwiscB8C",
+      "citation_id": "3TMipekAAAAJ:4vMrXwiscB8C",
+      "authors": "JS Yoon, Y Wang, KK Singh, J Wang, J Lu",
+      "publication": "US Patent App. 18/242,380, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Controllable diffusion model",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:HIFyuExEbWQC",
+      "citation_id": "3TMipekAAAAJ:HIFyuExEbWQC",
+      "authors": "W Cho, H Ravi, M Harikumar, VN Khuc, KK Singh, J Lu, AG Kale",
+      "publication": "US Patent App. 18/459,526, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Image inpainting using a content preservation value",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:dBIO0h50nwkC",
+      "citation_id": "3TMipekAAAAJ:dBIO0h50nwkC",
+      "authors": "Z Yuqian, KK Singh, B Delarre, Z Lin, J Lu, P Taesung, S Amirghodsi, ...",
+      "publication": "US Patent App. 18/454,850, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Gan image generation from feature regularization",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:QYdC8u9Cj1oC",
+      "citation_id": "3TMipekAAAAJ:QYdC8u9Cj1oC",
+      "authors": "MJ Chong, KK Singh, Y Li, J Lu",
+      "publication": "US Patent App. 18/357,621, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Flood Risk Mapping Using Analytic Hierarchy Process (AHP)—An Overview",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:2tRrZ1ZAMYUC",
+      "citation_id": "3TMipekAAAAJ:2tRrZ1ZAMYUC",
+      "authors": "A Sharma, K Vashist, KK Singh",
+      "publication": "Flood Forecasting and Hydraulic Structures: Select Proceedings of HYDRO 2023 …, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Mix and match human image generation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:OTTXONDVkokC",
+      "citation_id": "3TMipekAAAAJ:OTTXONDVkokC",
+      "authors": "R Jain, M Hemani, DC Aksit, KK Singh, J Lu, M Sarkar, B Krishnamurthy",
+      "publication": "US Patent App. 18/341,982, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Digital image reposing based on multiple input views",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:mlAyqtXpCwEC",
+      "citation_id": "3TMipekAAAAJ:mlAyqtXpCwEC",
+      "authors": "R Jain, M Hemani, M Sarkar, KK Singh, J Lu, DC Aksit, B Krishnamurthy",
+      "publication": "US Patent App. 18/215,484, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Can3Tok: Canonical 3D Tokenization and Latent Modeling of Scene-Level 3D Gaussians",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:Bg7qf7VwUHIC",
+      "citation_id": "3TMipekAAAAJ:Bg7qf7VwUHIC",
+      "authors": "Q Gao, I Georgiev, TY Wang, KK Singh, U Neumann, JS Yoon",
+      "publication": "Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:LhH-TYMQEocC",
+      "citation_id": "3TMipekAAAAJ:LhH-TYMQEocC",
+      "authors": "O Kara, KK Singh, F Liu, D Ceylan, JM Rehg, T Hinz",
+      "publication": "Proceedings of the Computer Vision and Pattern Recognition Conference, 28405 …, 2025",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4622260615584028002",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4622260615584028002&engine=google_scholar&hl=en",
+        "cites_id": "4622260615584028002"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Yo'Chameleon: Personalized Vision and Language Generation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:3htObqc8RwsC",
+      "citation_id": "3TMipekAAAAJ:3htObqc8RwsC",
+      "authors": "T Nguyen, KK Singh, J Shi, T Bui, YJ Lee, Y Li",
+      "publication": "Proceedings of the Computer Vision and Pattern Recognition Conference, 14438 …, 2025",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17793009958632102328",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17793009958632102328&engine=google_scholar&hl=en",
+        "cites_id": "17793009958632102328"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Comprehensive Relighting: Generalizable and Consistent Monocular Human Relighting and Harmonization",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:HtS1dXgVpQUC",
+      "citation_id": "3TMipekAAAAJ:HtS1dXgVpQUC",
+      "authors": "J Wang, J Liu, X Sun, KK Singh, Z Shu, H Zhang, J Yang, N Zhao, ...",
+      "publication": "Proceedings of the Computer Vision and Pattern Recognition Conference, 380-390, 2025",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2134813430234361783",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2134813430234361783&engine=google_scholar&hl=en",
+        "cites_id": "2134813430234361783"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Dollar: Few-step video generation via distillation and latent reward optimization",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:WJVC3Jt7v1AC",
+      "citation_id": "3TMipekAAAAJ:WJVC3Jt7v1AC",
+      "authors": "Z Ding, C Jin, D Liu, H Zheng, KK Singh, Q Zhang, Y Kang, Z Lin, Y Liu",
+      "publication": "Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2025",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11470345113542951359",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11470345113542951359&engine=google_scholar&hl=en",
+        "cites_id": "11470345113542951359"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Digital image reposing techniques",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:IRz6iEL74y4C",
+      "citation_id": "3TMipekAAAAJ:IRz6iEL74y4C",
+      "authors": "R Jain, M Hemani, M Sarkar, KK Singh, J Lu, DC Aksit, B Krishnamurthy",
+      "publication": "US Patent App. 18/213,118, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Generative portrait shadow removal",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:HtEfBTGE9r8C",
+      "citation_id": "3TMipekAAAAJ:HtEfBTGE9r8C",
+      "authors": "JS Yoon, Z Shu, M Ren, C Zhang, Y Hold-Geoffroy, KK Singh, H Zhang",
+      "publication": "ACM Transactions on Graphics (TOG) 43 (6), 1-13, 2024",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9564925276767963550",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9564925276767963550&engine=google_scholar&hl=en",
+        "cites_id": "9564925276767963550"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Motionbridge: Dynamic video inbetweening with flexible controls",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:_5tno0g5mFcC",
+      "citation_id": "3TMipekAAAAJ:_5tno0g5mFcC",
+      "authors": "M Tanveer, Y Zhou, S Niklaus, AM Amiri, H Zhang, KK Singh, N Zhao",
+      "publication": "arXiv preprint arXiv:2412.13190, 2024",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4758017841864274521",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4758017841864274521&engine=google_scholar&hl=en",
+        "cites_id": "4758017841864274521"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Actanywhere: Subject-aware video background generation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:i2xiXl-TujoC",
+      "citation_id": "3TMipekAAAAJ:i2xiXl-TujoC",
+      "authors": "B Pan, Z Xu, CH Huang, KK Singh, Y Zhou, LJ Guibas, J Yang",
+      "publication": "Advances in Neural Information Processing Systems 37, 29754-29776, 2024",
+      "cited_by": {
+        "value": 10,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1390406393310300474",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1390406393310300474&engine=google_scholar&hl=en",
+        "cites_id": "1390406393310300474"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Generative image filling using a reference image",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:DUooU5lO8OsC",
+      "citation_id": "3TMipekAAAAJ:DUooU5lO8OsC",
+      "authors": "Z Yuqian, KK Singh, Z Lin, Q Liu, Z Zhang, S Amirghodsi, E Shechtman, ...",
+      "publication": "US Patent App. 18/515,378, 2024",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7676009059951375376",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7676009059951375376&engine=google_scholar&hl=en",
+        "cites_id": "7676009059951375376"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Image inversion using multiple latent spaces",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:lmc2jWPfTJgC",
+      "citation_id": "3TMipekAAAAJ:lmc2jWPfTJgC",
+      "authors": "G Parmar, KK Singh, Y Li, R Zhang, J Lu",
+      "publication": "US Patent 12,159,413, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Image generation with multiple image editing modes",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:4hFrxpcac9AC",
+      "citation_id": "3TMipekAAAAJ:4hFrxpcac9AC",
+      "authors": "Z Yuqian, KK Singh, Z Zhang, D Liu, Z Lin, J Zhang, Q Liu, J Lu, ...",
+      "publication": "US Patent App. 18/474,536, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Utilizing regularized forward diffusion for improved inversion of digital images",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:a9-T7VOCCH8C",
+      "citation_id": "3TMipekAAAAJ:a9-T7VOCCH8C",
+      "authors": "Y Li, R Zhang, KK Singh, J Lu, G Parmar, JY Zhu",
+      "publication": "US Patent App. 18/178,212, 2024",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=439179022591892123",
+        "serpapi_link": "https://serpapi.com/search.json?cites=439179022591892123&engine=google_scholar&hl=en",
+        "cites_id": "439179022591892123"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "One-click image extension with quick mask adjustment",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:NXb4pA-qfm4C",
+      "citation_id": "3TMipekAAAAJ:NXb4pA-qfm4C",
+      "authors": "Z Yuqian, E Shechtman, Z Lin, KK Singh, J Lu, CS Barnes, S Amirghodsi",
+      "publication": "US Patent App. 18/610,861, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Enhanced controllability of diffusion models via feature disentanglement and realism-enhanced sampling methods",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:6ZxmRoH8BuwC",
+      "citation_id": "3TMipekAAAAJ:6ZxmRoH8BuwC",
+      "authors": "W Cho, H Ravi, M Harikumar, V Khuc, KK Singh, J Lu, D Inouye, A Kale",
+      "publication": "European Conference on Computer Vision, 285-301, 2024",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4215432547462849233",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4215432547462849233&engine=google_scholar&hl=en",
+        "cites_id": "4215432547462849233"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Removing distributional discrepancies in captions improves image-text alignment",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:anf4URPfarAC",
+      "citation_id": "3TMipekAAAAJ:anf4URPfarAC",
+      "authors": "Y Li, H Liu, M Cai, Y Li, E Shechtman, Z Lin, YJ Lee, KK Singh",
+      "publication": "European Conference on Computer Vision, 405-422, 2024",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10559307339299683236",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10559307339299683236&engine=google_scholar&hl=en",
+        "cites_id": "10559307339299683236"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Groupdiff: Diffusion-based group portrait editing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:8d8msizDQcsC",
+      "citation_id": "3TMipekAAAAJ:8d8msizDQcsC",
+      "authors": "Y Jiang, N Zhao, Q Liu, KK Singh, S Yang, CC Loy, Z Liu",
+      "publication": "European Conference on Computer Vision, 221-239, 2024",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4602111547047284017",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4602111547047284017&engine=google_scholar&hl=en",
+        "cites_id": "4602111547047284017"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Utilizing machine learning models to generate image editing directions in a latent space",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:FAceZFleit8C",
+      "citation_id": "3TMipekAAAAJ:FAceZFleit8C",
+      "authors": "Y Li, R Zhang, KK Singh, J Lu, G Parmar, JY Zhu",
+      "publication": "US Patent App. 18/178,167, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Generating animated digital videos utilizing a character animation neural network informed by pose and motion embeddings",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:L7CI7m0gUJcC",
+      "citation_id": "3TMipekAAAAJ:L7CI7m0gUJcC",
+      "authors": "Y Wang, DC Aksit, KK Singh, NJ Mitra",
+      "publication": "US Patent 12,067,659, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Multimodal diffusion models",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:_FM0Bhl9EiAC",
+      "citation_id": "3TMipekAAAAJ:_FM0Bhl9EiAC",
+      "authors": "C Ham, T Hinz, J Lu, KK Singh, Z Zhang",
+      "publication": "US Patent App. 18/165,141, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Images for the visually impaired",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:EYYDruWGBe4C",
+      "citation_id": "3TMipekAAAAJ:EYYDruWGBe4C",
+      "authors": "S Gupta, P Bhalla, K Singh, A Bedi",
+      "publication": "US Patent 12,039,882, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Separate-and-enhance: Compositional finetuning for text-to-image diffusion models",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:GtLg2Ama23sC",
+      "citation_id": "3TMipekAAAAJ:GtLg2Ama23sC",
+      "authors": "Z Bao, Y Li, KK Singh, YX Wang, M Hebert",
+      "publication": "ACM SIGGRAPH 2024 Conference Papers, 1-10, 2024",
+      "cited_by": {
+        "value": 17,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7300007853431559868",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7300007853431559868&engine=google_scholar&hl=en",
+        "cites_id": "7300007853431559868"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Generating simulated images that enhance socio-demographic diversity",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:vbGhcppDl1QC",
+      "citation_id": "3TMipekAAAAJ:vbGhcppDl1QC",
+      "authors": "R Sinha, S Mahadevan, M Sinha, MM Tanjim, KK Singh, D Arbour",
+      "publication": "US Patent 12,001,520, 2024",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5262953511198060556",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5262953511198060556&engine=google_scholar&hl=en",
+        "cites_id": "5262953511198060556"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Affordance-based reposing of an object in a scene",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:bz8QjSJIRt4C",
+      "citation_id": "3TMipekAAAAJ:bz8QjSJIRt4C",
+      "authors": "S Kulal, KK Singh, J Yang, J Lu, A Efros",
+      "publication": "US Patent App. 18/058,528, 2024",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11436792135839602389",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11436792135839602389&engine=google_scholar&hl=en",
+        "cites_id": "11436792135839602389"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Generating three-dimensional human models representing two-dimensional humans in two-dimensional images",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:Ri6SYOTghG4C",
+      "citation_id": "3TMipekAAAAJ:Ri6SYOTghG4C",
+      "authors": "G Gori, Y Zhou, Y Wang, Y Zhou, KK Singh, JS Yoon, DC Aksit",
+      "publication": "US Patent App. 18/304,144, 2024",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11864736449145059449",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11864736449145059449&engine=google_scholar&hl=en",
+        "cites_id": "11864736449145059449"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Modifying poses of two-dimensional humans in two-dimensional images by reposing three-dimensional human models representing the two-dimensional humans",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:YohjEiUPhakC",
+      "citation_id": "3TMipekAAAAJ:YohjEiUPhakC",
+      "authors": "G Gori, Y Zhou, Y Wang, Y Zhou, KK Singh, JS Yoon, DC Aksit",
+      "publication": "US Patent App. 18/304,147, 2024",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8948823379649488273",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8948823379649488273&engine=google_scholar&hl=en",
+        "cites_id": "8948823379649488273"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Utilizing a warped digital image with a reposing model to synthesize a modified digital image",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:_axFR9aDTf0C",
+      "citation_id": "3TMipekAAAAJ:_axFR9aDTf0C",
+      "authors": "KK Singh, Y Li, J Lu, DC Aksit, Y Wang, J Yang, T Hinz",
+      "publication": "US Patent App. 18/190,654, 2024",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17787070341219170764",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17787070341219170764&engine=google_scholar&hl=en",
+        "cites_id": "17787070341219170764"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Generative model for multi-modality outputs from a single input",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:hCrLmN-GePgC",
+      "citation_id": "3TMipekAAAAJ:hCrLmN-GePgC",
+      "authors": "Y Li, Z Shu, Z Zhu, KK Singh",
+      "publication": "US Patent App. 17/971,169, 2024",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6598459916463752830",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6598459916463752830&engine=google_scholar&hl=en",
+        "cites_id": "6598459916463752830"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Human inpainting utilizing a segmentation branch for generating an infill segmentation map",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:ClCfbGk0d_YC",
+      "citation_id": "3TMipekAAAAJ:ClCfbGk0d_YC",
+      "authors": "KK Singh, Y Li, J Lu, DC Aksit, Y Wang, J Yang, T Hinz, Q Liu, J Zhang, ...",
+      "publication": "US Patent App. 18/190,556, 2024",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4416529207496607161",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4416529207496607161&engine=google_scholar&hl=en",
+        "cites_id": "4416529207496607161"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Utilizing a generative machine learning model and graphical user interface for creating modified digital images from an infill semantic map",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:FPJr55Dyh1AC",
+      "citation_id": "3TMipekAAAAJ:FPJr55Dyh1AC",
+      "authors": "Q Liu, J Zhang, KK Singh, S Cohen, Z Lin",
+      "publication": "US Patent App. 18/190,513, 2024",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1905053688771468552",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1905053688771468552&engine=google_scholar&hl=en",
+        "cites_id": "1905053688771468552"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Synthesizing a modified digital image utilizing a reposing model",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:0N-VGjzr574C",
+      "citation_id": "3TMipekAAAAJ:0N-VGjzr574C",
+      "authors": "KK Singh, Y Li, J Lu, DC Aksit, Y Wang, J Yang, T Hinz",
+      "publication": "US Patent App. 18/190,636, 2024",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=227253677039683811",
+        "serpapi_link": "https://serpapi.com/search.json?cites=227253677039683811&engine=google_scholar&hl=en",
+        "cites_id": "227253677039683811"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Video summarization using semantic information",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:q3CdL3IzO_QC",
+      "citation_id": "3TMipekAAAAJ:q3CdL3IzO_QC",
+      "authors": "M Hwangbo, KK Singh, T Lee, O Tickoo",
+      "publication": "US Patent App. 18/510,354, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Debiasing image to image translation models",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:Dip1O2bNi0gC",
+      "citation_id": "3TMipekAAAAJ:Dip1O2bNi0gC",
+      "authors": "MM Tanjim, KK Singh, K Kafle, R Sinha",
+      "publication": "US Patent App. 17/880,120, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Generating synthesized digital images utilizing class-specific machine-learning models",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:Z5m8FVwuT1cC",
+      "citation_id": "3TMipekAAAAJ:Z5m8FVwuT1cC",
+      "authors": "Y Li, Y Li, J Lu, E Shechtman, KK Singh",
+      "publication": "US Patent 11,861,762, 2024",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6627239677979171720",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6627239677979171720&engine=google_scholar&hl=en",
+        "cites_id": "6627239677979171720"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Video summarization using semantic information",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:1qzjygNMrQYC",
+      "citation_id": "3TMipekAAAAJ:1qzjygNMrQYC",
+      "authors": "M Hwangbo, KK Singh, T Lee, O Tickoo",
+      "publication": "US Patent 11,861,495, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Impact of Biofertilizers and Organic Manures on the Nutritional Content and Fruit Yield of Strawberries (Fragaria ananassa Duch.)",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:MhiOAD_qIWkC",
+      "citation_id": "3TMipekAAAAJ:MhiOAD_qIWkC",
+      "authors": "KK Singh, M Kaur, G Singh, A Sharma, A Singh, R Singh, A Malik, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Impact of Fertilizer and Bio Fertilizer on Different Growth Parameters of Gladiolus cv. American Beauty",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:otzGkya1bYkC",
+      "citation_id": "3TMipekAAAAJ:otzGkya1bYkC",
+      "authors": "KK Singh, V Kumar, A Sharma, A Malik, R Singh",
+      "publication": "CURRENT RESEARCH IN AGRICULTURE AND FARMING Учредители: Vital Biotech 5 (2 …, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "JEEVAMRUT A Natural Growth Booster for Plant",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:Aul-kAQHnToC",
+      "citation_id": "3TMipekAAAAJ:Aul-kAQHnToC",
+      "authors": "G Singh, KK Singh",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "White Rust of Indian Mustard Caused by Albugo Candida: Current Status, Symptomatology and Management Strategies",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:GFxP56DSvIMC",
+      "citation_id": "3TMipekAAAAJ:GFxP56DSvIMC",
+      "authors": "AS Sran, JK Sran, KK Singh, MK Chahal, VS Pahil, B Singh",
+      "publication": "The PLANTA Research Book Series 5 (2), 1667-1674, 2024",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2954270018562450828",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2954270018562450828&engine=google_scholar&hl=en",
+        "cites_id": "2954270018562450828"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Unihuman: A unified model for editing human images in the wild",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:S16KYo8Pm5AC",
+      "citation_id": "3TMipekAAAAJ:S16KYo8Pm5AC",
+      "authors": "N Li, Q Liu, KK Singh, Y Wang, J Zhang, BA Plummer, Z Lin",
+      "publication": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2024",
+      "cited_by": {
+        "value": 16,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13393735061713522159",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13393735061713522159&engine=google_scholar&hl=en",
+        "cites_id": "13393735061713522159"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Discovering and mitigating biases in clip-based image editing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:-FonjvnnhkoC",
+      "citation_id": "3TMipekAAAAJ:-FonjvnnhkoC",
+      "authors": "MM Tanjim, KK Singh, K Kafle, R Sinha, GW Cottrell",
+      "publication": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2024",
+      "cited_by": {
+        "value": 23,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4457844979635669505",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4457844979635669505&engine=google_scholar&hl=en",
+        "cites_id": "4457844979635669505"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "P2D: Plug and Play Discriminator for accelerating GAN frameworks",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:WZBGuue-350C",
+      "citation_id": "3TMipekAAAAJ:WZBGuue-350C",
+      "authors": "MJ Chong, KK Singh, Y Li, J Lu, D Forsyth",
+      "publication": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2024",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2350401086133319830",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2350401086133319830&engine=google_scholar&hl=en",
+        "cites_id": "2350401086133319830"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Consistent multimodal generation via a unified GAN framework",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:kuK5TVdYjLIC",
+      "citation_id": "3TMipekAAAAJ:kuK5TVdYjLIC",
+      "authors": "Z Zhu, Y Li, W Lyu, KK Singh, Z Shu, S Pirk, D Hoiem",
+      "publication": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2024",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6481353715855172053",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6481353715855172053&engine=google_scholar&hl=en",
+        "cites_id": "6481353715855172053"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Flood Risk Mapping Using Analytic Hierarchy Process (AHP)—An Overview of Current Practices",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:4X0JR2_MtJMC",
+      "citation_id": "3TMipekAAAAJ:4X0JR2_MtJMC",
+      "authors": "A Sharma, K Vashist, KK Singh",
+      "publication": "International Conference on Hydraulics, Water Resources and Coastal …, 2023",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Comparison of 1D Hydrodynamic Flood Inundation Modeling Capabilities of MIKE Hydro and HEC-RAS",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:F1b5ZUV5XREC",
+      "citation_id": "3TMipekAAAAJ:F1b5ZUV5XREC",
+      "authors": "K Vashist, KK Singh",
+      "publication": "International Conference on Hydraulics, Water Resources and Coastal …, 2023",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Synthesizing digital images utilizing image-guided model inversion of an image classifier",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:zLWjf1WUPmwC",
+      "citation_id": "3TMipekAAAAJ:zLWjf1WUPmwC",
+      "authors": "P Wang, Y Li, J Lu, KK Singh",
+      "publication": "US Patent 11,842,468, 2023",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10497707256168424452",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10497707256168424452&engine=google_scholar&hl=en",
+        "cites_id": "10497707256168424452"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Use of water quality index and DRASTIC index correlation for better assessment of groundwater vulnerability to pollution: a case study",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:AHdEip9mkN0C",
+      "citation_id": "3TMipekAAAAJ:AHdEip9mkN0C",
+      "authors": "J Chaudhary, KK Singh",
+      "publication": "Water Supply 23 (11), 4759-4774, 2023",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3107843728928255872",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3107843728928255872&engine=google_scholar&hl=en",
+        "cites_id": "3107843728928255872"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Integration of biochar with nitrogen in acidic soil: A strategy to sequester carbon and improve the yield of stevia via altering soil properties and nutrient recycling",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:k8Z6L05lTy4C",
+      "citation_id": "3TMipekAAAAJ:k8Z6L05lTy4C",
+      "authors": "BK Thakur, S Sharma, A Sharma, KK Singh, PK Pal",
+      "publication": "Journal of Environmental Management 345, 118872, 2023",
+      "cited_by": {
+        "value": 15,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1216797648528635988",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1216797648528635988&engine=google_scholar&hl=en",
+        "cites_id": "1216797648528635988"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Effect of rinderpest vaccine on immune markers and toxicity of pyrethroids in goats.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:vDZJ-YLwNdEC",
+      "citation_id": "3TMipekAAAAJ:vDZJ-YLwNdEC",
+      "authors": "KK Singh, MK Gupta, S Kumari, S Kumar, BK Roy",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "String Tension Based Borewell Water Level Monitoring Using IoT",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:kz9GbA2Ns4gC",
+      "citation_id": "3TMipekAAAAJ:kz9GbA2Ns4gC",
+      "authors": "T Bhatt, T David, R Yelekar, S Chaudhari",
+      "publication": "2023 IEEE 9th World Forum on Internet of Things (WF-IoT), 1-6, 2023",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5582009393845732116",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5582009393845732116&engine=google_scholar&hl=en",
+        "cites_id": "5582009393845732116"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Generating synthesized digital images utilizing a multi-resolution generator neural network",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:BwyfMAYsbu0C",
+      "citation_id": "3TMipekAAAAJ:BwyfMAYsbu0C",
+      "authors": "Y Li, Y Li, J Lu, E Shechtman, KK Singh",
+      "publication": "US Patent 11,769,227, 2023",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3730439504964712539",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3730439504964712539&engine=google_scholar&hl=en",
+        "cites_id": "3730439504964712539"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Modulating pretrained diffusion models for multimodal image synthesis",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:ML0RJ9NH7IQC",
+      "citation_id": "3TMipekAAAAJ:ML0RJ9NH7IQC",
+      "authors": "C Ham, J Hays, J Lu, KK Singh, Z Zhang, T Hinz",
+      "publication": "ACM SIGGRAPH 2023 Conference Proceedings, 1-11, 2023",
+      "cited_by": {
+        "value": 23,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5645162229869756366",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5645162229869756366&engine=google_scholar&hl=en",
+        "cites_id": "5645162229869756366"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Zero-shot image-to-image translation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:BUYA1_V_uYcC",
+      "citation_id": "3TMipekAAAAJ:BUYA1_V_uYcC",
+      "authors": "G Parmar, K Kumar Singh, R Zhang, Y Li, J Lu, JY Zhu",
+      "publication": "ACM SIGGRAPH 2023 conference proceedings, 1-11, 2023",
+      "cited_by": {
+        "value": 636,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5141074012246762748",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5141074012246762748&engine=google_scholar&hl=en",
+        "cites_id": "5141074012246762748"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Few-Shot Learning with Feature Pairing and Mean Discrepancy",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:b1wdh0AR-JQC",
+      "citation_id": "3TMipekAAAAJ:b1wdh0AR-JQC",
+      "authors": "KK Singh, KH Bindu",
+      "publication": "2023 International Conference on Sustainable Computing and Smart Systems …, 2023",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "HEC-RAS 2D modeling for flood inundation mapping: a case study of the Krishna River Basin. Water Pract Technol 18 (4): 831–844",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:IaI1MmNe2tcC",
+      "citation_id": "3TMipekAAAAJ:IaI1MmNe2tcC",
+      "authors": "K Vashist, KK Singh",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7581496119201055411",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7581496119201055411&engine=google_scholar&hl=en",
+        "cites_id": "7581496119201055411"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Comparative Studies of Physico-chemical Characteristics of Different Cultivars of Aonla (Emblica officinalis Gaerth.) Under Sub-tropical Condition",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:lgwcVrK6X84C",
+      "citation_id": "3TMipekAAAAJ:lgwcVrK6X84C",
+      "authors": "KK Singh, A Malik, M Kaur, K Kumar, H Punia, H Bansal",
+      "publication": "CURRENT RESEARCH IN AGRICULTURE AND FARMING Учредители: Vital Biotech 4 (6 …, 2023",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Research Article HDFCN: A Robust Hybrid Deep Network Based on Feature Concatenation for Cervical Cancer Diagnosis on WSI Pap Smear Slides",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:sNmaIFBj_lkC",
+      "citation_id": "3TMipekAAAAJ:sNmaIFBj_lkC",
+      "authors": "NK Chauhan, K Singh, A Kumar, SB Kolambakar",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Encipher GAN: An End-to-End Color Image Encryption System Using a Deep Generative Model. Systems 2023, 11, 36",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:gsN89kCJA0AC",
+      "citation_id": "3TMipekAAAAJ:gsN89kCJA0AC",
+      "authors": "K Panwar, A Singh, S Kukreja, KK Singh, N Shakhovska, A Boichuk",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Complete 3d human reconstruction from a single incomplete image",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:tYavs44e6CUC",
+      "citation_id": "3TMipekAAAAJ:tYavs44e6CUC",
+      "authors": "J Wang, JS Yoon, TY Wang, KK Singh, U Neumann",
+      "publication": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2023",
+      "cited_by": {
+        "value": 22,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15700950066808912822",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15700950066808912822&engine=google_scholar&hl=en",
+        "cites_id": "15700950066808912822"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Putting people in their place: Affordance-aware human insertion into scenes",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:ILKRHgRFtOwC",
+      "citation_id": "3TMipekAAAAJ:ILKRHgRFtOwC",
+      "authors": "S Kulal, T Brooks, A Aiken, J Wu, J Yang, J Lu, AA Efros, KK Singh",
+      "publication": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2023",
+      "cited_by": {
+        "value": 64,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8026200719644249371",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8026200719644249371&engine=google_scholar&hl=en",
+        "cites_id": "8026200719644249371"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Towards enhanced controllability of diffusion models",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:4MWp96NkSFoC",
+      "citation_id": "3TMipekAAAAJ:4MWp96NkSFoC",
+      "authors": "W Cho, H Ravi, M Harikumar, V Khuc, KK Singh, J Lu, DI Inouye, A Kale",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=102229588350022890",
+        "serpapi_link": "https://serpapi.com/search.json?cites=102229588350022890&engine=google_scholar&hl=en",
+        "cites_id": "102229588350022890"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Umfuse: Unified multi view fusion for human editing applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:AvfA0Oy_GE0C",
+      "citation_id": "3TMipekAAAAJ:AvfA0Oy_GE0C",
+      "authors": "R Jain, M Hemani, D Ceylan, KK Singh, J Lu, M Sarkar, B Krishnamurthy",
+      "publication": "Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2023",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12426017305334273353",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12426017305334273353&engine=google_scholar&hl=en",
+        "cites_id": "12426017305334273353"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Vgflow: Visibility guided flow network for human reposing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:URolC5Kub84C",
+      "citation_id": "3TMipekAAAAJ:URolC5Kub84C",
+      "authors": "R Jain, KK Singh, M Hemani, J Lu, M Sarkar, D Ceylan, B Krishnamurthy",
+      "publication": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2023",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14899766566900570192",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14899766566900570192&engine=google_scholar&hl=en",
+        "cites_id": "14899766566900570192"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Contrastive learning for diverse disentangled foreground generation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:vDijr-p_gm4C",
+      "citation_id": "3TMipekAAAAJ:vDijr-p_gm4C",
+      "authors": "Y Li, Y Li, J Lu, E Shechtman, YJ Lee, KK Singh",
+      "publication": "European Conference on Computer Vision, 334-351, 2022",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2600148937707290335",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2600148937707290335&engine=google_scholar&hl=en",
+        "cites_id": "2600148937707290335"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Sustainable Agriculture: Its Indicators and Effects on Agriculture",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:FiytvqdAVhgC",
+      "citation_id": "3TMipekAAAAJ:FiytvqdAVhgC",
+      "authors": "R Nagar, R Meena, D Nagar, V Gautam",
+      "publication": "International Journal of Agricultural Invention 7 (1), 1-8, 2022",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Effect of different concentration of nutrients on growth, yield and quality of sweet basil (Ocimum basilicum) in hydroponics system",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:lvd772isFD0C",
+      "citation_id": "3TMipekAAAAJ:lvd772isFD0C",
+      "authors": "V Kumar, S Bains, KK Singh",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1809481238156503798",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1809481238156503798&engine=google_scholar&hl=en",
+        "cites_id": "1809481238156503798"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Spatially-adaptive multilayer selection for gan inversion and editing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:35r97b3x0nAC",
+      "citation_id": "3TMipekAAAAJ:35r97b3x0nAC",
+      "authors": "G Parmar, Y Li, J Lu, R Zhang, JY Zhu, KK Singh",
+      "publication": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2022",
+      "cited_by": {
+        "value": 56,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7575642883414053316",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7575642883414053316&engine=google_scholar&hl=en",
+        "cites_id": "7575642883414053316"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Giraffe hd: A high-resolution 3d-aware generative model",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:tKAzc9rXhukC",
+      "citation_id": "3TMipekAAAAJ:tKAzc9rXhukC",
+      "authors": "Y Xue, Y Li, KK Singh, YJ Lee",
+      "publication": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2022",
+      "cited_by": {
+        "value": 117,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13239651223294689302",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13239651223294689302&engine=google_scholar&hl=en",
+        "cites_id": "13239651223294689302"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Insetgan for full-body image generation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:7T2F9Uy0os0C",
+      "citation_id": "3TMipekAAAAJ:7T2F9Uy0os0C",
+      "authors": "A Frühstück, KK Singh, E Shechtman, NJ Mitra, P Wonka, J Lu",
+      "publication": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2022",
+      "cited_by": {
+        "value": 76,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1898916154747224188",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1898916154747224188&engine=google_scholar&hl=en",
+        "cites_id": "1898916154747224188"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Generating and controlling diversity in image search",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:PR6Y55bgFSsC",
+      "citation_id": "3TMipekAAAAJ:PR6Y55bgFSsC",
+      "authors": "MM Tanjim, R Sinha, KK Singh, S Mahadevan, D Arbour, M Sinha, ...",
+      "publication": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2022",
+      "cited_by": {
+        "value": 10,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15832334780413083565",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15832334780413083565&engine=google_scholar&hl=en",
+        "cites_id": "15832334780413083565"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Dance in the wild: Monocular human animation with neural dynamic appearance synthesis",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:Mojj43d5GZwC",
+      "citation_id": "3TMipekAAAAJ:Mojj43d5GZwC",
+      "authors": "TY Wang, D Ceylan, KK Singh, NJ Mitra",
+      "publication": "2021 International Conference on 3D Vision (3DV), 268-277, 2021",
+      "cited_by": {
+        "value": 18,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3622901459903913450",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3622901459903913450&engine=google_scholar&hl=en",
+        "cites_id": "3622901459903913450"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Effect of chronic fenvalerate on cellular and humoral immunity induced by rinderpest tissue culture vaccine in goats.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:artPoR2Yc-kC",
+      "citation_id": "3TMipekAAAAJ:artPoR2Yc-kC",
+      "authors": "KK Singh, MK Gupta, S Kumari, S Kumar, BK Roy",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Pharmacokinetics of ceftizoxime and meloxicam after intravenous administration in healthy and febrile goats.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:tH6gc1N1XXoC",
+      "citation_id": "3TMipekAAAAJ:tH6gc1N1XXoC",
+      "authors": "V Kumar, R Rohit, R Prasad, KK Singh, BK Roy",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Generating furry cars: Disentangling object shape & appearance across multiple domains",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:eJXPG6dFmWUC",
+      "citation_id": "3TMipekAAAAJ:eJXPG6dFmWUC",
+      "authors": "U Ojha, KK Singh, YJ Lee",
+      "publication": "arXiv preprint arXiv:2104.02052, 2021",
+      "cited_by": {
+        "value": 14,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15513193294117291512",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15513193294117291512&engine=google_scholar&hl=en",
+        "cites_id": "15513193294117291512"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Video summarization using semantic information",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:uWQEDVKXjbEC",
+      "citation_id": "3TMipekAAAAJ:uWQEDVKXjbEC",
+      "authors": "M Hwangbo, KK Singh, T Lee, O Tickoo",
+      "publication": "US Patent 10,949,674, 2021",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8001118714078406996",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8001118714078406996&engine=google_scholar&hl=en",
+        "cites_id": "8001118714078406996"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Assessment of Medicinal Properties of Some Angiosperms of Moradabad Used in Ayurveda",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:WC23djZS0W4C",
+      "citation_id": "3TMipekAAAAJ:WC23djZS0W4C",
+      "authors": "B Kumari, SP Singh, AP Singh, AK Paliwal, KK Singh",
+      "publication": "Curr. Rese. Agri. Far 2 (5), 9-12, 2021",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14204382935006981676",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14204382935006981676&engine=google_scholar&hl=en",
+        "cites_id": "14204382935006981676"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "16. Advanced Production Technology of Kiwifruit Under Temperate Region",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:WHdLCjDvYFkC",
+      "citation_id": "3TMipekAAAAJ:WHdLCjDvYFkC",
+      "authors": "RK Meena, KK Singh",
+      "publication": "Trends in Agriculture: Traditional And Modern Approaches, 303-312, 2021",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9776831961604589257",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9776831961604589257&engine=google_scholar&hl=en",
+        "cites_id": "9776831961604589257"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Partgan: Weakly-supervised part decomposition for image generation and segmentation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:tkaPQYYpVKoC",
+      "citation_id": "3TMipekAAAAJ:tkaPQYYpVKoC",
+      "authors": "Y Li, KK Singh, Y Xue, YJ Lee",
+      "publication": "British Machine Vision Conference (BMVC), 2021",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4224642434797935274",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4224642434797935274&engine=google_scholar&hl=en",
+        "cites_id": "4224642434797935274"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Collaging class-specific gans for semantic image synthesis",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:WA5NYHcadZ8C",
+      "citation_id": "3TMipekAAAAJ:WA5NYHcadZ8C",
+      "authors": "Y Li, Y Li, J Lu, E Shechtman, YJ Lee, KK Singh",
+      "publication": "Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2021",
+      "cited_by": {
+        "value": 49,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14621752711097169651",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14621752711097169651&engine=google_scholar&hl=en",
+        "cites_id": "14621752711097169651"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Seeing the unseen: Predicting the first-person camera wearer's location and pose in third-person scenes",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:HE397vMXCloC",
+      "citation_id": "3TMipekAAAAJ:HE397vMXCloC",
+      "authors": "Y Wen, KK Singh, M Anderson, WP Jan, YJ Lee",
+      "publication": "Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2021",
+      "cited_by": {
+        "value": 14,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6922002856282555048",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6922002856282555048&engine=google_scholar&hl=en",
+        "cites_id": "6922002856282555048"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Imagine: Image synthesis by image-guided model inversion",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:eflP2zaiRacC",
+      "citation_id": "3TMipekAAAAJ:eflP2zaiRacC",
+      "authors": "P Wang, Y Li, KK Singh, J Lu, N Vasconcelos",
+      "publication": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2021",
+      "cited_by": {
+        "value": 37,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5203352678877203008",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5203352678877203008&engine=google_scholar&hl=en",
+        "cites_id": "5203352678877203008"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Elastic-infogan: Unsupervised disentangled representation learning in class-imbalanced data",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:B3FOqHPlNUQC",
+      "citation_id": "3TMipekAAAAJ:B3FOqHPlNUQC",
+      "authors": "U Ojha, KK Singh, CJ Hsieh, YJ Lee",
+      "publication": "Advances in neural information processing systems 33, 18063-18075, 2020",
+      "cited_by": {
+        "value": 30,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15560929179250814547",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15560929179250814547&engine=google_scholar&hl=en",
+        "cites_id": "15560929179250814547"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Understanding and Generating Visual Data with Minimal Human Supervision",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:08ZZubdj9fEC",
+      "citation_id": "3TMipekAAAAJ:08ZZubdj9fEC",
+      "authors": "KK Singh",
+      "publication": "University of California, Davis, 2020",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Don't judge an object by its context: learning to overcome contextual bias",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:CHSYGLWDkRkC",
+      "citation_id": "3TMipekAAAAJ:CHSYGLWDkRkC",
+      "authors": "KK Singh, D Mahajan, K Grauman, YJ Lee, M Feiszli, D Ghadiyaram",
+      "publication": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2020",
+      "cited_by": {
+        "value": 153,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1052727291780602629",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1052727291780602629&engine=google_scholar&hl=en",
+        "cites_id": "1052727291780602629"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Rapid mass propagation and conservation of Rhododendron leptocarpum Nutt",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:BzfGm06jWhQC",
+      "citation_id": "3TMipekAAAAJ:BzfGm06jWhQC",
+      "authors": "M Singh, O Rai, KK Singh",
+      "publication": "Biotechnology and Biological Sciences, 345-349, 2019",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Elastic-InfoGAN: unsupervised disentangled representation learning in imbalanced data",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:kRWSkSYxWN8C",
+      "citation_id": "3TMipekAAAAJ:kRWSkSYxWN8C",
+      "authors": "U Ojha, KK Singh, CJ Hsieh, YJ Lee",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10229999981629183881",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10229999981629183881&engine=google_scholar&hl=en",
+        "cites_id": "10229999981629183881"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Improving reliability of electrical systems at IFFCO, Aonla.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:wMgC3FpKEyYC",
+      "citation_id": "3TMipekAAAAJ:wMgC3FpKEyYC",
+      "authors": "AG Amit Gupta, KK Singh",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2019"
+    },
+    {
+      "title": "In vitro and in vivo Assessment of Protein Acetylation Status in Mycobacteria",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:tuHXwOkdijsC",
+      "citation_id": "3TMipekAAAAJ:tuHXwOkdijsC",
+      "authors": "KK Singh, DP Singh, R Singh, DK Saini",
+      "publication": "Bio-protocol 9 (13), e3291-e3291, 2019",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Visual search and retrieval using semantic information",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:p2g8aNsByqUC",
+      "citation_id": "3TMipekAAAAJ:p2g8aNsByqUC",
+      "authors": "T Lee, KK Singh, M Hwangbo",
+      "publication": "US Patent 10,303,984, 2019",
+      "cited_by": {
+        "value": 16,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15883014215672731566",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15883014215672731566&engine=google_scholar&hl=en",
+        "cites_id": "15883014215672731566"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Video summarization using semantic information",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:u9iWguZQMMsC",
+      "citation_id": "3TMipekAAAAJ:u9iWguZQMMsC",
+      "authors": "M Hwangbo, KK Singh, T Lee, O Tickoo",
+      "publication": "US Patent 10,229,324, 2019",
+      "cited_by": {
+        "value": 40,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16738855034474926849",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16738855034474926849&engine=google_scholar&hl=en",
+        "cites_id": "16738855034474926849"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "MixNMatch: Multifactor Disentanglement and Encoding for Conditional Image Generation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:xtRiw3GOFMkC",
+      "citation_id": "3TMipekAAAAJ:xtRiw3GOFMkC",
+      "authors": "Y Li, KK Singh, U Ojha, YJ Lee",
+      "publication": "arXiv preprint arXiv:1911.11758, 2019",
+      "cited_by": {
+        "value": 107,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14097606698351716973",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14097606698351716973&engine=google_scholar&hl=en",
+        "cites_id": "14097606698351716973"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "You reap what you sow: Using Videos to Generate High Precision Object Proposals for Weakly-supervised Object Detection",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:EUQCXRtRnyEC",
+      "citation_id": "3TMipekAAAAJ:EUQCXRtRnyEC",
+      "authors": "KK Singh, YJ Lee",
+      "publication": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019",
+      "cited_by": {
+        "value": 48,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16275055227331978182",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16275055227331978182&engine=google_scholar&hl=en",
+        "cites_id": "16275055227331978182"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:bFI3QPDXJZMC",
+      "citation_id": "3TMipekAAAAJ:bFI3QPDXJZMC",
+      "authors": "KK Singh, U Ojha, YJ Lee",
+      "publication": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019",
+      "cited_by": {
+        "value": 181,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3504805931057936629",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3504805931057936629&engine=google_scholar&hl=en",
+        "cites_id": "3504805931057936629"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Hide-and-seek: A data augmentation technique for weakly-supervised localization and beyond",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:f2IySw72cVMC",
+      "citation_id": "3TMipekAAAAJ:f2IySw72cVMC",
+      "authors": "KK Singh, H Yu, A Sarmasi, G Pradeep, YJ Lee",
+      "publication": "arXiv preprint arXiv:1811.02545, 2018",
+      "cited_by": {
+        "value": 161,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15193231717285404534",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15193231717285404534&engine=google_scholar&hl=en",
+        "cites_id": "15193231717285404534"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Enantioselective Biginelli reaction of aliphatic aldehydes catalyzed by a chiral phosphoric acid: A key step in the synthesis of the bicyclic guanidine core of crambescin A and …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:SpbeaW3--B0C",
+      "citation_id": "3TMipekAAAAJ:SpbeaW3--B0C",
+      "authors": "Y Guo, Z Gao, C Fan, J Chen, J Li, Y Huang, G Huang, H Yu, C Zou",
+      "publication": "Synthesis 50 (12), 2394-2406, 2018",
+      "cited_by": {
+        "value": 15,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4824945832387394555",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4824945832387394555&engine=google_scholar&hl=en",
+        "cites_id": "4824945832387394555"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Who will share my image? Predicting the content diffusion path in online social networks",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:yD5IFk8b50cC",
+      "citation_id": "3TMipekAAAAJ:yD5IFk8b50cC",
+      "authors": "W Hu, KK Singh, F Xiao, J Han, CN Chuah, YJ Lee",
+      "publication": "Proceedings of the eleventh ACM international conference on web search and …, 2018",
+      "cited_by": {
+        "value": 39,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15628114567053703760,9547960180355578269",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15628114567053703760%2C9547960180355578269&engine=google_scholar&hl=en",
+        "cites_id": "15628114567053703760,9547960180355578269"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "STMS markers proved effective in establishing identity and determining genetic purity in commercial seed lots of ‘Pusa Rice Hybrid 10’",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:HbR8gkJAVGIC",
+      "citation_id": "3TMipekAAAAJ:HbR8gkJAVGIC",
+      "authors": "PK Singh, C Prakash, S Pandey, KK Singh, SS Parihar, AK Singh",
+      "publication": "International Journal of Agriculture, Environment and Biotechnology 11 (1 …, 2018",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=785770385319456403",
+        "serpapi_link": "https://serpapi.com/search.json?cites=785770385319456403&engine=google_scholar&hl=en",
+        "cites_id": "785770385319456403"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Dock: Detecting objects by transferring common-sense knowledge",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:pyW8ca7W8N0C",
+      "citation_id": "3TMipekAAAAJ:pyW8ca7W8N0C",
+      "authors": "KK Singh, S Divvala, A Farhadi, YJ Lee",
+      "publication": "Proceedings of the European Conference on Computer Vision (ECCV), 492-508, 2018",
+      "cited_by": {
+        "value": 47,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10124523956495192927,18189812235483291862",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10124523956495192927%2C18189812235483291862&engine=google_scholar&hl=en",
+        "cites_id": "10124523956495192927,18189812235483291862"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Performance of CERES-rice model for estimating yield during drought years in Madhya Pradesh.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:uDGL6kOW6j0C",
+      "citation_id": "3TMipekAAAAJ:uDGL6kOW6j0C",
+      "authors": "SS Sourabh Shrivastava, KK Singh, AK Baxla, SC Kar, AR Sharma, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2017"
+    },
+    {
+      "title": "Expression and Purification of Matrix Metalloproteinases in Escherichia coli",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:MLfJN-KU85MC",
+      "citation_id": "3TMipekAAAAJ:MLfJN-KU85MC",
+      "authors": "KK Singh, R Jain, H Ramanan, DK Saini",
+      "publication": "Matrix Metalloproteases: Methods and Protocols, 3-16, 2017",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2017"
+    },
+    {
+      "title": "Pre-harvest forecasting models for potato (Solanum tuberosum) and mustard (Brassica juncea) yield in central plain zones of Uttar Pradesh.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:buQ7SEKw-1sC",
+      "citation_id": "3TMipekAAAAJ:buQ7SEKw-1sC",
+      "authors": "VD Vijay Dubey, K Karamhusain, DD Digvijay Dubey, AK Tripathi, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2017"
+    },
+    {
+      "title": "Diagnostic accuracy of Computed tomography-guided fine needle aspiration cytology of thoracic mass lesions: A study of 33 cases",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:LI9QrySNdTsC",
+      "citation_id": "3TMipekAAAAJ:LI9QrySNdTsC",
+      "authors": "GR Singh, QR Code",
+      "publication": "Age 50 (09), 27.27, 2017",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11346330200529202603",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11346330200529202603&engine=google_scholar&hl=en",
+        "cites_id": "11346330200529202603"
+      },
+      "year": "2017"
+    },
+    {
+      "title": "Identifying First-person Camera Wearers in Third-person Videos",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:cFHS6HbyZ2cC",
+      "citation_id": "3TMipekAAAAJ:cFHS6HbyZ2cC",
+      "authors": "C Fan, J Lee, M Xu, KK Singh, YJ Lee, DJ Crandall, MS Ryoo",
+      "publication": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017",
+      "cited_by": {
+        "value": 83,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3652164703577940417",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3652164703577940417&engine=google_scholar&hl=en",
+        "cites_id": "3652164703577940417"
+      },
+      "year": "2017"
+    },
+    {
+      "title": "Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-supervised Object and Action Localization",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:dfsIfKJdRG4C",
+      "citation_id": "3TMipekAAAAJ:dfsIfKJdRG4C",
+      "authors": "KK Singh, YJ Lee",
+      "publication": "International Conference on Computer Vision (ICCV), 2017, 2017",
+      "cited_by": {
+        "value": 918,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2245376052607819821",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2245376052607819821&engine=google_scholar&hl=en",
+        "cites_id": "2245376052607819821"
+      },
+      "year": "2017"
+    },
+    {
+      "title": "Death of a Child in a Closed Car: An Unknown Danger",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:LgRImbQfgY4C",
+      "citation_id": "3TMipekAAAAJ:LgRImbQfgY4C",
+      "authors": "A Yadav, KK Singh, M Gupta, J Singh",
+      "publication": "Journal of Indian Academy of Forensic Medicine 38 (3), 373-375, 2016",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Biochemical changes in the wounds of goats following treatment of sunflower oil and olive oil.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:u-coK7KVo8oC",
+      "citation_id": "3TMipekAAAAJ:u-coK7KVo8oC",
+      "authors": "AA Abhishek Anand, LL Dass, AK Sharma, KK Singh",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2016"
+    },
+    {
+      "title": "EFFECT OF V EFFECT OF VARIOUS CONCENTRA ARIOUS CONCENTRA ARIOUS CONCENTRATIONS OF IBA AND TYPES TIONS OF IBA AND TYPES OF STEM CUTTINGS ON THE PERFORMANCE OF ROOTING IN SWEET …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:BJbdYPG6LGMC",
+      "citation_id": "3TMipekAAAAJ:BJbdYPG6LGMC",
+      "authors": "S SINGH, KK SINGH",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Histo-chemical changes in the wound of goats following treatment of sunflower oil and olive oil.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:9pM33mqn1YgC",
+      "citation_id": "3TMipekAAAAJ:9pM33mqn1YgC",
+      "authors": "AA Abhishek Anand, AK Sharma, KK Singh",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2016"
+    },
+    {
+      "title": "End-to-End Localization and Ranking for Relative Attributes",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:4OULZ7Gr8RgC",
+      "citation_id": "3TMipekAAAAJ:4OULZ7Gr8RgC",
+      "authors": "KK Singh, YJ Lee",
+      "publication": "European Conference on Computer Vision (ECCV), 2016, 2016",
+      "cited_by": {
+        "value": 106,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13629446869165301687",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13629446869165301687&engine=google_scholar&hl=en",
+        "cites_id": "13629446869165301687"
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Track and Transfer: Watching Videos to Simulate Strong Human Supervision for Weakly-Supervised Object Detection",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:fPk4N6BV_jEC",
+      "citation_id": "3TMipekAAAAJ:fPk4N6BV_jEC",
+      "authors": "KK Singh, F Xiao, YJ Lee",
+      "publication": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, 2016",
+      "cited_by": {
+        "value": 80,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7558205986168856292",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7558205986168856292&engine=google_scholar&hl=en",
+        "cites_id": "7558205986168856292"
+      },
+      "year": "2016"
+    },
+    {
+      "title": "KrishnaCam: Using a Longitudinal, Single-Person, Egocentric Dataset for Scene Understanding Tasks",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:2osOgNQ5qMEC",
+      "citation_id": "3TMipekAAAAJ:2osOgNQ5qMEC",
+      "authors": "KK Singh, K Fatahalian, AA Efros",
+      "publication": "Winter Conference on Applications of Computer Vision (WACV), 2016, 2016",
+      "cited_by": {
+        "value": 78,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16477992770555494519",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16477992770555494519&engine=google_scholar&hl=en",
+        "cites_id": "16477992770555494519"
+      },
+      "year": "2016"
+    },
+    {
+      "title": "Input: output analysis of coarse rice production in Etawah district of Uttar Pradesh.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:a3BOlSfXSfwC",
+      "citation_id": "3TMipekAAAAJ:a3BOlSfXSfwC",
+      "authors": "HY Hirendra Yadav, GP Singh, KK Singh, RK Yadav, SK Singh",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2015"
+    },
+    {
+      "title": "Community forest management in Sikkim Himalaya towards sustainable development.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:7Hz3ACDFbsoC",
+      "citation_id": "3TMipekAAAAJ:7Hz3ACDFbsoC",
+      "authors": "SC Santosh Chettri, AP Krishna, KK Singh",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2015"
+    },
+    {
+      "title": "Residual Technique to Estimate Births Averted due to Abortion in India",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:1lhNe0rCu4AC",
+      "citation_id": "3TMipekAAAAJ:1lhNe0rCu4AC",
+      "authors": "K Gupta, BP Singh, KK Singh",
+      "publication": "Asian Journal of Scientific Research 7 (3), 396, 2014",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16486109079625916863",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16486109079625916863&engine=google_scholar&hl=en",
+        "cites_id": "16486109079625916863"
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Estimation of total fertility rates in India using indirect techniques",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:1taIhTC69MYC",
+      "citation_id": "3TMipekAAAAJ:1taIhTC69MYC",
+      "authors": "K Gupta, BP Singh, KK Singh",
+      "publication": "Journal of National Academy of Mathematics 28, 21-28, 2014",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5748745311817031531",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5748745311817031531&engine=google_scholar&hl=en",
+        "cites_id": "5748745311817031531"
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Modification in the Bongaart's Model and Evaluation of Proximate Determinants of Fertility in India",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:48xauSegjOkC",
+      "citation_id": "3TMipekAAAAJ:48xauSegjOkC",
+      "authors": "K Gupta, BP Singh, KK Singh",
+      "publication": "Asian Journal of Research in Social Sciences and Humanities 4 (3), 150-164, 2014",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12047051334653053055",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12047051334653053055&engine=google_scholar&hl=en",
+        "cites_id": "12047051334653053055"
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Storytelling Patches: Predicting Tourist Spots in a City",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:9yKSN-GCB0IC",
+      "citation_id": "3TMipekAAAAJ:9yKSN-GCB0IC",
+      "authors": "A Bansal, KK Singh",
+      "publication": "ECCV Workshop on Storytelling with Images and Videos (VisStory), 2014, 2014",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2014"
+    },
+    {
+      "title": "CPU and/or GPU: Revisiting the GPU vs. CPU myth",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:d1gkVwhDpl0C",
+      "citation_id": "3TMipekAAAAJ:d1gkVwhDpl0C",
+      "authors": "K Kothapalli, DS Banerjee, PJ Narayanan, S Sood, AK Bahl, S Sharma, ...",
+      "publication": "arXiv preprint arXiv:1303.2171, 2013",
+      "cited_by": {
+        "value": 16,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6307674816463972634",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6307674816463972634&engine=google_scholar&hl=en",
+        "cites_id": "6307674816463972634"
+      },
+      "year": "2013"
+    },
+    {
+      "title": "Geometry directed browser for personal photographs",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:u-x6o8ySG0sC",
+      "citation_id": "3TMipekAAAAJ:u-x6o8ySG0sC",
+      "authors": "A Deshpande, S Choudhary, PJ Narayanan, KK Singh, K Kundu, A Singh, ...",
+      "publication": "Proceedings of the Eighth Indian Conference on Computer Vision, Graphics and …, 2012",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16717881044866617067",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16717881044866617067&engine=google_scholar&hl=en",
+        "cites_id": "16717881044866617067"
+      },
+      "year": "2012"
+    },
+    {
+      "title": "Some Observations on Study of FNAC and Imprint Cytodiagnosis in Lymph Adenopathy.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:jL-93Qbq4QoC",
+      "citation_id": "3TMipekAAAAJ:jL-93Qbq4QoC",
+      "authors": "P Pandey, VC Yadav, KK Singh, AK Bansal, KL Azad, PK Shrivastav",
+      "publication": "Research Journal of Pharmacology and Pharmacodynamics 4 (5), 285-289, 2012",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2012"
+    },
+    {
+      "title": "A fine needle aspiration and imprint cytodiagnosis of breast lumps",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:0CzhzZyukY4C",
+      "citation_id": "3TMipekAAAAJ:0CzhzZyukY4C",
+      "authors": "P Pandey, VC Yadav, KK Singh, SK Kashyap, KL Azad",
+      "publication": "Research Journal of Pharmacology and Pharmacodynamics 4 (4), 228-232, 2012",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15496374671109322288",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15496374671109322288&engine=google_scholar&hl=en",
+        "cites_id": "15496374671109322288"
+      },
+      "year": "2012"
+    },
+    {
+      "title": "Hybrid Multi-Core Algorithms for Regular Image Filtering Applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:u5HHmVD_uO8C",
+      "citation_id": "3TMipekAAAAJ:u5HHmVD_uO8C",
+      "authors": "S Lad, KK Singh, K Kothapalli, PJ Narayanan",
+      "publication": "International Conference on High Performance Computing, 2012 , Students …, 2012",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=987393005745612611",
+        "serpapi_link": "https://serpapi.com/search.json?cites=987393005745612611&engine=google_scholar&hl=en",
+        "cites_id": "987393005745612611"
+      },
+      "year": "2012"
+    },
+    {
+      "title": "Study of bovine mastitis in different climatic conditions in Jharkhand, India.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:fFSKOagxvKUC",
+      "citation_id": "3TMipekAAAAJ:fFSKOagxvKUC",
+      "authors": "RR Rajeev Ranjan, MK Gupta, KK Singh",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2011"
+    },
+    {
+      "title": "FOCUSED CONFERENCE GROUP: P01-CLINICAL PHARMACOLOGY IN THE EMERGING COUNTRIES EFFECT OF MASTITIS ON DISPOSITION KINETICS OF LEVOFLOXACIN FOLLOWING SINGLE DOSE IV ADMINISTRATION …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:yFnVuubrUp4C",
+      "citation_id": "3TMipekAAAAJ:yFnVuubrUp4C",
+      "authors": "BK Roy, M Ram, V Singh, R Prtasad, KK Singh",
+      "publication": "Basic & Clinical Pharmacology & Toxicology 107, 395, 2010",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2010"
+    },
+    {
+      "title": "Maternal flu and congenital abnormalities",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:umqufdRvDiIC",
+      "citation_id": "3TMipekAAAAJ:umqufdRvDiIC",
+      "authors": "S Pandey, K Singh",
+      "publication": "Archives of Disease in Childhood-Fetal and Neonatal Edition 95 (Suppl 1 …, 2010",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2010"
+    },
+    {
+      "title": "In vitro mass propagation of Sikkim Himalayan Rhododendron (R. dalhousiae Hook. f.) from nodal segment.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:cK4Rrx0J3m0C",
+      "citation_id": "3TMipekAAAAJ:cK4Rrx0J3m0C",
+      "authors": "BG Bhusan Gurung, KK Singh",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2010"
+    },
+    {
+      "title": "Parametric study on behaviour of box-girder bridges using finite element method",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:Ak0FvsSvgGUC",
+      "citation_id": "3TMipekAAAAJ:Ak0FvsSvgGUC",
+      "authors": "PK Gupta, KK Singh, A Mishra",
+      "publication": "ASIAN JOURNAL OF CIVIL ENGINEERING (BUILDING AND HOUSING) 11 (1), 135-148, 2010",
+      "cited_by": {
+        "value": 47,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4354247495357330524",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4354247495357330524&engine=google_scholar&hl=en",
+        "cites_id": "4354247495357330524"
+      },
+      "year": "2010"
+    },
+    {
+      "title": "Diagnosis and treatment of bovine mastitis-a holistic approach.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:HeT0ZceujKMC",
+      "citation_id": "3TMipekAAAAJ:HeT0ZceujKMC",
+      "authors": "RR Rajeev Ranjan, MK Gupta, KK Singh",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2010"
+    },
+    {
+      "title": "Pharmacokinetic studies of levofloxacin after oral administration in healthy and febrile cow calves.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:ODE9OILHJdcC",
+      "citation_id": "3TMipekAAAAJ:ODE9OILHJdcC",
+      "authors": "SK Santosh Kumar, SK Subodh Kumar, VK Vijay Kumar, KK Singh, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2009"
+    },
+    {
+      "title": "Quality, acceptability and shelf life study of micronutrient fortified Indian traditional Sattu",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:PoWvk5oyLR8C",
+      "citation_id": "3TMipekAAAAJ:PoWvk5oyLR8C",
+      "authors": "D Mridula, R Jain, KK Singh",
+      "publication": "Journal of Agricultural Engineering 46 (2), 26, 2009",
+      "cited_by": {
+        "value": 10,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4811348737438163021",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4811348737438163021&engine=google_scholar&hl=en",
+        "cites_id": "4811348737438163021"
+      },
+      "year": "2009"
+    },
+    {
+      "title": "Large cardamom agroforestry: a sustainable practice in the Sikkim Himalaya.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:LdasjJ6CEcoC",
+      "citation_id": "3TMipekAAAAJ:LdasjJ6CEcoC",
+      "authors": "KK Singh",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9703215982631801663",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9703215982631801663&engine=google_scholar&hl=en",
+        "cites_id": "9703215982631801663"
+      },
+      "year": "2008"
+    },
+    {
+      "title": "Milk excretion of ofloxacin after single intravenous and oral administration in healthy and febrile goats.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:XoXfffV-tXoC",
+      "citation_id": "3TMipekAAAAJ:XoXfffV-tXoC",
+      "authors": "M Sinha, R Prasad, SN Pandey, KK Singh, BK Roy",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2007"
+    },
+    {
+      "title": "Free-radical scavenging activities of Himalayan rhododendrons.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:kVjdVfd2voEC",
+      "citation_id": "3TMipekAAAAJ:kVjdVfd2voEC",
+      "authors": "DP Dhan Prakash, GU Garima Upadhyay, BN Singh, RD Ruchi Dhakarey, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2007"
+    },
+    {
+      "title": "Pharmacokinetics of ofloxacin after oral administration in healthy and febrile goats.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:ruyezt5ZtCIC",
+      "citation_id": "3TMipekAAAAJ:ruyezt5ZtCIC",
+      "authors": "M Sinha, SN Pandey, BK Roy, RCP Singh, KK Singh",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15249431943506536250",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15249431943506536250&engine=google_scholar&hl=en",
+        "cites_id": "15249431943506536250"
+      },
+      "year": "2007"
+    },
+    {
+      "title": "Pharmacokinetic studies of sparfloxacin in febrile goats following oral administration.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:bKqednn6t2AC",
+      "citation_id": "3TMipekAAAAJ:bKqednn6t2AC",
+      "authors": "RS Kujur, R Prasad, BK Roy, KK Singh",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2006"
+    },
+    {
+      "title": "Pharmacokinetics of ofloxacin in afebrile and febrile goats after intravenous administration.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:xtoqd-5pKcoC",
+      "citation_id": "3TMipekAAAAJ:xtoqd-5pKcoC",
+      "authors": "M Sinha, SN Pandey, R Prasad, KK Singh, BK Roy",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2006"
+    },
+    {
+      "title": "In vitro propagation of an endangered Sikkim Himalayan Rhododendron (R. maddenii) from cotyledonary nodal segments.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:U4n9YNQMCAIC",
+      "citation_id": "3TMipekAAAAJ:U4n9YNQMCAIC",
+      "authors": "SK Sandeep Kumar, KK Singh, LK Rai",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2004"
+    },
+    {
+      "title": "Patho-physiology of acute benzalkonium chloride toxicity in broiler birds",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:yMeIxYmEMEAC",
+      "citation_id": "3TMipekAAAAJ:yMeIxYmEMEAC",
+      "authors": "PK Mandal, MK Gupta, KK Singh",
+      "publication": "Indian Journal of Veterinary Pathology (India) 28 (1), 2004",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2004"
+    },
+    {
+      "title": "Product Handling Network in a Large Fertiliser Complex Case Study-KRIBHCO",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:kw52XkFRtyQC",
+      "citation_id": "3TMipekAAAAJ:kw52XkFRtyQC",
+      "authors": "SK Ray, K Singh",
+      "publication": "FERTILISER NEWS 48 (11), 69-74, 2003",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2003"
+    },
+    {
+      "title": "Studies on pollen tetrads morphology of Sikkim Himalayan rhododendrons.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:43bX7VzcjpAC",
+      "citation_id": "3TMipekAAAAJ:43bX7VzcjpAC",
+      "authors": "SK Sandeep Kumar, KK Singh, SK Chettri, LK Rai",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2003"
+    },
+    {
+      "title": "Studies on Pollen Tetrads Morphology of Sikkim Himalayan Rhododendrons",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:ubry08Y2EpUC",
+      "citation_id": "3TMipekAAAAJ:ubry08Y2EpUC",
+      "authors": "S Kumar, KK Singh, SK Chettri, LK Rai",
+      "publication": "Journal of Hill Research 16 (2), 70-73, 2003",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2003"
+    },
+    {
+      "title": "Effect of benzalkonium chloride toxicity on haematological profile of broiler chicks.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:KbBQZpvPDL4C",
+      "citation_id": "3TMipekAAAAJ:KbBQZpvPDL4C",
+      "authors": "PK Mandal, MK Gupta, KK Singh, DK Singh",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2003"
+    },
+    {
+      "title": "Performance of an Age Series of Alnus–Cardamom Plantations in the Sikkim Himalaya: Nutrient Dynamics",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:7wO8s98CvbsC",
+      "citation_id": "3TMipekAAAAJ:7wO8s98CvbsC",
+      "authors": "G Sharma, R Sharma, E Sharma, KK Singh",
+      "publication": "Annals of Botany 89 (3), 273-282, 2002",
+      "cited_by": {
+        "value": 64,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5913541838145418256",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5913541838145418256&engine=google_scholar&hl=en",
+        "cites_id": "5913541838145418256"
+      },
+      "year": "2002"
+    },
+    {
+      "title": "Role of collectins in innate immunity",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:v1_lew4L6wgC",
+      "citation_id": "3TMipekAAAAJ:v1_lew4L6wgC",
+      "authors": "BP Singh, K Singh",
+      "publication": "structure 150, 4J, 2002",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1276197045589228761",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1276197045589228761&engine=google_scholar&hl=en",
+        "cites_id": "1276197045589228761"
+      },
+      "year": "2002"
+    },
+    {
+      "title": "Testicular pathology in cypermethrin intoxicated goats.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:r_AWSJRzSzQC",
+      "citation_id": "3TMipekAAAAJ:r_AWSJRzSzQC",
+      "authors": "MK Gupta, KK Singh, R Yadav",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2002"
+    },
+    {
+      "title": "Choudhary",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:CaZNVDsoPx4C",
+      "citation_id": "3TMipekAAAAJ:CaZNVDsoPx4C",
+      "authors": "PK Singh, MU Aswath, RD Biswas, RV Ranganath",
+      "publication": "SV and ANAND, VK ([992): Polydirectional Sand migration in Sirsa district …, 2001",
+      "cited_by": {
+        "value": 21,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13227739101627863192,11899178887956411936",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13227739101627863192%2C11899178887956411936&engine=google_scholar&hl=en",
+        "cites_id": "13227739101627863192,11899178887956411936"
+      },
+      "year": "2001"
+    },
+    {
+      "title": "Coat colour and metabolic rate in Indian desert goats",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:cWzG1nlazyYC",
+      "citation_id": "3TMipekAAAAJ:cWzG1nlazyYC",
+      "authors": "K Singh, P Kumar, D Singh",
+      "publication": "Energy metabolism in animals, 193-195, 2001",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2001"
+    },
+    {
+      "title": "A boon for mountain populations. Large cardamom farming in the Sikkim Himalaya.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:6yz0xqPARnAC",
+      "citation_id": "3TMipekAAAAJ:6yz0xqPARnAC",
+      "authors": "ES Eklabya Sharma, RS Rita Sharma, KK Singh, G Sharma",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2000"
+    },
+    {
+      "title": "Seasonal adiposity and androstenedione production as a possible mechanism for asynchronous reproductive activity between males and females of vespertilionid bat, Scotophilus heathi",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:sJsF-0ZLhtgC",
+      "citation_id": "3TMipekAAAAJ:sJsF-0ZLhtgC",
+      "authors": "A Krishna, Abhilasha, K Singh",
+      "publication": "Acta Biologica Hungarica 51 (1), 37-44, 2000",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2000"
+    },
+    {
+      "title": "Plasma levels of sulfadimethoxine in buffalo calves after oral administration.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:jgBuDB5drN8C",
+      "citation_id": "3TMipekAAAAJ:jgBuDB5drN8C",
+      "authors": "BK Roy, M Sharma, K Jha, KK Singh, BK Tiwary",
+      "cited_by": {
+        "value": null
+      },
+      "year": "1999"
+    },
+    {
+      "title": "The Schroedinger equation for the potential x2+ λx2/(1+ gx2)",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:9c2xU6iGI7YC",
+      "citation_id": "3TMipekAAAAJ:9c2xU6iGI7YC",
+      "authors": "SN Pandey, K Singh",
+      "cited_by": {
+        "value": null
+      },
+      "year": "1997"
+    },
+    {
+      "title": "The Schroedinger equation for the potential x {sup 2}+{lambda} x {sup 2}/(1+ gx {sup 2})",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:XvxMoLDsR5gC",
+      "citation_id": "3TMipekAAAAJ:XvxMoLDsR5gC",
+      "authors": "SN Pandey, K Singh",
+      "publication": "National Academy Science Letters 20, 1997",
+      "cited_by": {
+        "value": null
+      },
+      "year": "1997"
+    },
+    {
+      "title": "Effect of chronic fenvalerate intoxication on the biokinetics of cephaloridine in goats.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:edDO8Oi4QzsC",
+      "citation_id": "3TMipekAAAAJ:edDO8Oi4QzsC",
+      "authors": "BK Roy, KK Singh, AK Shrivastava",
+      "cited_by": {
+        "value": null
+      },
+      "year": "1997"
+    },
+    {
+      "title": "Satellite remote sensing for surface water assessment and management of Bhopal Lake-An integrated approach",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:OP4eGU-M3BUC",
+      "citation_id": "3TMipekAAAAJ:OP4eGU-M3BUC",
+      "authors": "K Singh, NV Deshpande, B Sakalley, SN Rajak, J Kelsy",
+      "publication": "Remote Sensing Applications, Centre MP Council of Science & Technology …, 1991",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6173063548586944828",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6173063548586944828&engine=google_scholar&hl=en",
+        "cites_id": "6173063548586944828"
+      },
+      "year": "1991"
+    },
+    {
+      "title": "Milk production potential and nutrient requirements of Murrah buffaloes.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:M7yex6snE4oC",
+      "citation_id": "3TMipekAAAAJ:M7yex6snE4oC",
+      "authors": "SP Arora, RRP Sinha, KS Kirpal Singh, BS Balwant Singh",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14660374954003565866",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14660374954003565866&engine=google_scholar&hl=en",
+        "cites_id": "14660374954003565866"
+      },
+      "year": "1982"
+    },
+    {
+      "title": "Allahabad Safeda and Lucknow-49 guava varieties have potentiality in the low hills of Sikkim.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:PVgj2kMGcgYC",
+      "citation_id": "3TMipekAAAAJ:PVgj2kMGcgYC",
+      "authors": "GK Gurung, KK Singh",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17504084579635135354",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17504084579635135354&engine=google_scholar&hl=en",
+        "cites_id": "17504084579635135354"
+      },
+      "year": "1981"
+    },
+    {
+      "title": "Rapid Detection of Coliforms in Pasteurized Milk.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:oNZyr7d5Mn4C",
+      "citation_id": "3TMipekAAAAJ:oNZyr7d5Mn4C",
+      "authors": "K Singh, RN Sinha",
+      "publication": "Indian Journal of Dairy Science 34 (3), 305-309, 1981",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6315836942164211298",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6315836942164211298&engine=google_scholar&hl=en",
+        "cites_id": "6315836942164211298"
+      },
+      "year": "1981"
+    },
+    {
+      "title": "EFFECT OF CYCOCEL ON GROWTH AND YIELD OF RICE",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:IUKN3-7HHlwC",
+      "citation_id": "3TMipekAAAAJ:IUKN3-7HHlwC",
+      "authors": "A SINGH, KK SINGH",
+      "publication": "NATIONAL ACADEMY SCIENCE LETTERS-INDIA 2 (1), 1-2, 1979",
+      "cited_by": {
+        "value": null
+      },
+      "year": "1979"
+    },
+    {
+      "title": "Genotypes of rootstock and scion determining differential responses of navy bean lines (Phaseolus vulgaris L.) to iron-induced manganese chlorosis.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:nZcligLrVowC",
+      "citation_id": "3TMipekAAAAJ:nZcligLrVowC",
+      "authors": "KK Singh",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12999999107288851421",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12999999107288851421&engine=google_scholar&hl=en",
+        "cites_id": "12999999107288851421"
+      },
+      "year": "1975"
+    },
+    {
+      "title": "Modern trends in citrus growing in Japan.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:P7Ujq4OLJYoC",
+      "citation_id": "3TMipekAAAAJ:P7Ujq4OLJYoC",
+      "authors": "KK Singh",
+      "cited_by": {
+        "value": null
+      },
+      "year": "1966"
+    },
+    {
+      "title": "Citrus rootstock problems: experiments and advances.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:5MTHONV0fEkC",
+      "citation_id": "3TMipekAAAAJ:5MTHONV0fEkC",
+      "authors": "KK Singh",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=120855149921008647",
+        "serpapi_link": "https://serpapi.com/search.json?cites=120855149921008647&engine=google_scholar&hl=en",
+        "cites_id": "120855149921008647"
+      },
+      "year": "1961"
+    },
+    {
+      "title": "Rootstock effect on the fruit quality of Malta orange (Citrus sinensis Osbeck).",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:Ehil0879vHcC",
+      "citation_id": "3TMipekAAAAJ:Ehil0879vHcC",
+      "authors": "KK Singh",
+      "cited_by": {
+        "value": null
+      },
+      "year": "1954"
+    },
+    {
+      "title": "JARS v58n2-In Vitro Propagation of an Endangered Sikkim Himalayan Rhododendron (R. maddenii) from Cotyledonary Nodal Segments",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:zCSUwVk65WsC",
+      "citation_id": "3TMipekAAAAJ:zCSUwVk65WsC",
+      "authors": "S Kumar, KK Singh, LK Rai, S Unit, PO Tadong, SS Gangtok",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "EF FECT OF METH ODS OF IBA AP PLI CA TION ON ROOT ING PER FOR MANCE OF CRAPE JAS MINE (CHANDANI) SOFT WOOD CUT TINGS",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:nVrZBo8bIpAC",
+      "citation_id": "3TMipekAAAAJ:nVrZBo8bIpAC",
+      "authors": "JMS Rawat, KK Singh, V Rawat, B Singh",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "AI and Drone Technologies in Agriculture",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:ZzlSgRqYykMC",
+      "citation_id": "3TMipekAAAAJ:ZzlSgRqYykMC",
+      "authors": "A Sharma, AS Chahal, KK Singh, R Pathania",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5704936669448348566",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5704936669448348566&engine=google_scholar&hl=en",
+        "cites_id": "5704936669448348566"
+      },
+      "year": ""
+    },
+    {
+      "title": "Supp: Removing Distributional Discrepancies in Captions Improves Image-Text Alignment",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:LO7wyVUgiFcC",
+      "citation_id": "3TMipekAAAAJ:LO7wyVUgiFcC",
+      "authors": "Y Li, H Liu, M Cai, Y Li, E Shechtman, Z Lin, YJ Lee, KK Singh",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "A Comparative Study of Operative And Post Poperation Results In Early And Delayed Cholecystectomy In A Tertiary Level Hospital.",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:Ug5p-4gJ2f0C",
+      "citation_id": "3TMipekAAAAJ:Ug5p-4gJ2f0C",
+      "authors": "KK Singh, SK Pandey",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "Discovering and Mitigating Biases in CLIP-based Image Editing-Supplementary Material",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:e_rmSamDkqQC",
+      "citation_id": "3TMipekAAAAJ:e_rmSamDkqQC",
+      "authors": "MM Tanjim, KK Singh, K Kafle, R Sinha, GW Cottrell",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "Complete 3D Human Reconstruction From a Single Incomplete Image Supplemental Material",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:TIZ-Mc8IlK0C",
+      "citation_id": "3TMipekAAAAJ:TIZ-Mc8IlK0C",
+      "authors": "J Wang, JS Yoon, TY Wang, KK Singh, U Neumann",
+      "publication": "ICON 8 (1.467), 1.389, 0",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "VGFlow: Visibility guided Flow Network for Human Reposing Supplementary",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:KUbvn5osdkgC",
+      "citation_id": "3TMipekAAAAJ:KUbvn5osdkgC",
+      "authors": "R Jain, KK Singh, M Hemani, J Lu, M Sarkar, D Ceylan, B Krishnamurthy",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "Putting People in Their Place: Affordance-Aware Human Insertion into Scenes Supplementary Materials",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:g3aElNc5_aQC",
+      "citation_id": "3TMipekAAAAJ:g3aElNc5_aQC",
+      "authors": "S Kulal, T Brooks, A Aiken, J Wu, J Yang, J Lu, AA Efros, KK Singh",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "Supplementary Material: Elastic-InfoGAN: Unsupervised Disentangled Representation Learning in Class-Imbalanced Data",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:hMsQuOkrut0C",
+      "citation_id": "3TMipekAAAAJ:hMsQuOkrut0C",
+      "authors": "U Ojha, KK Singh, CJ Hsieh, YJ Lee",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "Supplementary Material: Contrastive Learning for Diverse Disentangled Foreground Generation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:uWiczbcajpAC",
+      "citation_id": "3TMipekAAAAJ:uWiczbcajpAC",
+      "authors": "Y Li, Y Li, J Lu, E Shechtman, YJ Lee, KK Singh",
+      "publication": "image 16, 2, 0",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "Hide-and-seek: A data augmentation technique for weakly-supervised localization and beyond. arXiv 2018",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:epqYDVWIO7EC",
+      "citation_id": "3TMipekAAAAJ:epqYDVWIO7EC",
+      "authors": "KK Singh, H Yu, A Sarmasi, G Pradeep, YJ Lee",
+      "publication": "arXiv preprint arXiv:1811.02545, 0",
+      "cited_by": {
+        "value": 11,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12418274705934949713",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12418274705934949713&engine=google_scholar&hl=en",
+        "cites_id": "12418274705934949713"
+      },
+      "year": ""
+    },
+    {
+      "title": "GIRAFFE HD: A High-Resolution 3D-aware Generative Model Supplementary Material",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:fEOibwPWpKIC",
+      "citation_id": "3TMipekAAAAJ:fEOibwPWpKIC",
+      "authors": "Y Xue, Y Li, KK Singh, YJ Lee",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "InsetGAN for Full-Body Image Generation: Supplementary Materials",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:-_dYPAW6P2MC",
+      "citation_id": "3TMipekAAAAJ:-_dYPAW6P2MC",
+      "authors": "A Frühstück, NJ Mitra, KK Singh, P Wonka, E Shechtman, J Lu",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "Dance In the Wild: Monocular Human Animation with Neural Dynamic Appearance Synthesis (Supplementary material)",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:Y5dfb0dijaUC",
+      "citation_id": "3TMipekAAAAJ:Y5dfb0dijaUC",
+      "authors": "TY Wang, D Ceylan, KK Singh, NJ Mitra",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "Supplementary Material: Collaging Class-specific GANs for Semantic Image Synthesis",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:t6usbXjVLHcC",
+      "citation_id": "3TMipekAAAAJ:t6usbXjVLHcC",
+      "authors": "Y Li, Y Li, J Lu, E Shechtman, YJ Lee, KK Singh",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "Fast Nearest Neighbors on Video Data",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:SP6oXDckpogC",
+      "citation_id": "3TMipekAAAAJ:SP6oXDckpogC",
+      "authors": "E Uboweja, KK Singh",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "Visual Wikipedia: Landmark Detection for Cities",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:UxriW0iASnsC",
+      "citation_id": "3TMipekAAAAJ:UxriW0iASnsC",
+      "authors": "A Bansal, A Saran, KK Singh, P Agrawal, P Parashar",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    },
+    {
+      "title": "Supplementary Material: KrishnaCam: Using a Longitudinal, Single-Person, Egocentric Dataset for Scene Understanding Tasks",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3TMipekAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=3TMipekAAAAJ:dshw04ExmUIC",
+      "citation_id": "3TMipekAAAAJ:dshw04ExmUIC",
+      "authors": "KK Singh, K Fatahalian, AA Efros",
+      "cited_by": {
+        "value": null
+      },
+      "year": ""
+    }
+  ],
+  "cited_by": {
+    "table": [
+      {
+        "citations": {
+          "all": 3731,
+          "since_2020": 3279
+        }
+      },
+      {
+        "h_index": {
+          "all": 23,
+          "since_2020": 23
+        }
+      },
+      {
+        "i10_index": {
+          "all": 43,
+          "since_2020": 41
+        }
+      }
+    ],
+    "graph": [
+      {
+        "year": 2013,
+        "citations": 12
+      },
+      {
+        "year": 2014,
+        "citations": 8
+      },
+      {
+        "year": 2015,
+        "citations": 12
+      },
+      {
+        "year": 2016,
+        "citations": 27
+      },
+      {
+        "year": 2017,
+        "citations": 50
+      },
+      {
+        "year": 2018,
+        "citations": 106
+      },
+      {
+        "year": 2019,
+        "citations": 164
+      },
+      {
+        "year": 2020,
+        "citations": 264
+      },
+      {
+        "year": 2021,
+        "citations": 373
+      },
+      {
+        "year": 2022,
+        "citations": 435
+      },
+      {
+        "year": 2023,
+        "citations": 649
+      },
+      {
+        "year": 2024,
+        "citations": 835
+      },
+      {
+        "year": 2025,
+        "citations": 712
+      }
+    ]
+  },
+  "public_access": {
+    "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=3TMipekAAAAJ",
+    "available": 22,
+    "not_available": 3
+  },
+  "co_authors": [
+    {
+      "name": "Yong Jae Lee",
+      "link": "https://scholar.google.com/citations?user=4GTpCxcAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=4GTpCxcAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "4GTpCxcAAAAJ",
+      "affiliations": "Professor of Computer Sciences, UW-Madison",
+      "email": "Verified email at wisc.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4GTpCxcAAAAJ&citpid=2"
+    },
+    {
+      "name": "Yijun Li",
+      "link": "https://scholar.google.com/citations?user=nrsWSt4AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=nrsWSt4AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "nrsWSt4AAAAJ",
+      "affiliations": "Adobe Research",
+      "email": "Verified email at adobe.com",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nrsWSt4AAAAJ&citpid=6"
+    },
+    {
+      "name": "Jun-Yan Zhu",
+      "link": "https://scholar.google.com/citations?user=UdpacsMAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=UdpacsMAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "UdpacsMAAAAJ",
+      "affiliations": "Assistant Professor, Carnegie Mellon University",
+      "email": "Verified email at cs.cmu.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=UdpacsMAAAAJ&citpid=7"
+    },
+    {
+      "name": "Richard Zhang",
+      "link": "https://scholar.google.com/citations?user=LW8ze_UAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=LW8ze_UAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "LW8ze_UAAAAJ",
+      "affiliations": "Senior Research Scientist, Adobe",
+      "email": "Verified email at adobe.com",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LW8ze_UAAAAJ&citpid=4"
+    },
+    {
+      "name": "Eli Shechtman",
+      "link": "https://scholar.google.com/citations?user=B_FTboQAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=B_FTboQAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "B_FTboQAAAAJ",
+      "affiliations": "Senior Principal Scientist, Adobe Research",
+      "email": "Verified email at adobe.com",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=B_FTboQAAAAJ&citpid=4"
+    },
+    {
+      "name": "Jingwan Lu",
+      "link": "https://scholar.google.com/citations?user=jN2Y51YAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=jN2Y51YAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "jN2Y51YAAAAJ",
+      "affiliations": "Adobe Research",
+      "email": "Verified email at adobe.com",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jN2Y51YAAAAJ&citpid=2"
+    },
+    {
+      "name": "Alexei A. Efros",
+      "link": "https://scholar.google.com/citations?user=d97bGd8AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=d97bGd8AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "d97bGd8AAAAJ",
+      "affiliations": "Dept. of Electrical Engineering and Computer Sciences, UC Berkeley",
+      "email": "Verified email at eecs.berkeley.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=d97bGd8AAAAJ&citpid=2"
+    },
+    {
+      "name": "Niloy J. Mitra",
+      "link": "https://scholar.google.com/citations?user=dPrZJWMAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=dPrZJWMAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "dPrZJWMAAAAJ",
+      "affiliations": "Professor of Computer Science, University College London (UCL) and Adobe Research London",
+      "email": "Verified email at cs.ucl.ac.uk",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dPrZJWMAAAAJ&citpid=4"
+    },
+    {
+      "name": "Fanyi Xiao",
+      "link": "https://scholar.google.com/citations?user=cuqP0dYAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=cuqP0dYAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "cuqP0dYAAAAJ",
+      "affiliations": "Meta AI",
+      "email": "Verified email at ucdavis.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=cuqP0dYAAAAJ&citpid=1"
+    },
+    {
+      "name": "Duygu Ceylan",
+      "link": "https://scholar.google.com/citations?user=56Kj2QoAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=56Kj2QoAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "56Kj2QoAAAAJ",
+      "affiliations": "ADOBE RESEARCH",
+      "email": "Verified email at adobe.com",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Tuanfeng Y. Wang",
+      "link": "https://scholar.google.com/citations?user=NJmBzK4AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=NJmBzK4AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "NJmBzK4AAAAJ",
+      "affiliations": "Adobe Research",
+      "email": "Verified email at ucl.ac.uk",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Kayvon Fatahalian",
+      "link": "https://scholar.google.com/citations?user=ZeG4wDgAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=ZeG4wDgAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "ZeG4wDgAAAAJ",
+      "affiliations": "Associate Professor of Computer Science, Stanford University",
+      "email": "Verified email at cs.stanford.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ZeG4wDgAAAAJ&citpid=1"
+    },
+    {
+      "name": "Dhruv Mahajan",
+      "link": "https://scholar.google.com/citations?user=Gd9HQn2UsNoC&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=Gd9HQn2UsNoC&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "Gd9HQn2UsNoC",
+      "affiliations": "Distinguished Scientist, Llama, Meta AI",
+      "email": "Verified email at fb.com",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Kristen Grauman",
+      "link": "https://scholar.google.com/citations?user=Jp6Mz1sAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=Jp6Mz1sAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "Jp6Mz1sAAAAJ",
+      "affiliations": "Professor of Computer Science, University of Texas at Austin",
+      "email": "Verified email at cs.utexas.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Jp6Mz1sAAAAJ&citpid=1"
+    },
+    {
+      "name": "Santosh Kumar Divvala",
+      "link": "https://scholar.google.com/citations?user=-DYvinwAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=-DYvinwAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "-DYvinwAAAAJ",
+      "affiliations": "AI2, UW",
+      "email": "Verified email at uw.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-DYvinwAAAAJ&citpid=3"
+    },
+    {
+      "name": "P J Narayanan",
+      "link": "https://scholar.google.com/citations?user=3HKjt_IAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=3HKjt_IAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "3HKjt_IAAAAJ",
+      "affiliations": "Professor, IIIT, Hyderabad",
+      "email": "Verified email at iiit.ac.in",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=3HKjt_IAAAAJ&citpid=2"
+    },
+    {
+      "name": "Michael S. Ryoo",
+      "link": "https://scholar.google.com/citations?user=vcw0TJIAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=vcw0TJIAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "vcw0TJIAAAAJ",
+      "affiliations": "Stony Brook University; Salesforce AI",
+      "email": "Verified email at cs.stonybrook.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vcw0TJIAAAAJ&citpid=3"
+    },
+    {
+      "name": "David Crandall",
+      "link": "https://scholar.google.com/citations?user=8bQRH5YAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=8bQRH5YAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "8bQRH5YAAAAJ",
+      "affiliations": "Professor of Computer Science, Indiana University",
+      "email": "Verified email at indiana.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8bQRH5YAAAAJ&citpid=5"
+    },
+    {
+      "name": "Ali Farhadi",
+      "link": "https://scholar.google.com/citations?user=jeOFRDsAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=jeOFRDsAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "jeOFRDsAAAAJ",
+      "affiliations": "Professor, Computer Science and Engineering, University of Washington",
+      "email": "Verified email at cs.uw.edu",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Aditya Deshpande",
+      "link": "https://scholar.google.com/citations?user=RO7F58MAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=RO7F58MAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=200",
+      "author_id": "RO7F58MAAAAJ",
+      "affiliations": "Research Scientist, Apple",
+      "email": "Verified email at apple.com",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=RO7F58MAAAAJ&citpid=2"
+    }
+  ],
+  "_note": "All papers retrieved."
+}

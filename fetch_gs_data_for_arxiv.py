@@ -9,7 +9,7 @@ import re
 import requests
 import os
 from urllib.parse import quote_plus
-from archived_code.parse_name_and_id_from_gs_for_arxiv.gs_utils import extract_authors_from_gs_html
+from archived_code.old_approach.parse_name_and_id_from_gs_for_arxiv.gs_utils import extract_authors_from_gs_html
 
 # Bright Data configuration
 headers = {
