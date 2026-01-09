@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 使用 arXiv API 抓取 cs.CV (计算机视觉) 类别的论文
-并为每篇论文生成 Google Scholar 链接
 """
 import requests
 import xml.etree.ElementTree as ET
