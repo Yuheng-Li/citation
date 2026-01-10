@@ -1,6 +1,6 @@
 import json
 import numpy as np
-from FlagEmbedding import BGEM3FlagModel
+from openai import OpenAI
 from tqdm import tqdm
 import os
 
@@ -30,30 +30,41 @@ if __name__ == '__main__':
     
     print(f"Papers with abstracts: {len(abstracts)}")
     
-    # 初始化模型
-    print("\nLoading BGE-M3 model...")
-    model = BGEM3FlagModel('BAAI/bge-m3', use_fp16=True, devices=['cuda:0'])
+    # 初始化OpenAI客户端
+    print("\nInitializing OpenAI client...")
+    endpoint = "http://pluto-prod-hawang-llm-proxy-9qtfav-0:4000"
+    api_key = "sk-2CtQupQUahmV2nXHAXjUxg"
+    
+    client = OpenAI(
+        api_key="Bearer " + api_key,
+        base_url=endpoint,
+    )
     
     # 计算embeddings (分批处理以避免内存问题)
-    print("\nComputing embeddings...")
-    batch_size = 64
+    print("\nComputing embeddings with OpenAI text-embedding-3-small...")
+    batch_size = 100  # OpenAI可以处理更大的batch
     all_embeddings = []
     
     for i in tqdm(range(0, len(abstracts), batch_size)):
         batch = abstracts[i:i+batch_size]
-        embeddings = model.encode(batch, batch_size=batch_size)['dense_vecs']
-        all_embeddings.append(embeddings)
+        response = client.embeddings.create(
+            model="text-embedding-3-small",
+            input=batch
+        )
+        batch_embeddings = [item.embedding for item in response.data]
+        all_embeddings.extend(batch_embeddings)
     
-    # 合并所有embeddings
-    all_embeddings = np.vstack(all_embeddings)
+    # 转换为numpy数组
+    all_embeddings = np.array(all_embeddings)
     print(f"\nEmbeddings shape: {all_embeddings.shape}")
     
-    # 保存到 /mnt/localssd
-    output_dir = '/mnt/localssd'
+    # 保存到独立文件夹
+    output_dir = '/mnt/localssd/paper_embeddings'
     os.makedirs(output_dir, exist_ok=True)
     
     embeddings_path = os.path.join(output_dir, 'paper_embeddings.npy')
     metadata_path = os.path.join(output_dir, 'paper_metadata.json')
+    id_to_idx_path = os.path.join(output_dir, 'arxiv_id_to_idx.json')
     
     print(f"\nSaving embeddings to {embeddings_path}...")
     np.save(embeddings_path, all_embeddings)
@@ -62,8 +73,15 @@ if __name__ == '__main__':
     with open(metadata_path, 'w') as f:
         json.dump(metadata, f, indent=2)
     
+    # 保存 arxiv_id -> index 映射
+    print(f"Saving ID mapping to {id_to_idx_path}...")
+    id_to_idx = {meta['arxiv_id']: i for i, meta in enumerate(metadata)}
+    with open(id_to_idx_path, 'w') as f:
+        json.dump(id_to_idx, f, indent=2)
+    
     print("\n✓ Done!")
     print(f"  - Embeddings: {embeddings_path} ({all_embeddings.shape})")
     print(f"  - Metadata: {metadata_path} ({len(metadata)} papers)")
+    print(f"  - ID Mapping: {id_to_idx_path} ({len(id_to_idx)} IDs)")
 
 
