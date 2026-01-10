@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """
-从1-5月的论文中随机采样n篇，获取Google Scholar数据（只提取ID）
+这是爬取Google Scholar数据的核心script: 
+
+从CV论文数据集中随机采样论文,取Google Scholar数据
+- 支持断点续传（跳过已处理的论文）
+- 提取Google Scholar作者ID、引用数量、作者数量
+- 保存原始HTML到 /mnt/localssd/raw_html/
 """
 import json
 import random
